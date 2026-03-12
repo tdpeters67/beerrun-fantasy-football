@@ -1,0 +1,8374 @@
+{
+  "scrapedAt": "2026-03-12T17:14:32.672Z",
+  "league": {
+    "id": "12456354",
+    "name": "BeerRun"
+  },
+  "standings": [
+    {
+      "teamId": "3",
+      "teamName": "Scott",
+      "owner": "Scott",
+      "wins": 12,
+      "losses": 5,
+      "ties": 0,
+      "pointsFor": 2333.72,
+      "pointsAgainst": 2095.38,
+      "weeklyScores": [
+        {
+          "week": 1,
+          "score": 149.92
+        },
+        {
+          "week": 2,
+          "score": 152.7
+        },
+        {
+          "week": 3,
+          "score": 123.26
+        },
+        {
+          "week": 4,
+          "score": 165.58
+        },
+        {
+          "week": 5,
+          "score": 129.6
+        },
+        {
+          "week": 6,
+          "score": 91.96
+        },
+        {
+          "week": 7,
+          "score": 122.16
+        },
+        {
+          "week": 8,
+          "score": 150.5
+        },
+        {
+          "week": 9,
+          "score": 124.32
+        },
+        {
+          "week": 10,
+          "score": 118.94
+        },
+        {
+          "week": 11,
+          "score": 136.06
+        },
+        {
+          "week": 12,
+          "score": 110.46
+        },
+        {
+          "week": 13,
+          "score": 147.54
+        },
+        {
+          "week": 14,
+          "score": 158.86
+        },
+        {
+          "week": 15,
+          "score": 125.2
+        },
+        {
+          "week": 16,
+          "score": 177.76
+        },
+        {
+          "week": 17,
+          "score": 148.9
+        }
+      ],
+      "highScore": 177.76,
+      "avgScore": 137.28,
+      "rank": 1,
+      "ownerId": "2"
+    },
+    {
+      "teamId": "14",
+      "teamName": "Cville Heuristicats",
+      "owner": "Dave",
+      "wins": 11,
+      "losses": 6,
+      "ties": 0,
+      "pointsFor": 2149.12,
+      "pointsAgainst": 1957.12,
+      "weeklyScores": [
+        {
+          "week": 1,
+          "score": 100.72
+        },
+        {
+          "week": 2,
+          "score": 85.84
+        },
+        {
+          "week": 3,
+          "score": 163.92
+        },
+        {
+          "week": 4,
+          "score": 135.78
+        },
+        {
+          "week": 5,
+          "score": 132.4
+        },
+        {
+          "week": 6,
+          "score": 148.38
+        },
+        {
+          "week": 7,
+          "score": 113.98
+        },
+        {
+          "week": 8,
+          "score": 103.08
+        },
+        {
+          "week": 9,
+          "score": 138.1
+        },
+        {
+          "week": 10,
+          "score": 147.6
+        },
+        {
+          "week": 11,
+          "score": 119.02
+        },
+        {
+          "week": 12,
+          "score": 127.14
+        },
+        {
+          "week": 13,
+          "score": 133.14
+        },
+        {
+          "week": 14,
+          "score": 99
+        },
+        {
+          "week": 15,
+          "score": 143.74
+        },
+        {
+          "week": 16,
+          "score": 129.48
+        },
+        {
+          "week": 17,
+          "score": 127.8
+        }
+      ],
+      "highScore": 163.92,
+      "avgScore": 126.42,
+      "rank": 2,
+      "ownerId": "10"
+    },
+    {
+      "teamId": "7",
+      "teamName": "Upbeat360Fly",
+      "owner": "Atiba",
+      "wins": 10,
+      "losses": 7,
+      "ties": 0,
+      "pointsFor": 2096.12,
+      "pointsAgainst": 1931.68,
+      "weeklyScores": [
+        {
+          "week": 1,
+          "score": 91.32
+        },
+        {
+          "week": 2,
+          "score": 134.68
+        },
+        {
+          "week": 3,
+          "score": 145.46
+        },
+        {
+          "week": 4,
+          "score": 171.3
+        },
+        {
+          "week": 5,
+          "score": 153.62
+        },
+        {
+          "week": 6,
+          "score": 145.8
+        },
+        {
+          "week": 7,
+          "score": 124.24
+        },
+        {
+          "week": 8,
+          "score": 115.02
+        },
+        {
+          "week": 9,
+          "score": 120.4
+        },
+        {
+          "week": 10,
+          "score": 113.28
+        },
+        {
+          "week": 11,
+          "score": 99.44
+        },
+        {
+          "week": 12,
+          "score": 132.28
+        },
+        {
+          "week": 13,
+          "score": 105.44
+        },
+        {
+          "week": 14,
+          "score": 85.2
+        },
+        {
+          "week": 15,
+          "score": 112.74
+        },
+        {
+          "week": 16,
+          "score": 117.92
+        },
+        {
+          "week": 17,
+          "score": 127.98
+        }
+      ],
+      "highScore": 171.3,
+      "avgScore": 123.3,
+      "rank": 3,
+      "ownerId": "5"
+    },
+    {
+      "teamId": "5",
+      "teamName": "Buck Nasty",
+      "owner": "Gerry",
+      "wins": 9,
+      "losses": 8,
+      "ties": 0,
+      "pointsFor": 2010.04,
+      "pointsAgainst": 1974.54,
+      "weeklyScores": [
+        {
+          "week": 1,
+          "score": 97.9
+        },
+        {
+          "week": 2,
+          "score": 120.56
+        },
+        {
+          "week": 3,
+          "score": 101.58
+        },
+        {
+          "week": 4,
+          "score": 91.62
+        },
+        {
+          "week": 5,
+          "score": 120.72
+        },
+        {
+          "week": 6,
+          "score": 102.72
+        },
+        {
+          "week": 7,
+          "score": 124.64
+        },
+        {
+          "week": 8,
+          "score": 123.62
+        },
+        {
+          "week": 9,
+          "score": 120.66
+        },
+        {
+          "week": 10,
+          "score": 142.8
+        },
+        {
+          "week": 11,
+          "score": 120
+        },
+        {
+          "week": 12,
+          "score": 83.72
+        },
+        {
+          "week": 13,
+          "score": 139.22
+        },
+        {
+          "week": 14,
+          "score": 135.56
+        },
+        {
+          "week": 15,
+          "score": 126.6
+        },
+        {
+          "week": 16,
+          "score": 139.1
+        },
+        {
+          "week": 17,
+          "score": 119.02
+        }
+      ],
+      "highScore": 142.8,
+      "avgScore": 118.24,
+      "rank": 4,
+      "ownerId": "12"
+    },
+    {
+      "teamId": "15",
+      "teamName": "Steamin Willy Beaman",
+      "owner": "William",
+      "wins": 9,
+      "losses": 8,
+      "ties": 0,
+      "pointsFor": 1947.1,
+      "pointsAgainst": 1992.12,
+      "weeklyScores": [
+        {
+          "week": 1,
+          "score": 101.62
+        },
+        {
+          "week": 2,
+          "score": 120.2
+        },
+        {
+          "week": 3,
+          "score": 128.32
+        },
+        {
+          "week": 4,
+          "score": 106.72
+        },
+        {
+          "week": 5,
+          "score": 102.24
+        },
+        {
+          "week": 6,
+          "score": 66.14
+        },
+        {
+          "week": 7,
+          "score": 114.04
+        },
+        {
+          "week": 8,
+          "score": 99.58
+        },
+        {
+          "week": 9,
+          "score": 92.26
+        },
+        {
+          "week": 10,
+          "score": 128.1
+        },
+        {
+          "week": 11,
+          "score": 80.64
+        },
+        {
+          "week": 12,
+          "score": 160.66
+        },
+        {
+          "week": 13,
+          "score": 105.48
+        },
+        {
+          "week": 14,
+          "score": 150.46
+        },
+        {
+          "week": 15,
+          "score": 131.8
+        },
+        {
+          "week": 16,
+          "score": 147
+        },
+        {
+          "week": 17,
+          "score": 111.84
+        }
+      ],
+      "highScore": 160.66,
+      "avgScore": 114.54,
+      "rank": 5,
+      "ownerId": "11"
+    },
+    {
+      "teamId": "2",
+      "teamName": "Samuel L Jaxson Dart",
+      "owner": "Tomas",
+      "wins": 7,
+      "losses": 10,
+      "ties": 0,
+      "pointsFor": 2040.76,
+      "pointsAgainst": 2102.96,
+      "weeklyScores": [
+        {
+          "week": 1,
+          "score": 121.28
+        },
+        {
+          "week": 2,
+          "score": 104.4
+        },
+        {
+          "week": 3,
+          "score": 111.12
+        },
+        {
+          "week": 4,
+          "score": 143.52
+        },
+        {
+          "week": 5,
+          "score": 114.54
+        },
+        {
+          "week": 6,
+          "score": 113.36
+        },
+        {
+          "week": 7,
+          "score": 138.52
+        },
+        {
+          "week": 8,
+          "score": 122.98
+        },
+        {
+          "week": 9,
+          "score": 124.5
+        },
+        {
+          "week": 10,
+          "score": 136.32
+        },
+        {
+          "week": 11,
+          "score": 80.24
+        },
+        {
+          "week": 12,
+          "score": 155.64
+        },
+        {
+          "week": 13,
+          "score": 104.64
+        },
+        {
+          "week": 14,
+          "score": 118.38
+        },
+        {
+          "week": 15,
+          "score": 90.48
+        },
+        {
+          "week": 16,
+          "score": 131.8
+        },
+        {
+          "week": 17,
+          "score": 129.04
+        }
+      ],
+      "highScore": 155.64,
+      "avgScore": 120.04,
+      "rank": 6,
+      "ownerId": "1"
+    },
+    {
+      "teamId": "11",
+      "teamName": "A Near Seth Experience",
+      "owner": "Seth",
+      "wins": 7,
+      "losses": 10,
+      "ties": 0,
+      "pointsFor": 1967.4,
+      "pointsAgainst": 2000.86,
+      "weeklyScores": [
+        {
+          "week": 1,
+          "score": 97.14
+        },
+        {
+          "week": 2,
+          "score": 119.24
+        },
+        {
+          "week": 3,
+          "score": 92.12
+        },
+        {
+          "week": 4,
+          "score": 112.24
+        },
+        {
+          "week": 5,
+          "score": 121.98
+        },
+        {
+          "week": 6,
+          "score": 155.96
+        },
+        {
+          "week": 7,
+          "score": 155.66
+        },
+        {
+          "week": 8,
+          "score": 124.58
+        },
+        {
+          "week": 9,
+          "score": 99.82
+        },
+        {
+          "week": 10,
+          "score": 113.9
+        },
+        {
+          "week": 11,
+          "score": 93.5
+        },
+        {
+          "week": 12,
+          "score": 116.72
+        },
+        {
+          "week": 13,
+          "score": 123.34
+        },
+        {
+          "week": 14,
+          "score": 94.04
+        },
+        {
+          "week": 15,
+          "score": 158.32
+        },
+        {
+          "week": 16,
+          "score": 84.88
+        },
+        {
+          "week": 17,
+          "score": 103.96
+        }
+      ],
+      "highScore": 158.32,
+      "avgScore": 115.73,
+      "rank": 7,
+      "ownerId": "7"
+    },
+    {
+      "teamId": "4",
+      "teamName": "La PortaPotty",
+      "owner": "Jason",
+      "wins": 7,
+      "losses": 10,
+      "ties": 0,
+      "pointsFor": 1915.68,
+      "pointsAgainst": 1968.18,
+      "weeklyScores": [
+        {
+          "week": 1,
+          "score": 115.28
+        },
+        {
+          "week": 2,
+          "score": 118.84
+        },
+        {
+          "week": 3,
+          "score": 114.94
+        },
+        {
+          "week": 4,
+          "score": 110.2
+        },
+        {
+          "week": 5,
+          "score": 102.88
+        },
+        {
+          "week": 6,
+          "score": 105.52
+        },
+        {
+          "week": 7,
+          "score": 129.04
+        },
+        {
+          "week": 8,
+          "score": 167.96
+        },
+        {
+          "week": 9,
+          "score": 94.6
+        },
+        {
+          "week": 10,
+          "score": 144.22
+        },
+        {
+          "week": 11,
+          "score": 77.2
+        },
+        {
+          "week": 12,
+          "score": 108.36
+        },
+        {
+          "week": 13,
+          "score": 102.8
+        },
+        {
+          "week": 14,
+          "score": 111.04
+        },
+        {
+          "week": 15,
+          "score": 145.06
+        },
+        {
+          "week": 16,
+          "score": 87.36
+        },
+        {
+          "week": 17,
+          "score": 80.38
+        }
+      ],
+      "highScore": 167.96,
+      "avgScore": 112.69,
+      "rank": 8,
+      "ownerId": "3"
+    },
+    {
+      "teamId": "6",
+      "teamName": "Half Order Nachos",
+      "owner": "Fred",
+      "wins": 6,
+      "losses": 9,
+      "ties": 0,
+      "pointsFor": 1618.86,
+      "pointsAgainst": 1782.06,
+      "weeklyScores": [
+        {
+          "week": 1,
+          "score": 111.66
+        },
+        {
+          "week": 2,
+          "score": 102.12
+        },
+        {
+          "week": 3,
+          "score": 129.32
+        },
+        {
+          "week": 4,
+          "score": 108.56
+        },
+        {
+          "week": 5,
+          "score": 128.22
+        },
+        {
+          "week": 6,
+          "score": 77.1
+        },
+        {
+          "week": 7,
+          "score": 120.22
+        },
+        {
+          "week": 8,
+          "score": 108.52
+        },
+        {
+          "week": 9,
+          "score": 111.92
+        },
+        {
+          "week": 10,
+          "score": 83.24
+        },
+        {
+          "week": 11,
+          "score": 117.88
+        },
+        {
+          "week": 12,
+          "score": 72.42
+        },
+        {
+          "week": 13,
+          "score": 106.32
+        },
+        {
+          "week": 14,
+          "score": 117.54
+        },
+        {
+          "week": 15,
+          "score": 123.82
+        }
+      ],
+      "highScore": 129.32,
+      "avgScore": 107.92,
+      "rank": 9,
+      "ownerId": "4"
+    },
+    {
+      "teamId": "9",
+      "teamName": "The Hazy Gang",
+      "owner": "Chris (WV)",
+      "wins": 5,
+      "losses": 10,
+      "ties": 0,
+      "pointsFor": 1539.62,
+      "pointsAgainst": 1813.52,
+      "weeklyScores": [
+        {
+          "week": 1,
+          "score": 123.76
+        },
+        {
+          "week": 2,
+          "score": 90.3
+        },
+        {
+          "week": 3,
+          "score": 87.32
+        },
+        {
+          "week": 4,
+          "score": 91.38
+        },
+        {
+          "week": 5,
+          "score": 98.62
+        },
+        {
+          "week": 6,
+          "score": 108
+        },
+        {
+          "week": 7,
+          "score": 64.04
+        },
+        {
+          "week": 8,
+          "score": 98.16
+        },
+        {
+          "week": 9,
+          "score": 168.36
+        },
+        {
+          "week": 10,
+          "score": 114.64
+        },
+        {
+          "week": 11,
+          "score": 105.12
+        },
+        {
+          "week": 12,
+          "score": 95.82
+        },
+        {
+          "week": 13,
+          "score": 78.04
+        },
+        {
+          "week": 14,
+          "score": 97.46
+        },
+        {
+          "week": 15,
+          "score": 118.6
+        }
+      ],
+      "highScore": 168.36,
+      "avgScore": 102.64,
+      "rank": 10,
+      "ownerId": "6"
+    }
+  ],
+  "teamSummaries": [
+    {
+      "teamId": "3",
+      "teamName": "Scott",
+      "owner": "Scott",
+      "wins": 12,
+      "losses": 5,
+      "ties": 0,
+      "pointsFor": 2333.72,
+      "pointsAgainst": 2095.38,
+      "weeklyScores": [
+        {
+          "week": 1,
+          "score": 149.92
+        },
+        {
+          "week": 2,
+          "score": 152.7
+        },
+        {
+          "week": 3,
+          "score": 123.26
+        },
+        {
+          "week": 4,
+          "score": 165.58
+        },
+        {
+          "week": 5,
+          "score": 129.6
+        },
+        {
+          "week": 6,
+          "score": 91.96
+        },
+        {
+          "week": 7,
+          "score": 122.16
+        },
+        {
+          "week": 8,
+          "score": 150.5
+        },
+        {
+          "week": 9,
+          "score": 124.32
+        },
+        {
+          "week": 10,
+          "score": 118.94
+        },
+        {
+          "week": 11,
+          "score": 136.06
+        },
+        {
+          "week": 12,
+          "score": 110.46
+        },
+        {
+          "week": 13,
+          "score": 147.54
+        },
+        {
+          "week": 14,
+          "score": 158.86
+        },
+        {
+          "week": 15,
+          "score": 125.2
+        },
+        {
+          "week": 16,
+          "score": 177.76
+        },
+        {
+          "week": 17,
+          "score": 148.9
+        }
+      ],
+      "highScore": 177.76,
+      "avgScore": 137.28,
+      "rank": 1,
+      "ownerId": "2"
+    },
+    {
+      "teamId": "14",
+      "teamName": "Cville Heuristicats",
+      "owner": "Dave",
+      "wins": 11,
+      "losses": 6,
+      "ties": 0,
+      "pointsFor": 2149.12,
+      "pointsAgainst": 1957.12,
+      "weeklyScores": [
+        {
+          "week": 1,
+          "score": 100.72
+        },
+        {
+          "week": 2,
+          "score": 85.84
+        },
+        {
+          "week": 3,
+          "score": 163.92
+        },
+        {
+          "week": 4,
+          "score": 135.78
+        },
+        {
+          "week": 5,
+          "score": 132.4
+        },
+        {
+          "week": 6,
+          "score": 148.38
+        },
+        {
+          "week": 7,
+          "score": 113.98
+        },
+        {
+          "week": 8,
+          "score": 103.08
+        },
+        {
+          "week": 9,
+          "score": 138.1
+        },
+        {
+          "week": 10,
+          "score": 147.6
+        },
+        {
+          "week": 11,
+          "score": 119.02
+        },
+        {
+          "week": 12,
+          "score": 127.14
+        },
+        {
+          "week": 13,
+          "score": 133.14
+        },
+        {
+          "week": 14,
+          "score": 99
+        },
+        {
+          "week": 15,
+          "score": 143.74
+        },
+        {
+          "week": 16,
+          "score": 129.48
+        },
+        {
+          "week": 17,
+          "score": 127.8
+        }
+      ],
+      "highScore": 163.92,
+      "avgScore": 126.42,
+      "rank": 2,
+      "ownerId": "10"
+    },
+    {
+      "teamId": "7",
+      "teamName": "Upbeat360Fly",
+      "owner": "Atiba",
+      "wins": 10,
+      "losses": 7,
+      "ties": 0,
+      "pointsFor": 2096.12,
+      "pointsAgainst": 1931.68,
+      "weeklyScores": [
+        {
+          "week": 1,
+          "score": 91.32
+        },
+        {
+          "week": 2,
+          "score": 134.68
+        },
+        {
+          "week": 3,
+          "score": 145.46
+        },
+        {
+          "week": 4,
+          "score": 171.3
+        },
+        {
+          "week": 5,
+          "score": 153.62
+        },
+        {
+          "week": 6,
+          "score": 145.8
+        },
+        {
+          "week": 7,
+          "score": 124.24
+        },
+        {
+          "week": 8,
+          "score": 115.02
+        },
+        {
+          "week": 9,
+          "score": 120.4
+        },
+        {
+          "week": 10,
+          "score": 113.28
+        },
+        {
+          "week": 11,
+          "score": 99.44
+        },
+        {
+          "week": 12,
+          "score": 132.28
+        },
+        {
+          "week": 13,
+          "score": 105.44
+        },
+        {
+          "week": 14,
+          "score": 85.2
+        },
+        {
+          "week": 15,
+          "score": 112.74
+        },
+        {
+          "week": 16,
+          "score": 117.92
+        },
+        {
+          "week": 17,
+          "score": 127.98
+        }
+      ],
+      "highScore": 171.3,
+      "avgScore": 123.3,
+      "rank": 3,
+      "ownerId": "5"
+    },
+    {
+      "teamId": "5",
+      "teamName": "Buck Nasty",
+      "owner": "Gerry",
+      "wins": 9,
+      "losses": 8,
+      "ties": 0,
+      "pointsFor": 2010.04,
+      "pointsAgainst": 1974.54,
+      "weeklyScores": [
+        {
+          "week": 1,
+          "score": 97.9
+        },
+        {
+          "week": 2,
+          "score": 120.56
+        },
+        {
+          "week": 3,
+          "score": 101.58
+        },
+        {
+          "week": 4,
+          "score": 91.62
+        },
+        {
+          "week": 5,
+          "score": 120.72
+        },
+        {
+          "week": 6,
+          "score": 102.72
+        },
+        {
+          "week": 7,
+          "score": 124.64
+        },
+        {
+          "week": 8,
+          "score": 123.62
+        },
+        {
+          "week": 9,
+          "score": 120.66
+        },
+        {
+          "week": 10,
+          "score": 142.8
+        },
+        {
+          "week": 11,
+          "score": 120
+        },
+        {
+          "week": 12,
+          "score": 83.72
+        },
+        {
+          "week": 13,
+          "score": 139.22
+        },
+        {
+          "week": 14,
+          "score": 135.56
+        },
+        {
+          "week": 15,
+          "score": 126.6
+        },
+        {
+          "week": 16,
+          "score": 139.1
+        },
+        {
+          "week": 17,
+          "score": 119.02
+        }
+      ],
+      "highScore": 142.8,
+      "avgScore": 118.24,
+      "rank": 4,
+      "ownerId": "12"
+    },
+    {
+      "teamId": "15",
+      "teamName": "Steamin Willy Beaman",
+      "owner": "William",
+      "wins": 9,
+      "losses": 8,
+      "ties": 0,
+      "pointsFor": 1947.1,
+      "pointsAgainst": 1992.12,
+      "weeklyScores": [
+        {
+          "week": 1,
+          "score": 101.62
+        },
+        {
+          "week": 2,
+          "score": 120.2
+        },
+        {
+          "week": 3,
+          "score": 128.32
+        },
+        {
+          "week": 4,
+          "score": 106.72
+        },
+        {
+          "week": 5,
+          "score": 102.24
+        },
+        {
+          "week": 6,
+          "score": 66.14
+        },
+        {
+          "week": 7,
+          "score": 114.04
+        },
+        {
+          "week": 8,
+          "score": 99.58
+        },
+        {
+          "week": 9,
+          "score": 92.26
+        },
+        {
+          "week": 10,
+          "score": 128.1
+        },
+        {
+          "week": 11,
+          "score": 80.64
+        },
+        {
+          "week": 12,
+          "score": 160.66
+        },
+        {
+          "week": 13,
+          "score": 105.48
+        },
+        {
+          "week": 14,
+          "score": 150.46
+        },
+        {
+          "week": 15,
+          "score": 131.8
+        },
+        {
+          "week": 16,
+          "score": 147
+        },
+        {
+          "week": 17,
+          "score": 111.84
+        }
+      ],
+      "highScore": 160.66,
+      "avgScore": 114.54,
+      "rank": 5,
+      "ownerId": "11"
+    },
+    {
+      "teamId": "2",
+      "teamName": "Samuel L Jaxson Dart",
+      "owner": "Tomas",
+      "wins": 7,
+      "losses": 10,
+      "ties": 0,
+      "pointsFor": 2040.76,
+      "pointsAgainst": 2102.96,
+      "weeklyScores": [
+        {
+          "week": 1,
+          "score": 121.28
+        },
+        {
+          "week": 2,
+          "score": 104.4
+        },
+        {
+          "week": 3,
+          "score": 111.12
+        },
+        {
+          "week": 4,
+          "score": 143.52
+        },
+        {
+          "week": 5,
+          "score": 114.54
+        },
+        {
+          "week": 6,
+          "score": 113.36
+        },
+        {
+          "week": 7,
+          "score": 138.52
+        },
+        {
+          "week": 8,
+          "score": 122.98
+        },
+        {
+          "week": 9,
+          "score": 124.5
+        },
+        {
+          "week": 10,
+          "score": 136.32
+        },
+        {
+          "week": 11,
+          "score": 80.24
+        },
+        {
+          "week": 12,
+          "score": 155.64
+        },
+        {
+          "week": 13,
+          "score": 104.64
+        },
+        {
+          "week": 14,
+          "score": 118.38
+        },
+        {
+          "week": 15,
+          "score": 90.48
+        },
+        {
+          "week": 16,
+          "score": 131.8
+        },
+        {
+          "week": 17,
+          "score": 129.04
+        }
+      ],
+      "highScore": 155.64,
+      "avgScore": 120.04,
+      "rank": 6,
+      "ownerId": "1"
+    },
+    {
+      "teamId": "11",
+      "teamName": "A Near Seth Experience",
+      "owner": "Seth",
+      "wins": 7,
+      "losses": 10,
+      "ties": 0,
+      "pointsFor": 1967.4,
+      "pointsAgainst": 2000.86,
+      "weeklyScores": [
+        {
+          "week": 1,
+          "score": 97.14
+        },
+        {
+          "week": 2,
+          "score": 119.24
+        },
+        {
+          "week": 3,
+          "score": 92.12
+        },
+        {
+          "week": 4,
+          "score": 112.24
+        },
+        {
+          "week": 5,
+          "score": 121.98
+        },
+        {
+          "week": 6,
+          "score": 155.96
+        },
+        {
+          "week": 7,
+          "score": 155.66
+        },
+        {
+          "week": 8,
+          "score": 124.58
+        },
+        {
+          "week": 9,
+          "score": 99.82
+        },
+        {
+          "week": 10,
+          "score": 113.9
+        },
+        {
+          "week": 11,
+          "score": 93.5
+        },
+        {
+          "week": 12,
+          "score": 116.72
+        },
+        {
+          "week": 13,
+          "score": 123.34
+        },
+        {
+          "week": 14,
+          "score": 94.04
+        },
+        {
+          "week": 15,
+          "score": 158.32
+        },
+        {
+          "week": 16,
+          "score": 84.88
+        },
+        {
+          "week": 17,
+          "score": 103.96
+        }
+      ],
+      "highScore": 158.32,
+      "avgScore": 115.73,
+      "rank": 7,
+      "ownerId": "7"
+    },
+    {
+      "teamId": "4",
+      "teamName": "La PortaPotty",
+      "owner": "Jason",
+      "wins": 7,
+      "losses": 10,
+      "ties": 0,
+      "pointsFor": 1915.68,
+      "pointsAgainst": 1968.18,
+      "weeklyScores": [
+        {
+          "week": 1,
+          "score": 115.28
+        },
+        {
+          "week": 2,
+          "score": 118.84
+        },
+        {
+          "week": 3,
+          "score": 114.94
+        },
+        {
+          "week": 4,
+          "score": 110.2
+        },
+        {
+          "week": 5,
+          "score": 102.88
+        },
+        {
+          "week": 6,
+          "score": 105.52
+        },
+        {
+          "week": 7,
+          "score": 129.04
+        },
+        {
+          "week": 8,
+          "score": 167.96
+        },
+        {
+          "week": 9,
+          "score": 94.6
+        },
+        {
+          "week": 10,
+          "score": 144.22
+        },
+        {
+          "week": 11,
+          "score": 77.2
+        },
+        {
+          "week": 12,
+          "score": 108.36
+        },
+        {
+          "week": 13,
+          "score": 102.8
+        },
+        {
+          "week": 14,
+          "score": 111.04
+        },
+        {
+          "week": 15,
+          "score": 145.06
+        },
+        {
+          "week": 16,
+          "score": 87.36
+        },
+        {
+          "week": 17,
+          "score": 80.38
+        }
+      ],
+      "highScore": 167.96,
+      "avgScore": 112.69,
+      "rank": 8,
+      "ownerId": "3"
+    },
+    {
+      "teamId": "6",
+      "teamName": "Half Order Nachos",
+      "owner": "Fred",
+      "wins": 6,
+      "losses": 9,
+      "ties": 0,
+      "pointsFor": 1618.86,
+      "pointsAgainst": 1782.06,
+      "weeklyScores": [
+        {
+          "week": 1,
+          "score": 111.66
+        },
+        {
+          "week": 2,
+          "score": 102.12
+        },
+        {
+          "week": 3,
+          "score": 129.32
+        },
+        {
+          "week": 4,
+          "score": 108.56
+        },
+        {
+          "week": 5,
+          "score": 128.22
+        },
+        {
+          "week": 6,
+          "score": 77.1
+        },
+        {
+          "week": 7,
+          "score": 120.22
+        },
+        {
+          "week": 8,
+          "score": 108.52
+        },
+        {
+          "week": 9,
+          "score": 111.92
+        },
+        {
+          "week": 10,
+          "score": 83.24
+        },
+        {
+          "week": 11,
+          "score": 117.88
+        },
+        {
+          "week": 12,
+          "score": 72.42
+        },
+        {
+          "week": 13,
+          "score": 106.32
+        },
+        {
+          "week": 14,
+          "score": 117.54
+        },
+        {
+          "week": 15,
+          "score": 123.82
+        }
+      ],
+      "highScore": 129.32,
+      "avgScore": 107.92,
+      "rank": 9,
+      "ownerId": "4"
+    },
+    {
+      "teamId": "9",
+      "teamName": "The Hazy Gang",
+      "owner": "Chris (WV)",
+      "wins": 5,
+      "losses": 10,
+      "ties": 0,
+      "pointsFor": 1539.62,
+      "pointsAgainst": 1813.52,
+      "weeklyScores": [
+        {
+          "week": 1,
+          "score": 123.76
+        },
+        {
+          "week": 2,
+          "score": 90.3
+        },
+        {
+          "week": 3,
+          "score": 87.32
+        },
+        {
+          "week": 4,
+          "score": 91.38
+        },
+        {
+          "week": 5,
+          "score": 98.62
+        },
+        {
+          "week": 6,
+          "score": 108
+        },
+        {
+          "week": 7,
+          "score": 64.04
+        },
+        {
+          "week": 8,
+          "score": 98.16
+        },
+        {
+          "week": 9,
+          "score": 168.36
+        },
+        {
+          "week": 10,
+          "score": 114.64
+        },
+        {
+          "week": 11,
+          "score": 105.12
+        },
+        {
+          "week": 12,
+          "score": 95.82
+        },
+        {
+          "week": 13,
+          "score": 78.04
+        },
+        {
+          "week": 14,
+          "score": 97.46
+        },
+        {
+          "week": 15,
+          "score": 118.6
+        }
+      ],
+      "highScore": 168.36,
+      "avgScore": 102.64,
+      "rank": 10,
+      "ownerId": "6"
+    }
+  ],
+  "matchups": [
+    {
+      "week": 1,
+      "homeTeamId": "1",
+      "homeTeamName": "Is Mayonnaise a Quarterback",
+      "homeScore": 145.42,
+      "awayTeamId": "7",
+      "awayTeamName": "Upbeat360Fly",
+      "awayScore": 118.36,
+      "winner": "1"
+    },
+    {
+      "week": 1,
+      "homeTeamId": "3",
+      "homeTeamName": "Scott",
+      "homeScore": 118.06,
+      "awayTeamId": "4",
+      "awayTeamName": "La PortaPotty",
+      "awayScore": 114.62,
+      "winner": "3"
+    },
+    {
+      "week": 1,
+      "homeTeamId": "5",
+      "homeTeamName": "Buck Nasty",
+      "homeScore": 146.24,
+      "awayTeamId": "6",
+      "awayTeamName": "Half Order Nachos",
+      "awayScore": 111.38,
+      "winner": "5"
+    },
+    {
+      "week": 1,
+      "homeTeamId": "13",
+      "homeTeamName": "Hawk Tua Tagovailoa",
+      "homeScore": 97.02,
+      "awayTeamId": "12",
+      "awayTeamName": "Tiina Gail",
+      "awayScore": 78.76,
+      "winner": "13"
+    },
+    {
+      "week": 1,
+      "homeTeamId": "8",
+      "homeTeamName": "The Sour Gang",
+      "homeScore": 119.38,
+      "awayTeamId": "10",
+      "awayTeamName": "GloboGymPurpleCobras",
+      "awayScore": 120.28,
+      "winner": "10"
+    },
+    {
+      "week": 2,
+      "homeTeamId": "1",
+      "homeTeamName": "Is Mayonnaise a Quarterback",
+      "homeScore": 109.72,
+      "awayTeamId": "12",
+      "awayTeamName": "Tiina Gail",
+      "awayScore": 149.22,
+      "winner": "12"
+    },
+    {
+      "week": 2,
+      "homeTeamId": "5",
+      "homeTeamName": "Buck Nasty",
+      "homeScore": 112.54,
+      "awayTeamId": "3",
+      "awayTeamName": "Scott",
+      "awayScore": 109.12,
+      "winner": "5"
+    },
+    {
+      "week": 2,
+      "homeTeamId": "4",
+      "homeTeamName": "La PortaPotty",
+      "homeScore": 83.64,
+      "awayTeamId": "13",
+      "awayTeamName": "Hawk Tua Tagovailoa",
+      "awayScore": 165.48,
+      "winner": "13"
+    },
+    {
+      "week": 2,
+      "homeTeamId": "6",
+      "homeTeamName": "Half Order Nachos",
+      "homeScore": 100.36,
+      "awayTeamId": "8",
+      "awayTeamName": "The Sour Gang",
+      "awayScore": 91.38,
+      "winner": "6"
+    },
+    {
+      "week": 2,
+      "homeTeamId": "10",
+      "homeTeamName": "GloboGymPurpleCobras",
+      "homeScore": 141.46,
+      "awayTeamId": "7",
+      "awayTeamName": "Upbeat360Fly",
+      "awayScore": 115.4,
+      "winner": "10"
+    },
+    {
+      "week": 3,
+      "homeTeamId": "1",
+      "homeTeamName": "Is Mayonnaise a Quarterback",
+      "homeScore": 129.76,
+      "awayTeamId": "4",
+      "awayTeamName": "La PortaPotty",
+      "awayScore": 113.86,
+      "winner": "1"
+    },
+    {
+      "week": 3,
+      "homeTeamId": "3",
+      "homeTeamName": "Scott",
+      "homeScore": 138.16,
+      "awayTeamId": "13",
+      "awayTeamName": "Hawk Tua Tagovailoa",
+      "awayScore": 112.88,
+      "winner": "3"
+    },
+    {
+      "week": 3,
+      "homeTeamId": "8",
+      "homeTeamName": "The Sour Gang",
+      "homeScore": 93.38,
+      "awayTeamId": "5",
+      "awayTeamName": "Buck Nasty",
+      "awayScore": 79.88,
+      "winner": "8"
+    },
+    {
+      "week": 3,
+      "homeTeamId": "7",
+      "homeTeamName": "Upbeat360Fly",
+      "homeScore": 105.1,
+      "awayTeamId": "6",
+      "awayTeamName": "Half Order Nachos",
+      "awayScore": 118.68,
+      "winner": "6"
+    },
+    {
+      "week": 3,
+      "homeTeamId": "10",
+      "homeTeamName": "GloboGymPurpleCobras",
+      "homeScore": 147.22,
+      "awayTeamId": "12",
+      "awayTeamName": "Tiina Gail",
+      "awayScore": 105.46,
+      "winner": "10"
+    },
+    {
+      "week": 4,
+      "homeTeamId": "1",
+      "homeTeamName": "Is Mayonnaise a Quarterback",
+      "homeScore": 126.52,
+      "awayTeamId": "13",
+      "awayTeamName": "Hawk Tua Tagovailoa",
+      "awayScore": 130.52,
+      "winner": "13"
+    },
+    {
+      "week": 4,
+      "homeTeamId": "8",
+      "homeTeamName": "The Sour Gang",
+      "homeScore": 113.08,
+      "awayTeamId": "3",
+      "awayTeamName": "Scott",
+      "awayScore": 147.28,
+      "winner": "3"
+    },
+    {
+      "week": 4,
+      "homeTeamId": "5",
+      "homeTeamName": "Buck Nasty",
+      "homeScore": 117.5,
+      "awayTeamId": "7",
+      "awayTeamName": "Upbeat360Fly",
+      "awayScore": 91,
+      "winner": "5"
+    },
+    {
+      "week": 4,
+      "homeTeamId": "4",
+      "homeTeamName": "La PortaPotty",
+      "homeScore": 107.82,
+      "awayTeamId": "10",
+      "awayTeamName": "GloboGymPurpleCobras",
+      "awayScore": 112,
+      "winner": "10"
+    },
+    {
+      "week": 4,
+      "homeTeamId": "6",
+      "homeTeamName": "Half Order Nachos",
+      "homeScore": 114.96,
+      "awayTeamId": "12",
+      "awayTeamName": "Tiina Gail",
+      "awayScore": 108.64,
+      "winner": "6"
+    },
+    {
+      "week": 5,
+      "homeTeamId": "1",
+      "homeTeamName": "Is Mayonnaise a Quarterback",
+      "homeScore": 120.66,
+      "awayTeamId": "3",
+      "awayTeamName": "Scott",
+      "awayScore": 129.56,
+      "winner": "3"
+    },
+    {
+      "week": 5,
+      "homeTeamId": "7",
+      "homeTeamName": "Upbeat360Fly",
+      "homeScore": 111.04,
+      "awayTeamId": "8",
+      "awayTeamName": "The Sour Gang",
+      "awayScore": 172.3,
+      "winner": "8"
+    },
+    {
+      "week": 5,
+      "homeTeamId": "10",
+      "homeTeamName": "GloboGymPurpleCobras",
+      "homeScore": 100.94,
+      "awayTeamId": "13",
+      "awayTeamName": "Hawk Tua Tagovailoa",
+      "awayScore": 126.52,
+      "winner": "13"
+    },
+    {
+      "week": 5,
+      "homeTeamId": "12",
+      "homeTeamName": "Tiina Gail",
+      "homeScore": 101.38,
+      "awayTeamId": "5",
+      "awayTeamName": "Buck Nasty",
+      "awayScore": 98.64,
+      "winner": "12"
+    },
+    {
+      "week": 5,
+      "homeTeamId": "6",
+      "homeTeamName": "Half Order Nachos",
+      "homeScore": 119.5,
+      "awayTeamId": "4",
+      "awayTeamName": "La PortaPotty",
+      "awayScore": 139.52,
+      "winner": "4"
+    },
+    {
+      "week": 6,
+      "homeTeamId": "1",
+      "homeTeamName": "Is Mayonnaise a Quarterback",
+      "homeScore": 118.96,
+      "awayTeamId": "10",
+      "awayTeamName": "GloboGymPurpleCobras",
+      "awayScore": 130.3,
+      "winner": "10"
+    },
+    {
+      "week": 6,
+      "homeTeamId": "7",
+      "homeTeamName": "Upbeat360Fly",
+      "homeScore": 102,
+      "awayTeamId": "3",
+      "awayTeamName": "Scott",
+      "awayScore": 132.22,
+      "winner": "3"
+    },
+    {
+      "week": 6,
+      "homeTeamId": "8",
+      "homeTeamName": "The Sour Gang",
+      "homeScore": 121.66,
+      "awayTeamId": "12",
+      "awayTeamName": "Tiina Gail",
+      "awayScore": 85.52,
+      "winner": "8"
+    },
+    {
+      "week": 6,
+      "homeTeamId": "13",
+      "homeTeamName": "Hawk Tua Tagovailoa",
+      "homeScore": 103.52,
+      "awayTeamId": "6",
+      "awayTeamName": "Half Order Nachos",
+      "awayScore": 106.1,
+      "winner": "6"
+    },
+    {
+      "week": 6,
+      "homeTeamId": "5",
+      "homeTeamName": "Buck Nasty",
+      "homeScore": 129.3,
+      "awayTeamId": "4",
+      "awayTeamName": "La PortaPotty",
+      "awayScore": 143.76,
+      "winner": "4"
+    },
+    {
+      "week": 7,
+      "homeTeamId": "1",
+      "homeTeamName": "Is Mayonnaise a Quarterback",
+      "homeScore": 113.26,
+      "awayTeamId": "6",
+      "awayTeamName": "Half Order Nachos",
+      "awayScore": 140.1,
+      "winner": "6"
+    },
+    {
+      "week": 7,
+      "homeTeamId": "3",
+      "homeTeamName": "Scott",
+      "homeScore": 172.74,
+      "awayTeamId": "10",
+      "awayTeamName": "GloboGymPurpleCobras",
+      "awayScore": 84.82,
+      "winner": "3"
+    },
+    {
+      "week": 7,
+      "homeTeamId": "12",
+      "homeTeamName": "Tiina Gail",
+      "homeScore": 100.1,
+      "awayTeamId": "7",
+      "awayTeamName": "Upbeat360Fly",
+      "awayScore": 110.6,
+      "winner": "7"
+    },
+    {
+      "week": 7,
+      "homeTeamId": "4",
+      "homeTeamName": "La PortaPotty",
+      "homeScore": 142.74,
+      "awayTeamId": "8",
+      "awayTeamName": "The Sour Gang",
+      "awayScore": 110.4,
+      "winner": "4"
+    },
+    {
+      "week": 7,
+      "homeTeamId": "5",
+      "homeTeamName": "Buck Nasty",
+      "homeScore": 79.38,
+      "awayTeamId": "13",
+      "awayTeamName": "Hawk Tua Tagovailoa",
+      "awayScore": 105.74,
+      "winner": "13"
+    },
+    {
+      "week": 8,
+      "homeTeamId": "1",
+      "homeTeamName": "Is Mayonnaise a Quarterback",
+      "homeScore": 111.06,
+      "awayTeamId": "5",
+      "awayTeamName": "Buck Nasty",
+      "awayScore": 134.58,
+      "winner": "5"
+    },
+    {
+      "week": 8,
+      "homeTeamId": "12",
+      "homeTeamName": "Tiina Gail",
+      "homeScore": 141.2,
+      "awayTeamId": "3",
+      "awayTeamName": "Scott",
+      "awayScore": 100.36,
+      "winner": "12"
+    },
+    {
+      "week": 8,
+      "homeTeamId": "10",
+      "homeTeamName": "GloboGymPurpleCobras",
+      "homeScore": 139.72,
+      "awayTeamId": "6",
+      "awayTeamName": "Half Order Nachos",
+      "awayScore": 154.2,
+      "winner": "6"
+    },
+    {
+      "week": 8,
+      "homeTeamId": "7",
+      "homeTeamName": "Upbeat360Fly",
+      "homeScore": 117.74,
+      "awayTeamId": "4",
+      "awayTeamName": "La PortaPotty",
+      "awayScore": 127.54,
+      "winner": "4"
+    },
+    {
+      "week": 8,
+      "homeTeamId": "8",
+      "homeTeamName": "The Sour Gang",
+      "homeScore": 130.68,
+      "awayTeamId": "13",
+      "awayTeamName": "Hawk Tua Tagovailoa",
+      "awayScore": 96.36,
+      "winner": "8"
+    },
+    {
+      "week": 9,
+      "homeTeamId": "1",
+      "homeTeamName": "Is Mayonnaise a Quarterback",
+      "homeScore": 135.2,
+      "awayTeamId": "8",
+      "awayTeamName": "The Sour Gang",
+      "awayScore": 132.96,
+      "winner": "1"
+    },
+    {
+      "week": 9,
+      "homeTeamId": "3",
+      "homeTeamName": "Scott",
+      "homeScore": 132.74,
+      "awayTeamId": "6",
+      "awayTeamName": "Half Order Nachos",
+      "awayScore": 102,
+      "winner": "3"
+    },
+    {
+      "week": 9,
+      "homeTeamId": "4",
+      "homeTeamName": "La PortaPotty",
+      "homeScore": 131.72,
+      "awayTeamId": "12",
+      "awayTeamName": "Tiina Gail",
+      "awayScore": 112.02,
+      "winner": "4"
+    },
+    {
+      "week": 9,
+      "homeTeamId": "5",
+      "homeTeamName": "Buck Nasty",
+      "homeScore": 179.34,
+      "awayTeamId": "10",
+      "awayTeamName": "GloboGymPurpleCobras",
+      "awayScore": 100.7,
+      "winner": "5"
+    },
+    {
+      "week": 9,
+      "homeTeamId": "13",
+      "homeTeamName": "Hawk Tua Tagovailoa",
+      "homeScore": 114.2,
+      "awayTeamId": "7",
+      "awayTeamName": "Upbeat360Fly",
+      "awayScore": 109.22,
+      "winner": "13"
+    },
+    {
+      "week": 10,
+      "homeTeamId": "1",
+      "homeTeamName": "Is Mayonnaise a Quarterback",
+      "homeScore": 116.08,
+      "awayTeamId": "7",
+      "awayTeamName": "Upbeat360Fly",
+      "awayScore": 95.18,
+      "winner": "1"
+    },
+    {
+      "week": 10,
+      "homeTeamId": "4",
+      "homeTeamName": "La PortaPotty",
+      "homeScore": 93.08,
+      "awayTeamId": "3",
+      "awayTeamName": "Scott",
+      "awayScore": 133.62,
+      "winner": "3"
+    },
+    {
+      "week": 10,
+      "homeTeamId": "6",
+      "homeTeamName": "Half Order Nachos",
+      "homeScore": 129.44,
+      "awayTeamId": "5",
+      "awayTeamName": "Buck Nasty",
+      "awayScore": 121.22,
+      "winner": "6"
+    },
+    {
+      "week": 10,
+      "homeTeamId": "12",
+      "homeTeamName": "Tiina Gail",
+      "homeScore": 90.9,
+      "awayTeamId": "13",
+      "awayTeamName": "Hawk Tua Tagovailoa",
+      "awayScore": 106.4,
+      "winner": "13"
+    },
+    {
+      "week": 10,
+      "homeTeamId": "10",
+      "homeTeamName": "GloboGymPurpleCobras",
+      "homeScore": 90.6,
+      "awayTeamId": "8",
+      "awayTeamName": "The Sour Gang",
+      "awayScore": 168.64,
+      "winner": "8"
+    },
+    {
+      "week": 11,
+      "homeTeamId": "1",
+      "homeTeamName": "Is Mayonnaise a Quarterback",
+      "homeScore": 133.84,
+      "awayTeamId": "12",
+      "awayTeamName": "Tiina Gail",
+      "awayScore": 108.38,
+      "winner": "1"
+    },
+    {
+      "week": 11,
+      "homeTeamId": "3",
+      "homeTeamName": "Scott",
+      "homeScore": 87.14,
+      "awayTeamId": "5",
+      "awayTeamName": "Buck Nasty",
+      "awayScore": 145.96,
+      "winner": "5"
+    },
+    {
+      "week": 11,
+      "homeTeamId": "13",
+      "homeTeamName": "Hawk Tua Tagovailoa",
+      "homeScore": 122.68,
+      "awayTeamId": "4",
+      "awayTeamName": "La PortaPotty",
+      "awayScore": 130.44,
+      "winner": "4"
+    },
+    {
+      "week": 11,
+      "homeTeamId": "8",
+      "homeTeamName": "The Sour Gang",
+      "homeScore": 118.72,
+      "awayTeamId": "6",
+      "awayTeamName": "Half Order Nachos",
+      "awayScore": 105,
+      "winner": "8"
+    },
+    {
+      "week": 11,
+      "homeTeamId": "7",
+      "homeTeamName": "Upbeat360Fly",
+      "homeScore": 145.7,
+      "awayTeamId": "10",
+      "awayTeamName": "GloboGymPurpleCobras",
+      "awayScore": 106.18,
+      "winner": "7"
+    },
+    {
+      "week": 12,
+      "homeTeamId": "1",
+      "homeTeamName": "Is Mayonnaise a Quarterback",
+      "homeScore": 154.76,
+      "awayTeamId": "4",
+      "awayTeamName": "La PortaPotty",
+      "awayScore": 109.7,
+      "winner": "1"
+    },
+    {
+      "week": 12,
+      "homeTeamId": "13",
+      "homeTeamName": "Hawk Tua Tagovailoa",
+      "homeScore": 89.68,
+      "awayTeamId": "3",
+      "awayTeamName": "Scott",
+      "awayScore": 136.22,
+      "winner": "3"
+    },
+    {
+      "week": 12,
+      "homeTeamId": "5",
+      "homeTeamName": "Buck Nasty",
+      "homeScore": 123.66,
+      "awayTeamId": "8",
+      "awayTeamName": "The Sour Gang",
+      "awayScore": 80.7,
+      "winner": "5"
+    },
+    {
+      "week": 12,
+      "homeTeamId": "6",
+      "homeTeamName": "Half Order Nachos",
+      "homeScore": 104.26,
+      "awayTeamId": "7",
+      "awayTeamName": "Upbeat360Fly",
+      "awayScore": 138.12,
+      "winner": "7"
+    },
+    {
+      "week": 12,
+      "homeTeamId": "12",
+      "homeTeamName": "Tiina Gail",
+      "homeScore": 73.86,
+      "awayTeamId": "10",
+      "awayTeamName": "GloboGymPurpleCobras",
+      "awayScore": 117.32,
+      "winner": "10"
+    },
+    {
+      "week": 13,
+      "homeTeamId": "1",
+      "homeTeamName": "Is Mayonnaise a Quarterback",
+      "homeScore": 125.22,
+      "awayTeamId": "13",
+      "awayTeamName": "Hawk Tua Tagovailoa",
+      "awayScore": 143.18,
+      "winner": "13"
+    },
+    {
+      "week": 13,
+      "homeTeamId": "3",
+      "homeTeamName": "Scott",
+      "homeScore": 119.02,
+      "awayTeamId": "8",
+      "awayTeamName": "The Sour Gang",
+      "awayScore": 130.5,
+      "winner": "8"
+    },
+    {
+      "week": 13,
+      "homeTeamId": "7",
+      "homeTeamName": "Upbeat360Fly",
+      "homeScore": 155.08,
+      "awayTeamId": "5",
+      "awayTeamName": "Buck Nasty",
+      "awayScore": 105.04,
+      "winner": "7"
+    },
+    {
+      "week": 13,
+      "homeTeamId": "10",
+      "homeTeamName": "GloboGymPurpleCobras",
+      "homeScore": 166.52,
+      "awayTeamId": "4",
+      "awayTeamName": "La PortaPotty",
+      "awayScore": 137.54,
+      "winner": "10"
+    },
+    {
+      "week": 13,
+      "homeTeamId": "12",
+      "homeTeamName": "Tiina Gail",
+      "homeScore": 102.24,
+      "awayTeamId": "6",
+      "awayTeamName": "Half Order Nachos",
+      "awayScore": 119,
+      "winner": "6"
+    },
+    {
+      "week": 14,
+      "homeTeamId": "1",
+      "homeTeamName": "Is Mayonnaise a Quarterback",
+      "homeScore": 144.52,
+      "awayTeamId": "3",
+      "awayTeamName": "Scott",
+      "awayScore": 118.66,
+      "winner": "1"
+    },
+    {
+      "week": 14,
+      "homeTeamId": "8",
+      "homeTeamName": "The Sour Gang",
+      "homeScore": 183.26,
+      "awayTeamId": "7",
+      "awayTeamName": "Upbeat360Fly",
+      "awayScore": 73.34,
+      "winner": "8"
+    },
+    {
+      "week": 14,
+      "homeTeamId": "13",
+      "homeTeamName": "Hawk Tua Tagovailoa",
+      "homeScore": 78.54,
+      "awayTeamId": "10",
+      "awayTeamName": "GloboGymPurpleCobras",
+      "awayScore": 166.68,
+      "winner": "10"
+    },
+    {
+      "week": 14,
+      "homeTeamId": "5",
+      "homeTeamName": "Buck Nasty",
+      "homeScore": 147.6,
+      "awayTeamId": "12",
+      "awayTeamName": "Tiina Gail",
+      "awayScore": 103.22,
+      "winner": "5"
+    },
+    {
+      "week": 14,
+      "homeTeamId": "4",
+      "homeTeamName": "La PortaPotty",
+      "homeScore": 139.76,
+      "awayTeamId": "6",
+      "awayTeamName": "Half Order Nachos",
+      "awayScore": 119.7,
+      "winner": "4"
+    },
+    {
+      "week": 15,
+      "homeTeamId": "1",
+      "homeTeamName": "Is Mayonnaise a Quarterback",
+      "homeScore": 120.4,
+      "awayTeamId": "10",
+      "awayTeamName": "GloboGymPurpleCobras",
+      "awayScore": 131.38,
+      "winner": "10"
+    },
+    {
+      "week": 15,
+      "homeTeamId": "3",
+      "homeTeamName": "Scott",
+      "homeScore": 169.14,
+      "awayTeamId": "7",
+      "awayTeamName": "Upbeat360Fly",
+      "awayScore": 145.26,
+      "winner": "3"
+    },
+    {
+      "week": 15,
+      "homeTeamId": "12",
+      "homeTeamName": "Tiina Gail",
+      "homeScore": 97.06,
+      "awayTeamId": "8",
+      "awayTeamName": "The Sour Gang",
+      "awayScore": 156.26,
+      "winner": "8"
+    },
+    {
+      "week": 15,
+      "homeTeamId": "6",
+      "homeTeamName": "Half Order Nachos",
+      "homeScore": 133.02,
+      "awayTeamId": "13",
+      "awayTeamName": "Hawk Tua Tagovailoa",
+      "awayScore": 176.9,
+      "winner": "13"
+    },
+    {
+      "week": 15,
+      "homeTeamId": "4",
+      "homeTeamName": "La PortaPotty",
+      "homeScore": 127.14,
+      "awayTeamId": "5",
+      "awayTeamName": "Buck Nasty",
+      "awayScore": 68.58,
+      "winner": "4"
+    },
+    {
+      "week": 16,
+      "homeTeamId": "1",
+      "homeTeamName": "Is Mayonnaise a Quarterback",
+      "homeScore": 104.44,
+      "awayTeamId": "4",
+      "awayTeamName": "La PortaPotty",
+      "awayScore": 151.02,
+      "winner": "4"
+    },
+    {
+      "week": 16,
+      "homeTeamId": "5",
+      "homeTeamName": "Buck Nasty",
+      "homeScore": 100.62,
+      "awayTeamId": "6",
+      "awayTeamName": "Half Order Nachos",
+      "awayScore": 102.92,
+      "winner": "6"
+    },
+    {
+      "week": 16,
+      "homeTeamId": "3",
+      "homeTeamName": "Scott",
+      "homeScore": 141.88,
+      "awayTeamId": "13",
+      "awayTeamName": "Hawk Tua Tagovailoa",
+      "awayScore": 120.78,
+      "winner": "3"
+    },
+    {
+      "week": 16,
+      "homeTeamId": "8",
+      "homeTeamName": "The Sour Gang",
+      "homeScore": 152.08,
+      "awayTeamId": "10",
+      "awayTeamName": "GloboGymPurpleCobras",
+      "awayScore": 140.46,
+      "winner": "8"
+    },
+    {
+      "week": 17,
+      "homeTeamId": "1",
+      "homeTeamName": "Is Mayonnaise a Quarterback",
+      "homeScore": 161.02,
+      "awayTeamId": "5",
+      "awayTeamName": "Buck Nasty",
+      "awayScore": 113.58,
+      "winner": "1"
+    },
+    {
+      "week": 17,
+      "homeTeamId": "4",
+      "homeTeamName": "La PortaPotty",
+      "homeScore": 134.38,
+      "awayTeamId": "6",
+      "awayTeamName": "Half Order Nachos",
+      "awayScore": 130.56,
+      "winner": "4"
+    },
+    {
+      "week": 17,
+      "homeTeamId": "3",
+      "homeTeamName": "Scott",
+      "homeScore": 150.08,
+      "awayTeamId": "8",
+      "awayTeamName": "The Sour Gang",
+      "awayScore": 100.04,
+      "winner": "3"
+    },
+    {
+      "week": 17,
+      "homeTeamId": "13",
+      "homeTeamName": "Hawk Tua Tagovailoa",
+      "homeScore": 138.72,
+      "awayTeamId": "10",
+      "awayTeamName": "GloboGymPurpleCobras",
+      "awayScore": 119.58,
+      "winner": "13"
+    },
+    {
+      "week": 1,
+      "homeTeamId": "2",
+      "homeTeamName": "Samuel L Jaxson Dart",
+      "homeScore": 121.28,
+      "awayTeamId": "7",
+      "awayTeamName": "Upbeat360Fly",
+      "awayScore": 91.32,
+      "winner": "2"
+    },
+    {
+      "week": 1,
+      "homeTeamId": "3",
+      "homeTeamName": "Scott",
+      "homeScore": 149.92,
+      "awayTeamId": "4",
+      "awayTeamName": "La PortaPotty",
+      "awayScore": 115.28,
+      "winner": "3"
+    },
+    {
+      "week": 1,
+      "homeTeamId": "5",
+      "homeTeamName": "Buck Nasty",
+      "homeScore": 97.9,
+      "awayTeamId": "6",
+      "awayTeamName": "Half Order Nachos",
+      "awayScore": 111.66,
+      "winner": "6"
+    },
+    {
+      "week": 1,
+      "homeTeamId": "15",
+      "homeTeamName": "Steamin Willy Beaman",
+      "homeScore": 101.62,
+      "awayTeamId": "14",
+      "awayTeamName": "Cville Heuristicats",
+      "awayScore": 100.72,
+      "winner": "15"
+    },
+    {
+      "week": 1,
+      "homeTeamId": "9",
+      "homeTeamName": "The Hazy Gang",
+      "homeScore": 123.76,
+      "awayTeamId": "11",
+      "awayTeamName": "A Near Seth Experience",
+      "awayScore": 97.14,
+      "winner": "9"
+    },
+    {
+      "week": 2,
+      "homeTeamId": "2",
+      "homeTeamName": "Samuel L Jaxson Dart",
+      "homeScore": 104.4,
+      "awayTeamId": "14",
+      "awayTeamName": "Cville Heuristicats",
+      "awayScore": 85.84,
+      "winner": "2"
+    },
+    {
+      "week": 2,
+      "homeTeamId": "5",
+      "homeTeamName": "Buck Nasty",
+      "homeScore": 120.56,
+      "awayTeamId": "3",
+      "awayTeamName": "Scott",
+      "awayScore": 152.7,
+      "winner": "3"
+    },
+    {
+      "week": 2,
+      "homeTeamId": "4",
+      "homeTeamName": "La PortaPotty",
+      "homeScore": 118.84,
+      "awayTeamId": "15",
+      "awayTeamName": "Steamin Willy Beaman",
+      "awayScore": 120.2,
+      "winner": "15"
+    },
+    {
+      "week": 2,
+      "homeTeamId": "6",
+      "homeTeamName": "Half Order Nachos",
+      "homeScore": 102.12,
+      "awayTeamId": "9",
+      "awayTeamName": "The Hazy Gang",
+      "awayScore": 90.3,
+      "winner": "6"
+    },
+    {
+      "week": 2,
+      "homeTeamId": "11",
+      "homeTeamName": "A Near Seth Experience",
+      "homeScore": 119.24,
+      "awayTeamId": "7",
+      "awayTeamName": "Upbeat360Fly",
+      "awayScore": 134.68,
+      "winner": "7"
+    },
+    {
+      "week": 3,
+      "homeTeamId": "2",
+      "homeTeamName": "Samuel L Jaxson Dart",
+      "homeScore": 111.12,
+      "awayTeamId": "4",
+      "awayTeamName": "La PortaPotty",
+      "awayScore": 114.94,
+      "winner": "4"
+    },
+    {
+      "week": 3,
+      "homeTeamId": "3",
+      "homeTeamName": "Scott",
+      "homeScore": 123.26,
+      "awayTeamId": "15",
+      "awayTeamName": "Steamin Willy Beaman",
+      "awayScore": 128.32,
+      "winner": "15"
+    },
+    {
+      "week": 3,
+      "homeTeamId": "9",
+      "homeTeamName": "The Hazy Gang",
+      "homeScore": 87.32,
+      "awayTeamId": "5",
+      "awayTeamName": "Buck Nasty",
+      "awayScore": 101.58,
+      "winner": "5"
+    },
+    {
+      "week": 3,
+      "homeTeamId": "7",
+      "homeTeamName": "Upbeat360Fly",
+      "homeScore": 145.46,
+      "awayTeamId": "6",
+      "awayTeamName": "Half Order Nachos",
+      "awayScore": 129.32,
+      "winner": "7"
+    },
+    {
+      "week": 3,
+      "homeTeamId": "11",
+      "homeTeamName": "A Near Seth Experience",
+      "homeScore": 92.12,
+      "awayTeamId": "14",
+      "awayTeamName": "Cville Heuristicats",
+      "awayScore": 163.92,
+      "winner": "14"
+    },
+    {
+      "week": 4,
+      "homeTeamId": "2",
+      "homeTeamName": "Samuel L Jaxson Dart",
+      "homeScore": 143.52,
+      "awayTeamId": "15",
+      "awayTeamName": "Steamin Willy Beaman",
+      "awayScore": 106.72,
+      "winner": "2"
+    },
+    {
+      "week": 4,
+      "homeTeamId": "9",
+      "homeTeamName": "The Hazy Gang",
+      "homeScore": 91.38,
+      "awayTeamId": "3",
+      "awayTeamName": "Scott",
+      "awayScore": 165.58,
+      "winner": "3"
+    },
+    {
+      "week": 4,
+      "homeTeamId": "5",
+      "homeTeamName": "Buck Nasty",
+      "homeScore": 91.62,
+      "awayTeamId": "7",
+      "awayTeamName": "Upbeat360Fly",
+      "awayScore": 171.3,
+      "winner": "7"
+    },
+    {
+      "week": 4,
+      "homeTeamId": "4",
+      "homeTeamName": "La PortaPotty",
+      "homeScore": 110.2,
+      "awayTeamId": "11",
+      "awayTeamName": "A Near Seth Experience",
+      "awayScore": 112.24,
+      "winner": "11"
+    },
+    {
+      "week": 4,
+      "homeTeamId": "6",
+      "homeTeamName": "Half Order Nachos",
+      "homeScore": 108.56,
+      "awayTeamId": "14",
+      "awayTeamName": "Cville Heuristicats",
+      "awayScore": 135.78,
+      "winner": "14"
+    },
+    {
+      "week": 5,
+      "homeTeamId": "2",
+      "homeTeamName": "Samuel L Jaxson Dart",
+      "homeScore": 114.54,
+      "awayTeamId": "3",
+      "awayTeamName": "Scott",
+      "awayScore": 129.6,
+      "winner": "3"
+    },
+    {
+      "week": 5,
+      "homeTeamId": "7",
+      "homeTeamName": "Upbeat360Fly",
+      "homeScore": 153.62,
+      "awayTeamId": "9",
+      "awayTeamName": "The Hazy Gang",
+      "awayScore": 98.62,
+      "winner": "7"
+    },
+    {
+      "week": 5,
+      "homeTeamId": "11",
+      "homeTeamName": "A Near Seth Experience",
+      "homeScore": 121.98,
+      "awayTeamId": "15",
+      "awayTeamName": "Steamin Willy Beaman",
+      "awayScore": 102.24,
+      "winner": "11"
+    },
+    {
+      "week": 5,
+      "homeTeamId": "14",
+      "homeTeamName": "Cville Heuristicats",
+      "homeScore": 132.4,
+      "awayTeamId": "5",
+      "awayTeamName": "Buck Nasty",
+      "awayScore": 120.72,
+      "winner": "14"
+    },
+    {
+      "week": 5,
+      "homeTeamId": "6",
+      "homeTeamName": "Half Order Nachos",
+      "homeScore": 128.22,
+      "awayTeamId": "4",
+      "awayTeamName": "La PortaPotty",
+      "awayScore": 102.88,
+      "winner": "6"
+    },
+    {
+      "week": 6,
+      "homeTeamId": "2",
+      "homeTeamName": "Samuel L Jaxson Dart",
+      "homeScore": 113.36,
+      "awayTeamId": "11",
+      "awayTeamName": "A Near Seth Experience",
+      "awayScore": 155.96,
+      "winner": "11"
+    },
+    {
+      "week": 6,
+      "homeTeamId": "7",
+      "homeTeamName": "Upbeat360Fly",
+      "homeScore": 145.8,
+      "awayTeamId": "3",
+      "awayTeamName": "Scott",
+      "awayScore": 91.96,
+      "winner": "7"
+    },
+    {
+      "week": 6,
+      "homeTeamId": "9",
+      "homeTeamName": "The Hazy Gang",
+      "homeScore": 108,
+      "awayTeamId": "14",
+      "awayTeamName": "Cville Heuristicats",
+      "awayScore": 148.38,
+      "winner": "14"
+    },
+    {
+      "week": 6,
+      "homeTeamId": "15",
+      "homeTeamName": "Steamin Willy Beaman",
+      "homeScore": 66.14,
+      "awayTeamId": "6",
+      "awayTeamName": "Half Order Nachos",
+      "awayScore": 77.1,
+      "winner": "6"
+    },
+    {
+      "week": 6,
+      "homeTeamId": "5",
+      "homeTeamName": "Buck Nasty",
+      "homeScore": 102.72,
+      "awayTeamId": "4",
+      "awayTeamName": "La PortaPotty",
+      "awayScore": 105.52,
+      "winner": "4"
+    },
+    {
+      "week": 7,
+      "homeTeamId": "2",
+      "homeTeamName": "Samuel L Jaxson Dart",
+      "homeScore": 138.52,
+      "awayTeamId": "6",
+      "awayTeamName": "Half Order Nachos",
+      "awayScore": 120.22,
+      "winner": "2"
+    },
+    {
+      "week": 7,
+      "homeTeamId": "3",
+      "homeTeamName": "Scott",
+      "homeScore": 122.16,
+      "awayTeamId": "11",
+      "awayTeamName": "A Near Seth Experience",
+      "awayScore": 155.66,
+      "winner": "11"
+    },
+    {
+      "week": 7,
+      "homeTeamId": "14",
+      "homeTeamName": "Cville Heuristicats",
+      "homeScore": 113.98,
+      "awayTeamId": "7",
+      "awayTeamName": "Upbeat360Fly",
+      "awayScore": 124.24,
+      "winner": "7"
+    },
+    {
+      "week": 7,
+      "homeTeamId": "4",
+      "homeTeamName": "La PortaPotty",
+      "homeScore": 129.04,
+      "awayTeamId": "9",
+      "awayTeamName": "The Hazy Gang",
+      "awayScore": 64.04,
+      "winner": "4"
+    },
+    {
+      "week": 7,
+      "homeTeamId": "5",
+      "homeTeamName": "Buck Nasty",
+      "homeScore": 124.64,
+      "awayTeamId": "15",
+      "awayTeamName": "Steamin Willy Beaman",
+      "awayScore": 114.04,
+      "winner": "5"
+    },
+    {
+      "week": 8,
+      "homeTeamId": "2",
+      "homeTeamName": "Samuel L Jaxson Dart",
+      "homeScore": 122.98,
+      "awayTeamId": "5",
+      "awayTeamName": "Buck Nasty",
+      "awayScore": 123.62,
+      "winner": "5"
+    },
+    {
+      "week": 8,
+      "homeTeamId": "14",
+      "homeTeamName": "Cville Heuristicats",
+      "homeScore": 103.08,
+      "awayTeamId": "3",
+      "awayTeamName": "Scott",
+      "awayScore": 150.5,
+      "winner": "3"
+    },
+    {
+      "week": 8,
+      "homeTeamId": "11",
+      "homeTeamName": "A Near Seth Experience",
+      "homeScore": 124.58,
+      "awayTeamId": "6",
+      "awayTeamName": "Half Order Nachos",
+      "awayScore": 108.52,
+      "winner": "11"
+    },
+    {
+      "week": 8,
+      "homeTeamId": "7",
+      "homeTeamName": "Upbeat360Fly",
+      "homeScore": 115.02,
+      "awayTeamId": "4",
+      "awayTeamName": "La PortaPotty",
+      "awayScore": 167.96,
+      "winner": "4"
+    },
+    {
+      "week": 8,
+      "homeTeamId": "9",
+      "homeTeamName": "The Hazy Gang",
+      "homeScore": 98.16,
+      "awayTeamId": "15",
+      "awayTeamName": "Steamin Willy Beaman",
+      "awayScore": 99.58,
+      "winner": "15"
+    },
+    {
+      "week": 9,
+      "homeTeamId": "2",
+      "homeTeamName": "Samuel L Jaxson Dart",
+      "homeScore": 124.5,
+      "awayTeamId": "9",
+      "awayTeamName": "The Hazy Gang",
+      "awayScore": 168.36,
+      "winner": "9"
+    },
+    {
+      "week": 9,
+      "homeTeamId": "3",
+      "homeTeamName": "Scott",
+      "homeScore": 124.32,
+      "awayTeamId": "6",
+      "awayTeamName": "Half Order Nachos",
+      "awayScore": 111.92,
+      "winner": "3"
+    },
+    {
+      "week": 9,
+      "homeTeamId": "4",
+      "homeTeamName": "La PortaPotty",
+      "homeScore": 94.6,
+      "awayTeamId": "14",
+      "awayTeamName": "Cville Heuristicats",
+      "awayScore": 138.1,
+      "winner": "14"
+    },
+    {
+      "week": 9,
+      "homeTeamId": "5",
+      "homeTeamName": "Buck Nasty",
+      "homeScore": 120.66,
+      "awayTeamId": "11",
+      "awayTeamName": "A Near Seth Experience",
+      "awayScore": 99.82,
+      "winner": "5"
+    },
+    {
+      "week": 9,
+      "homeTeamId": "15",
+      "homeTeamName": "Steamin Willy Beaman",
+      "homeScore": 92.26,
+      "awayTeamId": "7",
+      "awayTeamName": "Upbeat360Fly",
+      "awayScore": 120.4,
+      "winner": "7"
+    },
+    {
+      "week": 10,
+      "homeTeamId": "2",
+      "homeTeamName": "Samuel L Jaxson Dart",
+      "homeScore": 136.32,
+      "awayTeamId": "7",
+      "awayTeamName": "Upbeat360Fly",
+      "awayScore": 113.28,
+      "winner": "2"
+    },
+    {
+      "week": 10,
+      "homeTeamId": "4",
+      "homeTeamName": "La PortaPotty",
+      "homeScore": 144.22,
+      "awayTeamId": "3",
+      "awayTeamName": "Scott",
+      "awayScore": 118.94,
+      "winner": "4"
+    },
+    {
+      "week": 10,
+      "homeTeamId": "6",
+      "homeTeamName": "Half Order Nachos",
+      "homeScore": 83.24,
+      "awayTeamId": "5",
+      "awayTeamName": "Buck Nasty",
+      "awayScore": 142.8,
+      "winner": "5"
+    },
+    {
+      "week": 10,
+      "homeTeamId": "14",
+      "homeTeamName": "Cville Heuristicats",
+      "homeScore": 147.6,
+      "awayTeamId": "15",
+      "awayTeamName": "Steamin Willy Beaman",
+      "awayScore": 128.1,
+      "winner": "14"
+    },
+    {
+      "week": 10,
+      "homeTeamId": "11",
+      "homeTeamName": "A Near Seth Experience",
+      "homeScore": 113.9,
+      "awayTeamId": "9",
+      "awayTeamName": "The Hazy Gang",
+      "awayScore": 114.64,
+      "winner": "9"
+    },
+    {
+      "week": 11,
+      "homeTeamId": "2",
+      "homeTeamName": "Samuel L Jaxson Dart",
+      "homeScore": 80.24,
+      "awayTeamId": "14",
+      "awayTeamName": "Cville Heuristicats",
+      "awayScore": 119.02,
+      "winner": "14"
+    },
+    {
+      "week": 11,
+      "homeTeamId": "3",
+      "homeTeamName": "Scott",
+      "homeScore": 136.06,
+      "awayTeamId": "5",
+      "awayTeamName": "Buck Nasty",
+      "awayScore": 120,
+      "winner": "3"
+    },
+    {
+      "week": 11,
+      "homeTeamId": "15",
+      "homeTeamName": "Steamin Willy Beaman",
+      "homeScore": 80.64,
+      "awayTeamId": "4",
+      "awayTeamName": "La PortaPotty",
+      "awayScore": 77.2,
+      "winner": "15"
+    },
+    {
+      "week": 11,
+      "homeTeamId": "9",
+      "homeTeamName": "The Hazy Gang",
+      "homeScore": 105.12,
+      "awayTeamId": "6",
+      "awayTeamName": "Half Order Nachos",
+      "awayScore": 117.88,
+      "winner": "6"
+    },
+    {
+      "week": 11,
+      "homeTeamId": "7",
+      "homeTeamName": "Upbeat360Fly",
+      "homeScore": 99.44,
+      "awayTeamId": "11",
+      "awayTeamName": "A Near Seth Experience",
+      "awayScore": 93.5,
+      "winner": "7"
+    },
+    {
+      "week": 12,
+      "homeTeamId": "2",
+      "homeTeamName": "Samuel L Jaxson Dart",
+      "homeScore": 155.64,
+      "awayTeamId": "4",
+      "awayTeamName": "La PortaPotty",
+      "awayScore": 108.36,
+      "winner": "2"
+    },
+    {
+      "week": 12,
+      "homeTeamId": "15",
+      "homeTeamName": "Steamin Willy Beaman",
+      "homeScore": 160.66,
+      "awayTeamId": "3",
+      "awayTeamName": "Scott",
+      "awayScore": 110.46,
+      "winner": "15"
+    },
+    {
+      "week": 12,
+      "homeTeamId": "5",
+      "homeTeamName": "Buck Nasty",
+      "homeScore": 83.72,
+      "awayTeamId": "9",
+      "awayTeamName": "The Hazy Gang",
+      "awayScore": 95.82,
+      "winner": "9"
+    },
+    {
+      "week": 12,
+      "homeTeamId": "6",
+      "homeTeamName": "Half Order Nachos",
+      "homeScore": 72.42,
+      "awayTeamId": "7",
+      "awayTeamName": "Upbeat360Fly",
+      "awayScore": 132.28,
+      "winner": "7"
+    },
+    {
+      "week": 12,
+      "homeTeamId": "14",
+      "homeTeamName": "Cville Heuristicats",
+      "homeScore": 127.14,
+      "awayTeamId": "11",
+      "awayTeamName": "A Near Seth Experience",
+      "awayScore": 116.72,
+      "winner": "14"
+    },
+    {
+      "week": 13,
+      "homeTeamId": "2",
+      "homeTeamName": "Samuel L Jaxson Dart",
+      "homeScore": 104.64,
+      "awayTeamId": "15",
+      "awayTeamName": "Steamin Willy Beaman",
+      "awayScore": 105.48,
+      "winner": "15"
+    },
+    {
+      "week": 13,
+      "homeTeamId": "3",
+      "homeTeamName": "Scott",
+      "homeScore": 147.54,
+      "awayTeamId": "9",
+      "awayTeamName": "The Hazy Gang",
+      "awayScore": 78.04,
+      "winner": "3"
+    },
+    {
+      "week": 13,
+      "homeTeamId": "7",
+      "homeTeamName": "Upbeat360Fly",
+      "homeScore": 105.44,
+      "awayTeamId": "5",
+      "awayTeamName": "Buck Nasty",
+      "awayScore": 139.22,
+      "winner": "5"
+    },
+    {
+      "week": 13,
+      "homeTeamId": "11",
+      "homeTeamName": "A Near Seth Experience",
+      "homeScore": 123.34,
+      "awayTeamId": "4",
+      "awayTeamName": "La PortaPotty",
+      "awayScore": 102.8,
+      "winner": "11"
+    },
+    {
+      "week": 13,
+      "homeTeamId": "14",
+      "homeTeamName": "Cville Heuristicats",
+      "homeScore": 133.14,
+      "awayTeamId": "6",
+      "awayTeamName": "Half Order Nachos",
+      "awayScore": 106.32,
+      "winner": "14"
+    },
+    {
+      "week": 14,
+      "homeTeamId": "2",
+      "homeTeamName": "Samuel L Jaxson Dart",
+      "homeScore": 118.38,
+      "awayTeamId": "3",
+      "awayTeamName": "Scott",
+      "awayScore": 158.86,
+      "winner": "3"
+    },
+    {
+      "week": 14,
+      "homeTeamId": "9",
+      "homeTeamName": "The Hazy Gang",
+      "homeScore": 97.46,
+      "awayTeamId": "7",
+      "awayTeamName": "Upbeat360Fly",
+      "awayScore": 85.2,
+      "winner": "9"
+    },
+    {
+      "week": 14,
+      "homeTeamId": "15",
+      "homeTeamName": "Steamin Willy Beaman",
+      "homeScore": 150.46,
+      "awayTeamId": "11",
+      "awayTeamName": "A Near Seth Experience",
+      "awayScore": 94.04,
+      "winner": "15"
+    },
+    {
+      "week": 14,
+      "homeTeamId": "5",
+      "homeTeamName": "Buck Nasty",
+      "homeScore": 135.56,
+      "awayTeamId": "14",
+      "awayTeamName": "Cville Heuristicats",
+      "awayScore": 99,
+      "winner": "5"
+    },
+    {
+      "week": 14,
+      "homeTeamId": "4",
+      "homeTeamName": "La PortaPotty",
+      "homeScore": 111.04,
+      "awayTeamId": "6",
+      "awayTeamName": "Half Order Nachos",
+      "awayScore": 117.54,
+      "winner": "6"
+    },
+    {
+      "week": 15,
+      "homeTeamId": "2",
+      "homeTeamName": "Samuel L Jaxson Dart",
+      "homeScore": 90.48,
+      "awayTeamId": "11",
+      "awayTeamName": "A Near Seth Experience",
+      "awayScore": 158.32,
+      "winner": "11"
+    },
+    {
+      "week": 15,
+      "homeTeamId": "3",
+      "homeTeamName": "Scott",
+      "homeScore": 125.2,
+      "awayTeamId": "7",
+      "awayTeamName": "Upbeat360Fly",
+      "awayScore": 112.74,
+      "winner": "3"
+    },
+    {
+      "week": 15,
+      "homeTeamId": "14",
+      "homeTeamName": "Cville Heuristicats",
+      "homeScore": 143.74,
+      "awayTeamId": "9",
+      "awayTeamName": "The Hazy Gang",
+      "awayScore": 118.6,
+      "winner": "14"
+    },
+    {
+      "week": 15,
+      "homeTeamId": "6",
+      "homeTeamName": "Half Order Nachos",
+      "homeScore": 123.82,
+      "awayTeamId": "15",
+      "awayTeamName": "Steamin Willy Beaman",
+      "awayScore": 131.8,
+      "winner": "15"
+    },
+    {
+      "week": 15,
+      "homeTeamId": "4",
+      "homeTeamName": "La PortaPotty",
+      "homeScore": 145.06,
+      "awayTeamId": "5",
+      "awayTeamName": "Buck Nasty",
+      "awayScore": 126.6,
+      "winner": "4"
+    },
+    {
+      "week": 16,
+      "homeTeamId": "2",
+      "homeTeamName": "Samuel L Jaxson Dart",
+      "homeScore": 131.8,
+      "awayTeamId": "5",
+      "awayTeamName": "Buck Nasty",
+      "awayScore": 139.1,
+      "winner": "5"
+    },
+    {
+      "week": 16,
+      "homeTeamId": "11",
+      "homeTeamName": "A Near Seth Experience",
+      "homeScore": 84.88,
+      "awayTeamId": "4",
+      "awayTeamName": "La PortaPotty",
+      "awayScore": 87.36,
+      "winner": "4"
+    },
+    {
+      "week": 16,
+      "homeTeamId": "3",
+      "homeTeamName": "Scott",
+      "homeScore": 177.76,
+      "awayTeamId": "15",
+      "awayTeamName": "Steamin Willy Beaman",
+      "awayScore": 147,
+      "winner": "3"
+    },
+    {
+      "week": 16,
+      "homeTeamId": "14",
+      "homeTeamName": "Cville Heuristicats",
+      "homeScore": 129.48,
+      "awayTeamId": "7",
+      "awayTeamName": "Upbeat360Fly",
+      "awayScore": 117.92,
+      "winner": "14"
+    },
+    {
+      "week": 17,
+      "homeTeamId": "2",
+      "homeTeamName": "Samuel L Jaxson Dart",
+      "homeScore": 129.04,
+      "awayTeamId": "11",
+      "awayTeamName": "A Near Seth Experience",
+      "awayScore": 103.96,
+      "winner": "2"
+    },
+    {
+      "week": 17,
+      "homeTeamId": "4",
+      "homeTeamName": "La PortaPotty",
+      "homeScore": 80.38,
+      "awayTeamId": "5",
+      "awayTeamName": "Buck Nasty",
+      "awayScore": 119.02,
+      "winner": "5"
+    },
+    {
+      "week": 17,
+      "homeTeamId": "3",
+      "homeTeamName": "Scott",
+      "homeScore": 148.9,
+      "awayTeamId": "14",
+      "awayTeamName": "Cville Heuristicats",
+      "awayScore": 127.8,
+      "winner": "3"
+    },
+    {
+      "week": 17,
+      "homeTeamId": "15",
+      "homeTeamName": "Steamin Willy Beaman",
+      "homeScore": 111.84,
+      "awayTeamId": "7",
+      "awayTeamName": "Upbeat360Fly",
+      "awayScore": 127.98,
+      "winner": "7"
+    }
+  ],
+  "seasons": [
+    {
+      "season": 2024,
+      "teams": [
+        {
+          "teamId": "3",
+          "teamName": "Scott",
+          "owner": "Scott",
+          "wins": 12,
+          "losses": 5,
+          "ties": 0,
+          "pointsFor": 2236,
+          "pointsAgainst": 1973.62,
+          "weeklyScores": [
+            {
+              "week": 1,
+              "score": 118.06
+            },
+            {
+              "week": 2,
+              "score": 109.12
+            },
+            {
+              "week": 3,
+              "score": 138.16
+            },
+            {
+              "week": 4,
+              "score": 147.28
+            },
+            {
+              "week": 5,
+              "score": 129.56
+            },
+            {
+              "week": 6,
+              "score": 132.22
+            },
+            {
+              "week": 7,
+              "score": 172.74
+            },
+            {
+              "week": 8,
+              "score": 100.36
+            },
+            {
+              "week": 9,
+              "score": 132.74
+            },
+            {
+              "week": 10,
+              "score": 133.62
+            },
+            {
+              "week": 11,
+              "score": 87.14
+            },
+            {
+              "week": 12,
+              "score": 136.22
+            },
+            {
+              "week": 13,
+              "score": 119.02
+            },
+            {
+              "week": 14,
+              "score": 118.66
+            },
+            {
+              "week": 15,
+              "score": 169.14
+            },
+            {
+              "week": 16,
+              "score": 141.88
+            },
+            {
+              "week": 17,
+              "score": 150.08
+            }
+          ],
+          "highScore": 172.74,
+          "avgScore": 131.53,
+          "rank": 1,
+          "ownerId": "2"
+        },
+        {
+          "teamId": "8",
+          "teamName": "The Sour Gang",
+          "owner": "Chris (WV)",
+          "wins": 10,
+          "losses": 7,
+          "ties": 0,
+          "pointsFor": 2175.42,
+          "pointsAgainst": 1917.88,
+          "weeklyScores": [
+            {
+              "week": 1,
+              "score": 119.38
+            },
+            {
+              "week": 2,
+              "score": 91.38
+            },
+            {
+              "week": 3,
+              "score": 93.38
+            },
+            {
+              "week": 4,
+              "score": 113.08
+            },
+            {
+              "week": 5,
+              "score": 172.3
+            },
+            {
+              "week": 6,
+              "score": 121.66
+            },
+            {
+              "week": 7,
+              "score": 110.4
+            },
+            {
+              "week": 8,
+              "score": 130.68
+            },
+            {
+              "week": 9,
+              "score": 132.96
+            },
+            {
+              "week": 10,
+              "score": 168.64
+            },
+            {
+              "week": 11,
+              "score": 118.72
+            },
+            {
+              "week": 12,
+              "score": 80.7
+            },
+            {
+              "week": 13,
+              "score": 130.5
+            },
+            {
+              "week": 14,
+              "score": 183.26
+            },
+            {
+              "week": 15,
+              "score": 156.26
+            },
+            {
+              "week": 16,
+              "score": 152.08
+            },
+            {
+              "week": 17,
+              "score": 100.04
+            }
+          ],
+          "highScore": 183.26,
+          "avgScore": 127.97,
+          "rank": 2,
+          "ownerId": "6"
+        },
+        {
+          "teamId": "4",
+          "teamName": "La PortaPotty",
+          "owner": "Jason",
+          "wins": 10,
+          "losses": 7,
+          "ties": 0,
+          "pointsFor": 2128.28,
+          "pointsAgainst": 2115.12,
+          "weeklyScores": [
+            {
+              "week": 1,
+              "score": 114.62
+            },
+            {
+              "week": 2,
+              "score": 83.64
+            },
+            {
+              "week": 3,
+              "score": 113.86
+            },
+            {
+              "week": 4,
+              "score": 107.82
+            },
+            {
+              "week": 5,
+              "score": 139.52
+            },
+            {
+              "week": 6,
+              "score": 143.76
+            },
+            {
+              "week": 7,
+              "score": 142.74
+            },
+            {
+              "week": 8,
+              "score": 127.54
+            },
+            {
+              "week": 9,
+              "score": 131.72
+            },
+            {
+              "week": 10,
+              "score": 93.08
+            },
+            {
+              "week": 11,
+              "score": 130.44
+            },
+            {
+              "week": 12,
+              "score": 109.7
+            },
+            {
+              "week": 13,
+              "score": 137.54
+            },
+            {
+              "week": 14,
+              "score": 139.76
+            },
+            {
+              "week": 15,
+              "score": 127.14
+            },
+            {
+              "week": 16,
+              "score": 151.02
+            },
+            {
+              "week": 17,
+              "score": 134.38
+            }
+          ],
+          "highScore": 151.02,
+          "avgScore": 125.19,
+          "rank": 3,
+          "ownerId": "3"
+        },
+        {
+          "teamId": "13",
+          "teamName": "Hawk Tua Tagovailoa",
+          "owner": "Chris Michael",
+          "wins": 10,
+          "losses": 7,
+          "ties": 0,
+          "pointsFor": 2029.12,
+          "pointsAgainst": 1997.34,
+          "weeklyScores": [
+            {
+              "week": 1,
+              "score": 97.02
+            },
+            {
+              "week": 2,
+              "score": 165.48
+            },
+            {
+              "week": 3,
+              "score": 112.88
+            },
+            {
+              "week": 4,
+              "score": 130.52
+            },
+            {
+              "week": 5,
+              "score": 126.52
+            },
+            {
+              "week": 6,
+              "score": 103.52
+            },
+            {
+              "week": 7,
+              "score": 105.74
+            },
+            {
+              "week": 8,
+              "score": 96.36
+            },
+            {
+              "week": 9,
+              "score": 114.2
+            },
+            {
+              "week": 10,
+              "score": 106.4
+            },
+            {
+              "week": 11,
+              "score": 122.68
+            },
+            {
+              "week": 12,
+              "score": 89.68
+            },
+            {
+              "week": 13,
+              "score": 143.18
+            },
+            {
+              "week": 14,
+              "score": 78.54
+            },
+            {
+              "week": 15,
+              "score": 176.9
+            },
+            {
+              "week": 16,
+              "score": 120.78
+            },
+            {
+              "week": 17,
+              "score": 138.72
+            }
+          ],
+          "highScore": 176.9,
+          "avgScore": 119.36,
+          "rank": 4,
+          "ownerId": "9"
+        },
+        {
+          "teamId": "10",
+          "teamName": "GloboGymPurpleCobras",
+          "owner": "Seth",
+          "wins": 9,
+          "losses": 8,
+          "ties": 0,
+          "pointsFor": 2116.16,
+          "pointsAgainst": 2215.3,
+          "weeklyScores": [
+            {
+              "week": 1,
+              "score": 120.28
+            },
+            {
+              "week": 2,
+              "score": 141.46
+            },
+            {
+              "week": 3,
+              "score": 147.22
+            },
+            {
+              "week": 4,
+              "score": 112
+            },
+            {
+              "week": 5,
+              "score": 100.94
+            },
+            {
+              "week": 6,
+              "score": 130.3
+            },
+            {
+              "week": 7,
+              "score": 84.82
+            },
+            {
+              "week": 8,
+              "score": 139.72
+            },
+            {
+              "week": 9,
+              "score": 100.7
+            },
+            {
+              "week": 10,
+              "score": 90.6
+            },
+            {
+              "week": 11,
+              "score": 106.18
+            },
+            {
+              "week": 12,
+              "score": 117.32
+            },
+            {
+              "week": 13,
+              "score": 166.52
+            },
+            {
+              "week": 14,
+              "score": 166.68
+            },
+            {
+              "week": 15,
+              "score": 131.38
+            },
+            {
+              "week": 16,
+              "score": 140.46
+            },
+            {
+              "week": 17,
+              "score": 119.58
+            }
+          ],
+          "highScore": 166.68,
+          "avgScore": 124.48,
+          "rank": 5,
+          "ownerId": "7"
+        },
+        {
+          "teamId": "6",
+          "teamName": "Half Order Nachos",
+          "owner": "Fred",
+          "wins": 9,
+          "losses": 8,
+          "ties": 0,
+          "pointsFor": 2011.18,
+          "pointsAgainst": 2112.08,
+          "weeklyScores": [
+            {
+              "week": 1,
+              "score": 111.38
+            },
+            {
+              "week": 2,
+              "score": 100.36
+            },
+            {
+              "week": 3,
+              "score": 118.68
+            },
+            {
+              "week": 4,
+              "score": 114.96
+            },
+            {
+              "week": 5,
+              "score": 119.5
+            },
+            {
+              "week": 6,
+              "score": 106.1
+            },
+            {
+              "week": 7,
+              "score": 140.1
+            },
+            {
+              "week": 8,
+              "score": 154.2
+            },
+            {
+              "week": 9,
+              "score": 102
+            },
+            {
+              "week": 10,
+              "score": 129.44
+            },
+            {
+              "week": 11,
+              "score": 105
+            },
+            {
+              "week": 12,
+              "score": 104.26
+            },
+            {
+              "week": 13,
+              "score": 119
+            },
+            {
+              "week": 14,
+              "score": 119.7
+            },
+            {
+              "week": 15,
+              "score": 133.02
+            },
+            {
+              "week": 16,
+              "score": 102.92
+            },
+            {
+              "week": 17,
+              "score": 130.56
+            }
+          ],
+          "highScore": 154.2,
+          "avgScore": 118.3,
+          "rank": 6,
+          "ownerId": "4"
+        },
+        {
+          "teamId": "1",
+          "teamName": "Is Mayonnaise a Quarterback",
+          "owner": "Tomas",
+          "wins": 8,
+          "losses": 9,
+          "ties": 0,
+          "pointsFor": 2170.84,
+          "pointsAgainst": 2150.54,
+          "weeklyScores": [
+            {
+              "week": 1,
+              "score": 145.42
+            },
+            {
+              "week": 2,
+              "score": 109.72
+            },
+            {
+              "week": 3,
+              "score": 129.76
+            },
+            {
+              "week": 4,
+              "score": 126.52
+            },
+            {
+              "week": 5,
+              "score": 120.66
+            },
+            {
+              "week": 6,
+              "score": 118.96
+            },
+            {
+              "week": 7,
+              "score": 113.26
+            },
+            {
+              "week": 8,
+              "score": 111.06
+            },
+            {
+              "week": 9,
+              "score": 135.2
+            },
+            {
+              "week": 10,
+              "score": 116.08
+            },
+            {
+              "week": 11,
+              "score": 133.84
+            },
+            {
+              "week": 12,
+              "score": 154.76
+            },
+            {
+              "week": 13,
+              "score": 125.22
+            },
+            {
+              "week": 14,
+              "score": 144.52
+            },
+            {
+              "week": 15,
+              "score": 120.4
+            },
+            {
+              "week": 16,
+              "score": 104.44
+            },
+            {
+              "week": 17,
+              "score": 161.02
+            }
+          ],
+          "highScore": 161.02,
+          "avgScore": 127.7,
+          "rank": 7,
+          "ownerId": "1"
+        },
+        {
+          "teamId": "5",
+          "teamName": "Buck Nasty",
+          "owner": "Gerry",
+          "wins": 8,
+          "losses": 9,
+          "ties": 0,
+          "pointsFor": 2003.66,
+          "pointsAgainst": 1914.18,
+          "weeklyScores": [
+            {
+              "week": 1,
+              "score": 146.24
+            },
+            {
+              "week": 2,
+              "score": 112.54
+            },
+            {
+              "week": 3,
+              "score": 79.88
+            },
+            {
+              "week": 4,
+              "score": 117.5
+            },
+            {
+              "week": 5,
+              "score": 98.64
+            },
+            {
+              "week": 6,
+              "score": 129.3
+            },
+            {
+              "week": 7,
+              "score": 79.38
+            },
+            {
+              "week": 8,
+              "score": 134.58
+            },
+            {
+              "week": 9,
+              "score": 179.34
+            },
+            {
+              "week": 10,
+              "score": 121.22
+            },
+            {
+              "week": 11,
+              "score": 145.96
+            },
+            {
+              "week": 12,
+              "score": 123.66
+            },
+            {
+              "week": 13,
+              "score": 105.04
+            },
+            {
+              "week": 14,
+              "score": 147.6
+            },
+            {
+              "week": 15,
+              "score": 68.58
+            },
+            {
+              "week": 16,
+              "score": 100.62
+            },
+            {
+              "week": 17,
+              "score": 113.58
+            }
+          ],
+          "highScore": 179.34,
+          "avgScore": 117.86,
+          "rank": 8,
+          "ownerId": "12"
+        },
+        {
+          "teamId": "7",
+          "teamName": "Upbeat360Fly",
+          "owner": "Atiba",
+          "wins": 4,
+          "losses": 11,
+          "ties": 0,
+          "pointsFor": 1733.14,
+          "pointsAgainst": 1953.38,
+          "weeklyScores": [
+            {
+              "week": 1,
+              "score": 118.36
+            },
+            {
+              "week": 2,
+              "score": 115.4
+            },
+            {
+              "week": 3,
+              "score": 105.1
+            },
+            {
+              "week": 4,
+              "score": 91
+            },
+            {
+              "week": 5,
+              "score": 111.04
+            },
+            {
+              "week": 6,
+              "score": 102
+            },
+            {
+              "week": 7,
+              "score": 110.6
+            },
+            {
+              "week": 8,
+              "score": 117.74
+            },
+            {
+              "week": 9,
+              "score": 109.22
+            },
+            {
+              "week": 10,
+              "score": 95.18
+            },
+            {
+              "week": 11,
+              "score": 145.7
+            },
+            {
+              "week": 12,
+              "score": 138.12
+            },
+            {
+              "week": 13,
+              "score": 155.08
+            },
+            {
+              "week": 14,
+              "score": 73.34
+            },
+            {
+              "week": 15,
+              "score": 145.26
+            }
+          ],
+          "highScore": 155.08,
+          "avgScore": 115.54,
+          "rank": 9,
+          "ownerId": "5"
+        },
+        {
+          "teamId": "12",
+          "teamName": "Tiina Gail",
+          "owner": "Christina",
+          "wins": 3,
+          "losses": 12,
+          "ties": 0,
+          "pointsFor": 1557.96,
+          "pointsAgainst": 1812.32,
+          "weeklyScores": [
+            {
+              "week": 1,
+              "score": 78.76
+            },
+            {
+              "week": 2,
+              "score": 149.22
+            },
+            {
+              "week": 3,
+              "score": 105.46
+            },
+            {
+              "week": 4,
+              "score": 108.64
+            },
+            {
+              "week": 5,
+              "score": 101.38
+            },
+            {
+              "week": 6,
+              "score": 85.52
+            },
+            {
+              "week": 7,
+              "score": 100.1
+            },
+            {
+              "week": 8,
+              "score": 141.2
+            },
+            {
+              "week": 9,
+              "score": 112.02
+            },
+            {
+              "week": 10,
+              "score": 90.9
+            },
+            {
+              "week": 11,
+              "score": 108.38
+            },
+            {
+              "week": 12,
+              "score": 73.86
+            },
+            {
+              "week": 13,
+              "score": 102.24
+            },
+            {
+              "week": 14,
+              "score": 103.22
+            },
+            {
+              "week": 15,
+              "score": 97.06
+            }
+          ],
+          "highScore": 149.22,
+          "avgScore": 103.86,
+          "rank": 10,
+          "ownerId": "8"
+        }
+      ],
+      "teamSummaries": [
+        {
+          "teamId": "3",
+          "teamName": "Scott",
+          "owner": "Scott",
+          "wins": 12,
+          "losses": 5,
+          "ties": 0,
+          "pointsFor": 2236,
+          "pointsAgainst": 1973.62,
+          "weeklyScores": [
+            {
+              "week": 1,
+              "score": 118.06
+            },
+            {
+              "week": 2,
+              "score": 109.12
+            },
+            {
+              "week": 3,
+              "score": 138.16
+            },
+            {
+              "week": 4,
+              "score": 147.28
+            },
+            {
+              "week": 5,
+              "score": 129.56
+            },
+            {
+              "week": 6,
+              "score": 132.22
+            },
+            {
+              "week": 7,
+              "score": 172.74
+            },
+            {
+              "week": 8,
+              "score": 100.36
+            },
+            {
+              "week": 9,
+              "score": 132.74
+            },
+            {
+              "week": 10,
+              "score": 133.62
+            },
+            {
+              "week": 11,
+              "score": 87.14
+            },
+            {
+              "week": 12,
+              "score": 136.22
+            },
+            {
+              "week": 13,
+              "score": 119.02
+            },
+            {
+              "week": 14,
+              "score": 118.66
+            },
+            {
+              "week": 15,
+              "score": 169.14
+            },
+            {
+              "week": 16,
+              "score": 141.88
+            },
+            {
+              "week": 17,
+              "score": 150.08
+            }
+          ],
+          "highScore": 172.74,
+          "avgScore": 131.53,
+          "rank": 1,
+          "ownerId": "2"
+        },
+        {
+          "teamId": "8",
+          "teamName": "The Sour Gang",
+          "owner": "Chris (WV)",
+          "wins": 10,
+          "losses": 7,
+          "ties": 0,
+          "pointsFor": 2175.42,
+          "pointsAgainst": 1917.88,
+          "weeklyScores": [
+            {
+              "week": 1,
+              "score": 119.38
+            },
+            {
+              "week": 2,
+              "score": 91.38
+            },
+            {
+              "week": 3,
+              "score": 93.38
+            },
+            {
+              "week": 4,
+              "score": 113.08
+            },
+            {
+              "week": 5,
+              "score": 172.3
+            },
+            {
+              "week": 6,
+              "score": 121.66
+            },
+            {
+              "week": 7,
+              "score": 110.4
+            },
+            {
+              "week": 8,
+              "score": 130.68
+            },
+            {
+              "week": 9,
+              "score": 132.96
+            },
+            {
+              "week": 10,
+              "score": 168.64
+            },
+            {
+              "week": 11,
+              "score": 118.72
+            },
+            {
+              "week": 12,
+              "score": 80.7
+            },
+            {
+              "week": 13,
+              "score": 130.5
+            },
+            {
+              "week": 14,
+              "score": 183.26
+            },
+            {
+              "week": 15,
+              "score": 156.26
+            },
+            {
+              "week": 16,
+              "score": 152.08
+            },
+            {
+              "week": 17,
+              "score": 100.04
+            }
+          ],
+          "highScore": 183.26,
+          "avgScore": 127.97,
+          "rank": 2,
+          "ownerId": "6"
+        },
+        {
+          "teamId": "4",
+          "teamName": "La PortaPotty",
+          "owner": "Jason",
+          "wins": 10,
+          "losses": 7,
+          "ties": 0,
+          "pointsFor": 2128.28,
+          "pointsAgainst": 2115.12,
+          "weeklyScores": [
+            {
+              "week": 1,
+              "score": 114.62
+            },
+            {
+              "week": 2,
+              "score": 83.64
+            },
+            {
+              "week": 3,
+              "score": 113.86
+            },
+            {
+              "week": 4,
+              "score": 107.82
+            },
+            {
+              "week": 5,
+              "score": 139.52
+            },
+            {
+              "week": 6,
+              "score": 143.76
+            },
+            {
+              "week": 7,
+              "score": 142.74
+            },
+            {
+              "week": 8,
+              "score": 127.54
+            },
+            {
+              "week": 9,
+              "score": 131.72
+            },
+            {
+              "week": 10,
+              "score": 93.08
+            },
+            {
+              "week": 11,
+              "score": 130.44
+            },
+            {
+              "week": 12,
+              "score": 109.7
+            },
+            {
+              "week": 13,
+              "score": 137.54
+            },
+            {
+              "week": 14,
+              "score": 139.76
+            },
+            {
+              "week": 15,
+              "score": 127.14
+            },
+            {
+              "week": 16,
+              "score": 151.02
+            },
+            {
+              "week": 17,
+              "score": 134.38
+            }
+          ],
+          "highScore": 151.02,
+          "avgScore": 125.19,
+          "rank": 3,
+          "ownerId": "3"
+        },
+        {
+          "teamId": "13",
+          "teamName": "Hawk Tua Tagovailoa",
+          "owner": "Chris Michael",
+          "wins": 10,
+          "losses": 7,
+          "ties": 0,
+          "pointsFor": 2029.12,
+          "pointsAgainst": 1997.34,
+          "weeklyScores": [
+            {
+              "week": 1,
+              "score": 97.02
+            },
+            {
+              "week": 2,
+              "score": 165.48
+            },
+            {
+              "week": 3,
+              "score": 112.88
+            },
+            {
+              "week": 4,
+              "score": 130.52
+            },
+            {
+              "week": 5,
+              "score": 126.52
+            },
+            {
+              "week": 6,
+              "score": 103.52
+            },
+            {
+              "week": 7,
+              "score": 105.74
+            },
+            {
+              "week": 8,
+              "score": 96.36
+            },
+            {
+              "week": 9,
+              "score": 114.2
+            },
+            {
+              "week": 10,
+              "score": 106.4
+            },
+            {
+              "week": 11,
+              "score": 122.68
+            },
+            {
+              "week": 12,
+              "score": 89.68
+            },
+            {
+              "week": 13,
+              "score": 143.18
+            },
+            {
+              "week": 14,
+              "score": 78.54
+            },
+            {
+              "week": 15,
+              "score": 176.9
+            },
+            {
+              "week": 16,
+              "score": 120.78
+            },
+            {
+              "week": 17,
+              "score": 138.72
+            }
+          ],
+          "highScore": 176.9,
+          "avgScore": 119.36,
+          "rank": 4,
+          "ownerId": "9"
+        },
+        {
+          "teamId": "10",
+          "teamName": "GloboGymPurpleCobras",
+          "owner": "Seth",
+          "wins": 9,
+          "losses": 8,
+          "ties": 0,
+          "pointsFor": 2116.16,
+          "pointsAgainst": 2215.3,
+          "weeklyScores": [
+            {
+              "week": 1,
+              "score": 120.28
+            },
+            {
+              "week": 2,
+              "score": 141.46
+            },
+            {
+              "week": 3,
+              "score": 147.22
+            },
+            {
+              "week": 4,
+              "score": 112
+            },
+            {
+              "week": 5,
+              "score": 100.94
+            },
+            {
+              "week": 6,
+              "score": 130.3
+            },
+            {
+              "week": 7,
+              "score": 84.82
+            },
+            {
+              "week": 8,
+              "score": 139.72
+            },
+            {
+              "week": 9,
+              "score": 100.7
+            },
+            {
+              "week": 10,
+              "score": 90.6
+            },
+            {
+              "week": 11,
+              "score": 106.18
+            },
+            {
+              "week": 12,
+              "score": 117.32
+            },
+            {
+              "week": 13,
+              "score": 166.52
+            },
+            {
+              "week": 14,
+              "score": 166.68
+            },
+            {
+              "week": 15,
+              "score": 131.38
+            },
+            {
+              "week": 16,
+              "score": 140.46
+            },
+            {
+              "week": 17,
+              "score": 119.58
+            }
+          ],
+          "highScore": 166.68,
+          "avgScore": 124.48,
+          "rank": 5,
+          "ownerId": "7"
+        },
+        {
+          "teamId": "6",
+          "teamName": "Half Order Nachos",
+          "owner": "Fred",
+          "wins": 9,
+          "losses": 8,
+          "ties": 0,
+          "pointsFor": 2011.18,
+          "pointsAgainst": 2112.08,
+          "weeklyScores": [
+            {
+              "week": 1,
+              "score": 111.38
+            },
+            {
+              "week": 2,
+              "score": 100.36
+            },
+            {
+              "week": 3,
+              "score": 118.68
+            },
+            {
+              "week": 4,
+              "score": 114.96
+            },
+            {
+              "week": 5,
+              "score": 119.5
+            },
+            {
+              "week": 6,
+              "score": 106.1
+            },
+            {
+              "week": 7,
+              "score": 140.1
+            },
+            {
+              "week": 8,
+              "score": 154.2
+            },
+            {
+              "week": 9,
+              "score": 102
+            },
+            {
+              "week": 10,
+              "score": 129.44
+            },
+            {
+              "week": 11,
+              "score": 105
+            },
+            {
+              "week": 12,
+              "score": 104.26
+            },
+            {
+              "week": 13,
+              "score": 119
+            },
+            {
+              "week": 14,
+              "score": 119.7
+            },
+            {
+              "week": 15,
+              "score": 133.02
+            },
+            {
+              "week": 16,
+              "score": 102.92
+            },
+            {
+              "week": 17,
+              "score": 130.56
+            }
+          ],
+          "highScore": 154.2,
+          "avgScore": 118.3,
+          "rank": 6,
+          "ownerId": "4"
+        },
+        {
+          "teamId": "1",
+          "teamName": "Is Mayonnaise a Quarterback",
+          "owner": "Tomas",
+          "wins": 8,
+          "losses": 9,
+          "ties": 0,
+          "pointsFor": 2170.84,
+          "pointsAgainst": 2150.54,
+          "weeklyScores": [
+            {
+              "week": 1,
+              "score": 145.42
+            },
+            {
+              "week": 2,
+              "score": 109.72
+            },
+            {
+              "week": 3,
+              "score": 129.76
+            },
+            {
+              "week": 4,
+              "score": 126.52
+            },
+            {
+              "week": 5,
+              "score": 120.66
+            },
+            {
+              "week": 6,
+              "score": 118.96
+            },
+            {
+              "week": 7,
+              "score": 113.26
+            },
+            {
+              "week": 8,
+              "score": 111.06
+            },
+            {
+              "week": 9,
+              "score": 135.2
+            },
+            {
+              "week": 10,
+              "score": 116.08
+            },
+            {
+              "week": 11,
+              "score": 133.84
+            },
+            {
+              "week": 12,
+              "score": 154.76
+            },
+            {
+              "week": 13,
+              "score": 125.22
+            },
+            {
+              "week": 14,
+              "score": 144.52
+            },
+            {
+              "week": 15,
+              "score": 120.4
+            },
+            {
+              "week": 16,
+              "score": 104.44
+            },
+            {
+              "week": 17,
+              "score": 161.02
+            }
+          ],
+          "highScore": 161.02,
+          "avgScore": 127.7,
+          "rank": 7,
+          "ownerId": "1"
+        },
+        {
+          "teamId": "5",
+          "teamName": "Buck Nasty",
+          "owner": "Gerry",
+          "wins": 8,
+          "losses": 9,
+          "ties": 0,
+          "pointsFor": 2003.66,
+          "pointsAgainst": 1914.18,
+          "weeklyScores": [
+            {
+              "week": 1,
+              "score": 146.24
+            },
+            {
+              "week": 2,
+              "score": 112.54
+            },
+            {
+              "week": 3,
+              "score": 79.88
+            },
+            {
+              "week": 4,
+              "score": 117.5
+            },
+            {
+              "week": 5,
+              "score": 98.64
+            },
+            {
+              "week": 6,
+              "score": 129.3
+            },
+            {
+              "week": 7,
+              "score": 79.38
+            },
+            {
+              "week": 8,
+              "score": 134.58
+            },
+            {
+              "week": 9,
+              "score": 179.34
+            },
+            {
+              "week": 10,
+              "score": 121.22
+            },
+            {
+              "week": 11,
+              "score": 145.96
+            },
+            {
+              "week": 12,
+              "score": 123.66
+            },
+            {
+              "week": 13,
+              "score": 105.04
+            },
+            {
+              "week": 14,
+              "score": 147.6
+            },
+            {
+              "week": 15,
+              "score": 68.58
+            },
+            {
+              "week": 16,
+              "score": 100.62
+            },
+            {
+              "week": 17,
+              "score": 113.58
+            }
+          ],
+          "highScore": 179.34,
+          "avgScore": 117.86,
+          "rank": 8,
+          "ownerId": "12"
+        },
+        {
+          "teamId": "7",
+          "teamName": "Upbeat360Fly",
+          "owner": "Atiba",
+          "wins": 4,
+          "losses": 11,
+          "ties": 0,
+          "pointsFor": 1733.14,
+          "pointsAgainst": 1953.38,
+          "weeklyScores": [
+            {
+              "week": 1,
+              "score": 118.36
+            },
+            {
+              "week": 2,
+              "score": 115.4
+            },
+            {
+              "week": 3,
+              "score": 105.1
+            },
+            {
+              "week": 4,
+              "score": 91
+            },
+            {
+              "week": 5,
+              "score": 111.04
+            },
+            {
+              "week": 6,
+              "score": 102
+            },
+            {
+              "week": 7,
+              "score": 110.6
+            },
+            {
+              "week": 8,
+              "score": 117.74
+            },
+            {
+              "week": 9,
+              "score": 109.22
+            },
+            {
+              "week": 10,
+              "score": 95.18
+            },
+            {
+              "week": 11,
+              "score": 145.7
+            },
+            {
+              "week": 12,
+              "score": 138.12
+            },
+            {
+              "week": 13,
+              "score": 155.08
+            },
+            {
+              "week": 14,
+              "score": 73.34
+            },
+            {
+              "week": 15,
+              "score": 145.26
+            }
+          ],
+          "highScore": 155.08,
+          "avgScore": 115.54,
+          "rank": 9,
+          "ownerId": "5"
+        },
+        {
+          "teamId": "12",
+          "teamName": "Tiina Gail",
+          "owner": "Christina",
+          "wins": 3,
+          "losses": 12,
+          "ties": 0,
+          "pointsFor": 1557.96,
+          "pointsAgainst": 1812.32,
+          "weeklyScores": [
+            {
+              "week": 1,
+              "score": 78.76
+            },
+            {
+              "week": 2,
+              "score": 149.22
+            },
+            {
+              "week": 3,
+              "score": 105.46
+            },
+            {
+              "week": 4,
+              "score": 108.64
+            },
+            {
+              "week": 5,
+              "score": 101.38
+            },
+            {
+              "week": 6,
+              "score": 85.52
+            },
+            {
+              "week": 7,
+              "score": 100.1
+            },
+            {
+              "week": 8,
+              "score": 141.2
+            },
+            {
+              "week": 9,
+              "score": 112.02
+            },
+            {
+              "week": 10,
+              "score": 90.9
+            },
+            {
+              "week": 11,
+              "score": 108.38
+            },
+            {
+              "week": 12,
+              "score": 73.86
+            },
+            {
+              "week": 13,
+              "score": 102.24
+            },
+            {
+              "week": 14,
+              "score": 103.22
+            },
+            {
+              "week": 15,
+              "score": 97.06
+            }
+          ],
+          "highScore": 149.22,
+          "avgScore": 103.86,
+          "rank": 10,
+          "ownerId": "8"
+        }
+      ],
+      "matchups": [
+        {
+          "week": 1,
+          "homeTeamId": "1",
+          "homeTeamName": "Is Mayonnaise a Quarterback",
+          "homeScore": 145.42,
+          "awayTeamId": "7",
+          "awayTeamName": "Upbeat360Fly",
+          "awayScore": 118.36,
+          "winner": "1"
+        },
+        {
+          "week": 1,
+          "homeTeamId": "3",
+          "homeTeamName": "Scott",
+          "homeScore": 118.06,
+          "awayTeamId": "4",
+          "awayTeamName": "La PortaPotty",
+          "awayScore": 114.62,
+          "winner": "3"
+        },
+        {
+          "week": 1,
+          "homeTeamId": "5",
+          "homeTeamName": "Buck Nasty",
+          "homeScore": 146.24,
+          "awayTeamId": "6",
+          "awayTeamName": "Half Order Nachos",
+          "awayScore": 111.38,
+          "winner": "5"
+        },
+        {
+          "week": 1,
+          "homeTeamId": "13",
+          "homeTeamName": "Hawk Tua Tagovailoa",
+          "homeScore": 97.02,
+          "awayTeamId": "12",
+          "awayTeamName": "Tiina Gail",
+          "awayScore": 78.76,
+          "winner": "13"
+        },
+        {
+          "week": 1,
+          "homeTeamId": "8",
+          "homeTeamName": "The Sour Gang",
+          "homeScore": 119.38,
+          "awayTeamId": "10",
+          "awayTeamName": "GloboGymPurpleCobras",
+          "awayScore": 120.28,
+          "winner": "10"
+        },
+        {
+          "week": 2,
+          "homeTeamId": "1",
+          "homeTeamName": "Is Mayonnaise a Quarterback",
+          "homeScore": 109.72,
+          "awayTeamId": "12",
+          "awayTeamName": "Tiina Gail",
+          "awayScore": 149.22,
+          "winner": "12"
+        },
+        {
+          "week": 2,
+          "homeTeamId": "5",
+          "homeTeamName": "Buck Nasty",
+          "homeScore": 112.54,
+          "awayTeamId": "3",
+          "awayTeamName": "Scott",
+          "awayScore": 109.12,
+          "winner": "5"
+        },
+        {
+          "week": 2,
+          "homeTeamId": "4",
+          "homeTeamName": "La PortaPotty",
+          "homeScore": 83.64,
+          "awayTeamId": "13",
+          "awayTeamName": "Hawk Tua Tagovailoa",
+          "awayScore": 165.48,
+          "winner": "13"
+        },
+        {
+          "week": 2,
+          "homeTeamId": "6",
+          "homeTeamName": "Half Order Nachos",
+          "homeScore": 100.36,
+          "awayTeamId": "8",
+          "awayTeamName": "The Sour Gang",
+          "awayScore": 91.38,
+          "winner": "6"
+        },
+        {
+          "week": 2,
+          "homeTeamId": "10",
+          "homeTeamName": "GloboGymPurpleCobras",
+          "homeScore": 141.46,
+          "awayTeamId": "7",
+          "awayTeamName": "Upbeat360Fly",
+          "awayScore": 115.4,
+          "winner": "10"
+        },
+        {
+          "week": 3,
+          "homeTeamId": "1",
+          "homeTeamName": "Is Mayonnaise a Quarterback",
+          "homeScore": 129.76,
+          "awayTeamId": "4",
+          "awayTeamName": "La PortaPotty",
+          "awayScore": 113.86,
+          "winner": "1"
+        },
+        {
+          "week": 3,
+          "homeTeamId": "3",
+          "homeTeamName": "Scott",
+          "homeScore": 138.16,
+          "awayTeamId": "13",
+          "awayTeamName": "Hawk Tua Tagovailoa",
+          "awayScore": 112.88,
+          "winner": "3"
+        },
+        {
+          "week": 3,
+          "homeTeamId": "8",
+          "homeTeamName": "The Sour Gang",
+          "homeScore": 93.38,
+          "awayTeamId": "5",
+          "awayTeamName": "Buck Nasty",
+          "awayScore": 79.88,
+          "winner": "8"
+        },
+        {
+          "week": 3,
+          "homeTeamId": "7",
+          "homeTeamName": "Upbeat360Fly",
+          "homeScore": 105.1,
+          "awayTeamId": "6",
+          "awayTeamName": "Half Order Nachos",
+          "awayScore": 118.68,
+          "winner": "6"
+        },
+        {
+          "week": 3,
+          "homeTeamId": "10",
+          "homeTeamName": "GloboGymPurpleCobras",
+          "homeScore": 147.22,
+          "awayTeamId": "12",
+          "awayTeamName": "Tiina Gail",
+          "awayScore": 105.46,
+          "winner": "10"
+        },
+        {
+          "week": 4,
+          "homeTeamId": "1",
+          "homeTeamName": "Is Mayonnaise a Quarterback",
+          "homeScore": 126.52,
+          "awayTeamId": "13",
+          "awayTeamName": "Hawk Tua Tagovailoa",
+          "awayScore": 130.52,
+          "winner": "13"
+        },
+        {
+          "week": 4,
+          "homeTeamId": "8",
+          "homeTeamName": "The Sour Gang",
+          "homeScore": 113.08,
+          "awayTeamId": "3",
+          "awayTeamName": "Scott",
+          "awayScore": 147.28,
+          "winner": "3"
+        },
+        {
+          "week": 4,
+          "homeTeamId": "5",
+          "homeTeamName": "Buck Nasty",
+          "homeScore": 117.5,
+          "awayTeamId": "7",
+          "awayTeamName": "Upbeat360Fly",
+          "awayScore": 91,
+          "winner": "5"
+        },
+        {
+          "week": 4,
+          "homeTeamId": "4",
+          "homeTeamName": "La PortaPotty",
+          "homeScore": 107.82,
+          "awayTeamId": "10",
+          "awayTeamName": "GloboGymPurpleCobras",
+          "awayScore": 112,
+          "winner": "10"
+        },
+        {
+          "week": 4,
+          "homeTeamId": "6",
+          "homeTeamName": "Half Order Nachos",
+          "homeScore": 114.96,
+          "awayTeamId": "12",
+          "awayTeamName": "Tiina Gail",
+          "awayScore": 108.64,
+          "winner": "6"
+        },
+        {
+          "week": 5,
+          "homeTeamId": "1",
+          "homeTeamName": "Is Mayonnaise a Quarterback",
+          "homeScore": 120.66,
+          "awayTeamId": "3",
+          "awayTeamName": "Scott",
+          "awayScore": 129.56,
+          "winner": "3"
+        },
+        {
+          "week": 5,
+          "homeTeamId": "7",
+          "homeTeamName": "Upbeat360Fly",
+          "homeScore": 111.04,
+          "awayTeamId": "8",
+          "awayTeamName": "The Sour Gang",
+          "awayScore": 172.3,
+          "winner": "8"
+        },
+        {
+          "week": 5,
+          "homeTeamId": "10",
+          "homeTeamName": "GloboGymPurpleCobras",
+          "homeScore": 100.94,
+          "awayTeamId": "13",
+          "awayTeamName": "Hawk Tua Tagovailoa",
+          "awayScore": 126.52,
+          "winner": "13"
+        },
+        {
+          "week": 5,
+          "homeTeamId": "12",
+          "homeTeamName": "Tiina Gail",
+          "homeScore": 101.38,
+          "awayTeamId": "5",
+          "awayTeamName": "Buck Nasty",
+          "awayScore": 98.64,
+          "winner": "12"
+        },
+        {
+          "week": 5,
+          "homeTeamId": "6",
+          "homeTeamName": "Half Order Nachos",
+          "homeScore": 119.5,
+          "awayTeamId": "4",
+          "awayTeamName": "La PortaPotty",
+          "awayScore": 139.52,
+          "winner": "4"
+        },
+        {
+          "week": 6,
+          "homeTeamId": "1",
+          "homeTeamName": "Is Mayonnaise a Quarterback",
+          "homeScore": 118.96,
+          "awayTeamId": "10",
+          "awayTeamName": "GloboGymPurpleCobras",
+          "awayScore": 130.3,
+          "winner": "10"
+        },
+        {
+          "week": 6,
+          "homeTeamId": "7",
+          "homeTeamName": "Upbeat360Fly",
+          "homeScore": 102,
+          "awayTeamId": "3",
+          "awayTeamName": "Scott",
+          "awayScore": 132.22,
+          "winner": "3"
+        },
+        {
+          "week": 6,
+          "homeTeamId": "8",
+          "homeTeamName": "The Sour Gang",
+          "homeScore": 121.66,
+          "awayTeamId": "12",
+          "awayTeamName": "Tiina Gail",
+          "awayScore": 85.52,
+          "winner": "8"
+        },
+        {
+          "week": 6,
+          "homeTeamId": "13",
+          "homeTeamName": "Hawk Tua Tagovailoa",
+          "homeScore": 103.52,
+          "awayTeamId": "6",
+          "awayTeamName": "Half Order Nachos",
+          "awayScore": 106.1,
+          "winner": "6"
+        },
+        {
+          "week": 6,
+          "homeTeamId": "5",
+          "homeTeamName": "Buck Nasty",
+          "homeScore": 129.3,
+          "awayTeamId": "4",
+          "awayTeamName": "La PortaPotty",
+          "awayScore": 143.76,
+          "winner": "4"
+        },
+        {
+          "week": 7,
+          "homeTeamId": "1",
+          "homeTeamName": "Is Mayonnaise a Quarterback",
+          "homeScore": 113.26,
+          "awayTeamId": "6",
+          "awayTeamName": "Half Order Nachos",
+          "awayScore": 140.1,
+          "winner": "6"
+        },
+        {
+          "week": 7,
+          "homeTeamId": "3",
+          "homeTeamName": "Scott",
+          "homeScore": 172.74,
+          "awayTeamId": "10",
+          "awayTeamName": "GloboGymPurpleCobras",
+          "awayScore": 84.82,
+          "winner": "3"
+        },
+        {
+          "week": 7,
+          "homeTeamId": "12",
+          "homeTeamName": "Tiina Gail",
+          "homeScore": 100.1,
+          "awayTeamId": "7",
+          "awayTeamName": "Upbeat360Fly",
+          "awayScore": 110.6,
+          "winner": "7"
+        },
+        {
+          "week": 7,
+          "homeTeamId": "4",
+          "homeTeamName": "La PortaPotty",
+          "homeScore": 142.74,
+          "awayTeamId": "8",
+          "awayTeamName": "The Sour Gang",
+          "awayScore": 110.4,
+          "winner": "4"
+        },
+        {
+          "week": 7,
+          "homeTeamId": "5",
+          "homeTeamName": "Buck Nasty",
+          "homeScore": 79.38,
+          "awayTeamId": "13",
+          "awayTeamName": "Hawk Tua Tagovailoa",
+          "awayScore": 105.74,
+          "winner": "13"
+        },
+        {
+          "week": 8,
+          "homeTeamId": "1",
+          "homeTeamName": "Is Mayonnaise a Quarterback",
+          "homeScore": 111.06,
+          "awayTeamId": "5",
+          "awayTeamName": "Buck Nasty",
+          "awayScore": 134.58,
+          "winner": "5"
+        },
+        {
+          "week": 8,
+          "homeTeamId": "12",
+          "homeTeamName": "Tiina Gail",
+          "homeScore": 141.2,
+          "awayTeamId": "3",
+          "awayTeamName": "Scott",
+          "awayScore": 100.36,
+          "winner": "12"
+        },
+        {
+          "week": 8,
+          "homeTeamId": "10",
+          "homeTeamName": "GloboGymPurpleCobras",
+          "homeScore": 139.72,
+          "awayTeamId": "6",
+          "awayTeamName": "Half Order Nachos",
+          "awayScore": 154.2,
+          "winner": "6"
+        },
+        {
+          "week": 8,
+          "homeTeamId": "7",
+          "homeTeamName": "Upbeat360Fly",
+          "homeScore": 117.74,
+          "awayTeamId": "4",
+          "awayTeamName": "La PortaPotty",
+          "awayScore": 127.54,
+          "winner": "4"
+        },
+        {
+          "week": 8,
+          "homeTeamId": "8",
+          "homeTeamName": "The Sour Gang",
+          "homeScore": 130.68,
+          "awayTeamId": "13",
+          "awayTeamName": "Hawk Tua Tagovailoa",
+          "awayScore": 96.36,
+          "winner": "8"
+        },
+        {
+          "week": 9,
+          "homeTeamId": "1",
+          "homeTeamName": "Is Mayonnaise a Quarterback",
+          "homeScore": 135.2,
+          "awayTeamId": "8",
+          "awayTeamName": "The Sour Gang",
+          "awayScore": 132.96,
+          "winner": "1"
+        },
+        {
+          "week": 9,
+          "homeTeamId": "3",
+          "homeTeamName": "Scott",
+          "homeScore": 132.74,
+          "awayTeamId": "6",
+          "awayTeamName": "Half Order Nachos",
+          "awayScore": 102,
+          "winner": "3"
+        },
+        {
+          "week": 9,
+          "homeTeamId": "4",
+          "homeTeamName": "La PortaPotty",
+          "homeScore": 131.72,
+          "awayTeamId": "12",
+          "awayTeamName": "Tiina Gail",
+          "awayScore": 112.02,
+          "winner": "4"
+        },
+        {
+          "week": 9,
+          "homeTeamId": "5",
+          "homeTeamName": "Buck Nasty",
+          "homeScore": 179.34,
+          "awayTeamId": "10",
+          "awayTeamName": "GloboGymPurpleCobras",
+          "awayScore": 100.7,
+          "winner": "5"
+        },
+        {
+          "week": 9,
+          "homeTeamId": "13",
+          "homeTeamName": "Hawk Tua Tagovailoa",
+          "homeScore": 114.2,
+          "awayTeamId": "7",
+          "awayTeamName": "Upbeat360Fly",
+          "awayScore": 109.22,
+          "winner": "13"
+        },
+        {
+          "week": 10,
+          "homeTeamId": "1",
+          "homeTeamName": "Is Mayonnaise a Quarterback",
+          "homeScore": 116.08,
+          "awayTeamId": "7",
+          "awayTeamName": "Upbeat360Fly",
+          "awayScore": 95.18,
+          "winner": "1"
+        },
+        {
+          "week": 10,
+          "homeTeamId": "4",
+          "homeTeamName": "La PortaPotty",
+          "homeScore": 93.08,
+          "awayTeamId": "3",
+          "awayTeamName": "Scott",
+          "awayScore": 133.62,
+          "winner": "3"
+        },
+        {
+          "week": 10,
+          "homeTeamId": "6",
+          "homeTeamName": "Half Order Nachos",
+          "homeScore": 129.44,
+          "awayTeamId": "5",
+          "awayTeamName": "Buck Nasty",
+          "awayScore": 121.22,
+          "winner": "6"
+        },
+        {
+          "week": 10,
+          "homeTeamId": "12",
+          "homeTeamName": "Tiina Gail",
+          "homeScore": 90.9,
+          "awayTeamId": "13",
+          "awayTeamName": "Hawk Tua Tagovailoa",
+          "awayScore": 106.4,
+          "winner": "13"
+        },
+        {
+          "week": 10,
+          "homeTeamId": "10",
+          "homeTeamName": "GloboGymPurpleCobras",
+          "homeScore": 90.6,
+          "awayTeamId": "8",
+          "awayTeamName": "The Sour Gang",
+          "awayScore": 168.64,
+          "winner": "8"
+        },
+        {
+          "week": 11,
+          "homeTeamId": "1",
+          "homeTeamName": "Is Mayonnaise a Quarterback",
+          "homeScore": 133.84,
+          "awayTeamId": "12",
+          "awayTeamName": "Tiina Gail",
+          "awayScore": 108.38,
+          "winner": "1"
+        },
+        {
+          "week": 11,
+          "homeTeamId": "3",
+          "homeTeamName": "Scott",
+          "homeScore": 87.14,
+          "awayTeamId": "5",
+          "awayTeamName": "Buck Nasty",
+          "awayScore": 145.96,
+          "winner": "5"
+        },
+        {
+          "week": 11,
+          "homeTeamId": "13",
+          "homeTeamName": "Hawk Tua Tagovailoa",
+          "homeScore": 122.68,
+          "awayTeamId": "4",
+          "awayTeamName": "La PortaPotty",
+          "awayScore": 130.44,
+          "winner": "4"
+        },
+        {
+          "week": 11,
+          "homeTeamId": "8",
+          "homeTeamName": "The Sour Gang",
+          "homeScore": 118.72,
+          "awayTeamId": "6",
+          "awayTeamName": "Half Order Nachos",
+          "awayScore": 105,
+          "winner": "8"
+        },
+        {
+          "week": 11,
+          "homeTeamId": "7",
+          "homeTeamName": "Upbeat360Fly",
+          "homeScore": 145.7,
+          "awayTeamId": "10",
+          "awayTeamName": "GloboGymPurpleCobras",
+          "awayScore": 106.18,
+          "winner": "7"
+        },
+        {
+          "week": 12,
+          "homeTeamId": "1",
+          "homeTeamName": "Is Mayonnaise a Quarterback",
+          "homeScore": 154.76,
+          "awayTeamId": "4",
+          "awayTeamName": "La PortaPotty",
+          "awayScore": 109.7,
+          "winner": "1"
+        },
+        {
+          "week": 12,
+          "homeTeamId": "13",
+          "homeTeamName": "Hawk Tua Tagovailoa",
+          "homeScore": 89.68,
+          "awayTeamId": "3",
+          "awayTeamName": "Scott",
+          "awayScore": 136.22,
+          "winner": "3"
+        },
+        {
+          "week": 12,
+          "homeTeamId": "5",
+          "homeTeamName": "Buck Nasty",
+          "homeScore": 123.66,
+          "awayTeamId": "8",
+          "awayTeamName": "The Sour Gang",
+          "awayScore": 80.7,
+          "winner": "5"
+        },
+        {
+          "week": 12,
+          "homeTeamId": "6",
+          "homeTeamName": "Half Order Nachos",
+          "homeScore": 104.26,
+          "awayTeamId": "7",
+          "awayTeamName": "Upbeat360Fly",
+          "awayScore": 138.12,
+          "winner": "7"
+        },
+        {
+          "week": 12,
+          "homeTeamId": "12",
+          "homeTeamName": "Tiina Gail",
+          "homeScore": 73.86,
+          "awayTeamId": "10",
+          "awayTeamName": "GloboGymPurpleCobras",
+          "awayScore": 117.32,
+          "winner": "10"
+        },
+        {
+          "week": 13,
+          "homeTeamId": "1",
+          "homeTeamName": "Is Mayonnaise a Quarterback",
+          "homeScore": 125.22,
+          "awayTeamId": "13",
+          "awayTeamName": "Hawk Tua Tagovailoa",
+          "awayScore": 143.18,
+          "winner": "13"
+        },
+        {
+          "week": 13,
+          "homeTeamId": "3",
+          "homeTeamName": "Scott",
+          "homeScore": 119.02,
+          "awayTeamId": "8",
+          "awayTeamName": "The Sour Gang",
+          "awayScore": 130.5,
+          "winner": "8"
+        },
+        {
+          "week": 13,
+          "homeTeamId": "7",
+          "homeTeamName": "Upbeat360Fly",
+          "homeScore": 155.08,
+          "awayTeamId": "5",
+          "awayTeamName": "Buck Nasty",
+          "awayScore": 105.04,
+          "winner": "7"
+        },
+        {
+          "week": 13,
+          "homeTeamId": "10",
+          "homeTeamName": "GloboGymPurpleCobras",
+          "homeScore": 166.52,
+          "awayTeamId": "4",
+          "awayTeamName": "La PortaPotty",
+          "awayScore": 137.54,
+          "winner": "10"
+        },
+        {
+          "week": 13,
+          "homeTeamId": "12",
+          "homeTeamName": "Tiina Gail",
+          "homeScore": 102.24,
+          "awayTeamId": "6",
+          "awayTeamName": "Half Order Nachos",
+          "awayScore": 119,
+          "winner": "6"
+        },
+        {
+          "week": 14,
+          "homeTeamId": "1",
+          "homeTeamName": "Is Mayonnaise a Quarterback",
+          "homeScore": 144.52,
+          "awayTeamId": "3",
+          "awayTeamName": "Scott",
+          "awayScore": 118.66,
+          "winner": "1"
+        },
+        {
+          "week": 14,
+          "homeTeamId": "8",
+          "homeTeamName": "The Sour Gang",
+          "homeScore": 183.26,
+          "awayTeamId": "7",
+          "awayTeamName": "Upbeat360Fly",
+          "awayScore": 73.34,
+          "winner": "8"
+        },
+        {
+          "week": 14,
+          "homeTeamId": "13",
+          "homeTeamName": "Hawk Tua Tagovailoa",
+          "homeScore": 78.54,
+          "awayTeamId": "10",
+          "awayTeamName": "GloboGymPurpleCobras",
+          "awayScore": 166.68,
+          "winner": "10"
+        },
+        {
+          "week": 14,
+          "homeTeamId": "5",
+          "homeTeamName": "Buck Nasty",
+          "homeScore": 147.6,
+          "awayTeamId": "12",
+          "awayTeamName": "Tiina Gail",
+          "awayScore": 103.22,
+          "winner": "5"
+        },
+        {
+          "week": 14,
+          "homeTeamId": "4",
+          "homeTeamName": "La PortaPotty",
+          "homeScore": 139.76,
+          "awayTeamId": "6",
+          "awayTeamName": "Half Order Nachos",
+          "awayScore": 119.7,
+          "winner": "4"
+        },
+        {
+          "week": 15,
+          "homeTeamId": "1",
+          "homeTeamName": "Is Mayonnaise a Quarterback",
+          "homeScore": 120.4,
+          "awayTeamId": "10",
+          "awayTeamName": "GloboGymPurpleCobras",
+          "awayScore": 131.38,
+          "winner": "10"
+        },
+        {
+          "week": 15,
+          "homeTeamId": "3",
+          "homeTeamName": "Scott",
+          "homeScore": 169.14,
+          "awayTeamId": "7",
+          "awayTeamName": "Upbeat360Fly",
+          "awayScore": 145.26,
+          "winner": "3"
+        },
+        {
+          "week": 15,
+          "homeTeamId": "12",
+          "homeTeamName": "Tiina Gail",
+          "homeScore": 97.06,
+          "awayTeamId": "8",
+          "awayTeamName": "The Sour Gang",
+          "awayScore": 156.26,
+          "winner": "8"
+        },
+        {
+          "week": 15,
+          "homeTeamId": "6",
+          "homeTeamName": "Half Order Nachos",
+          "homeScore": 133.02,
+          "awayTeamId": "13",
+          "awayTeamName": "Hawk Tua Tagovailoa",
+          "awayScore": 176.9,
+          "winner": "13"
+        },
+        {
+          "week": 15,
+          "homeTeamId": "4",
+          "homeTeamName": "La PortaPotty",
+          "homeScore": 127.14,
+          "awayTeamId": "5",
+          "awayTeamName": "Buck Nasty",
+          "awayScore": 68.58,
+          "winner": "4"
+        },
+        {
+          "week": 16,
+          "homeTeamId": "1",
+          "homeTeamName": "Is Mayonnaise a Quarterback",
+          "homeScore": 104.44,
+          "awayTeamId": "4",
+          "awayTeamName": "La PortaPotty",
+          "awayScore": 151.02,
+          "winner": "4"
+        },
+        {
+          "week": 16,
+          "homeTeamId": "5",
+          "homeTeamName": "Buck Nasty",
+          "homeScore": 100.62,
+          "awayTeamId": "6",
+          "awayTeamName": "Half Order Nachos",
+          "awayScore": 102.92,
+          "winner": "6"
+        },
+        {
+          "week": 16,
+          "homeTeamId": "3",
+          "homeTeamName": "Scott",
+          "homeScore": 141.88,
+          "awayTeamId": "13",
+          "awayTeamName": "Hawk Tua Tagovailoa",
+          "awayScore": 120.78,
+          "winner": "3"
+        },
+        {
+          "week": 16,
+          "homeTeamId": "8",
+          "homeTeamName": "The Sour Gang",
+          "homeScore": 152.08,
+          "awayTeamId": "10",
+          "awayTeamName": "GloboGymPurpleCobras",
+          "awayScore": 140.46,
+          "winner": "8"
+        },
+        {
+          "week": 17,
+          "homeTeamId": "1",
+          "homeTeamName": "Is Mayonnaise a Quarterback",
+          "homeScore": 161.02,
+          "awayTeamId": "5",
+          "awayTeamName": "Buck Nasty",
+          "awayScore": 113.58,
+          "winner": "1"
+        },
+        {
+          "week": 17,
+          "homeTeamId": "4",
+          "homeTeamName": "La PortaPotty",
+          "homeScore": 134.38,
+          "awayTeamId": "6",
+          "awayTeamName": "Half Order Nachos",
+          "awayScore": 130.56,
+          "winner": "4"
+        },
+        {
+          "week": 17,
+          "homeTeamId": "3",
+          "homeTeamName": "Scott",
+          "homeScore": 150.08,
+          "awayTeamId": "8",
+          "awayTeamName": "The Sour Gang",
+          "awayScore": 100.04,
+          "winner": "3"
+        },
+        {
+          "week": 17,
+          "homeTeamId": "13",
+          "homeTeamName": "Hawk Tua Tagovailoa",
+          "homeScore": 138.72,
+          "awayTeamId": "10",
+          "awayTeamName": "GloboGymPurpleCobras",
+          "awayScore": 119.58,
+          "winner": "13"
+        }
+      ]
+    },
+    {
+      "season": 2025,
+      "teams": [
+        {
+          "teamId": "3",
+          "teamName": "Scott",
+          "owner": "Scott",
+          "wins": 12,
+          "losses": 5,
+          "ties": 0,
+          "pointsFor": 2333.72,
+          "pointsAgainst": 2095.38,
+          "weeklyScores": [
+            {
+              "week": 1,
+              "score": 149.92
+            },
+            {
+              "week": 2,
+              "score": 152.7
+            },
+            {
+              "week": 3,
+              "score": 123.26
+            },
+            {
+              "week": 4,
+              "score": 165.58
+            },
+            {
+              "week": 5,
+              "score": 129.6
+            },
+            {
+              "week": 6,
+              "score": 91.96
+            },
+            {
+              "week": 7,
+              "score": 122.16
+            },
+            {
+              "week": 8,
+              "score": 150.5
+            },
+            {
+              "week": 9,
+              "score": 124.32
+            },
+            {
+              "week": 10,
+              "score": 118.94
+            },
+            {
+              "week": 11,
+              "score": 136.06
+            },
+            {
+              "week": 12,
+              "score": 110.46
+            },
+            {
+              "week": 13,
+              "score": 147.54
+            },
+            {
+              "week": 14,
+              "score": 158.86
+            },
+            {
+              "week": 15,
+              "score": 125.2
+            },
+            {
+              "week": 16,
+              "score": 177.76
+            },
+            {
+              "week": 17,
+              "score": 148.9
+            }
+          ],
+          "highScore": 177.76,
+          "avgScore": 137.28,
+          "rank": 1,
+          "ownerId": "2"
+        },
+        {
+          "teamId": "14",
+          "teamName": "Cville Heuristicats",
+          "owner": "Dave",
+          "wins": 11,
+          "losses": 6,
+          "ties": 0,
+          "pointsFor": 2149.12,
+          "pointsAgainst": 1957.12,
+          "weeklyScores": [
+            {
+              "week": 1,
+              "score": 100.72
+            },
+            {
+              "week": 2,
+              "score": 85.84
+            },
+            {
+              "week": 3,
+              "score": 163.92
+            },
+            {
+              "week": 4,
+              "score": 135.78
+            },
+            {
+              "week": 5,
+              "score": 132.4
+            },
+            {
+              "week": 6,
+              "score": 148.38
+            },
+            {
+              "week": 7,
+              "score": 113.98
+            },
+            {
+              "week": 8,
+              "score": 103.08
+            },
+            {
+              "week": 9,
+              "score": 138.1
+            },
+            {
+              "week": 10,
+              "score": 147.6
+            },
+            {
+              "week": 11,
+              "score": 119.02
+            },
+            {
+              "week": 12,
+              "score": 127.14
+            },
+            {
+              "week": 13,
+              "score": 133.14
+            },
+            {
+              "week": 14,
+              "score": 99
+            },
+            {
+              "week": 15,
+              "score": 143.74
+            },
+            {
+              "week": 16,
+              "score": 129.48
+            },
+            {
+              "week": 17,
+              "score": 127.8
+            }
+          ],
+          "highScore": 163.92,
+          "avgScore": 126.42,
+          "rank": 2,
+          "ownerId": "10"
+        },
+        {
+          "teamId": "7",
+          "teamName": "Upbeat360Fly",
+          "owner": "Atiba",
+          "wins": 10,
+          "losses": 7,
+          "ties": 0,
+          "pointsFor": 2096.12,
+          "pointsAgainst": 1931.68,
+          "weeklyScores": [
+            {
+              "week": 1,
+              "score": 91.32
+            },
+            {
+              "week": 2,
+              "score": 134.68
+            },
+            {
+              "week": 3,
+              "score": 145.46
+            },
+            {
+              "week": 4,
+              "score": 171.3
+            },
+            {
+              "week": 5,
+              "score": 153.62
+            },
+            {
+              "week": 6,
+              "score": 145.8
+            },
+            {
+              "week": 7,
+              "score": 124.24
+            },
+            {
+              "week": 8,
+              "score": 115.02
+            },
+            {
+              "week": 9,
+              "score": 120.4
+            },
+            {
+              "week": 10,
+              "score": 113.28
+            },
+            {
+              "week": 11,
+              "score": 99.44
+            },
+            {
+              "week": 12,
+              "score": 132.28
+            },
+            {
+              "week": 13,
+              "score": 105.44
+            },
+            {
+              "week": 14,
+              "score": 85.2
+            },
+            {
+              "week": 15,
+              "score": 112.74
+            },
+            {
+              "week": 16,
+              "score": 117.92
+            },
+            {
+              "week": 17,
+              "score": 127.98
+            }
+          ],
+          "highScore": 171.3,
+          "avgScore": 123.3,
+          "rank": 3,
+          "ownerId": "5"
+        },
+        {
+          "teamId": "5",
+          "teamName": "Buck Nasty",
+          "owner": "Gerry",
+          "wins": 9,
+          "losses": 8,
+          "ties": 0,
+          "pointsFor": 2010.04,
+          "pointsAgainst": 1974.54,
+          "weeklyScores": [
+            {
+              "week": 1,
+              "score": 97.9
+            },
+            {
+              "week": 2,
+              "score": 120.56
+            },
+            {
+              "week": 3,
+              "score": 101.58
+            },
+            {
+              "week": 4,
+              "score": 91.62
+            },
+            {
+              "week": 5,
+              "score": 120.72
+            },
+            {
+              "week": 6,
+              "score": 102.72
+            },
+            {
+              "week": 7,
+              "score": 124.64
+            },
+            {
+              "week": 8,
+              "score": 123.62
+            },
+            {
+              "week": 9,
+              "score": 120.66
+            },
+            {
+              "week": 10,
+              "score": 142.8
+            },
+            {
+              "week": 11,
+              "score": 120
+            },
+            {
+              "week": 12,
+              "score": 83.72
+            },
+            {
+              "week": 13,
+              "score": 139.22
+            },
+            {
+              "week": 14,
+              "score": 135.56
+            },
+            {
+              "week": 15,
+              "score": 126.6
+            },
+            {
+              "week": 16,
+              "score": 139.1
+            },
+            {
+              "week": 17,
+              "score": 119.02
+            }
+          ],
+          "highScore": 142.8,
+          "avgScore": 118.24,
+          "rank": 4,
+          "ownerId": "12"
+        },
+        {
+          "teamId": "15",
+          "teamName": "Steamin Willy Beaman",
+          "owner": "William",
+          "wins": 9,
+          "losses": 8,
+          "ties": 0,
+          "pointsFor": 1947.1,
+          "pointsAgainst": 1992.12,
+          "weeklyScores": [
+            {
+              "week": 1,
+              "score": 101.62
+            },
+            {
+              "week": 2,
+              "score": 120.2
+            },
+            {
+              "week": 3,
+              "score": 128.32
+            },
+            {
+              "week": 4,
+              "score": 106.72
+            },
+            {
+              "week": 5,
+              "score": 102.24
+            },
+            {
+              "week": 6,
+              "score": 66.14
+            },
+            {
+              "week": 7,
+              "score": 114.04
+            },
+            {
+              "week": 8,
+              "score": 99.58
+            },
+            {
+              "week": 9,
+              "score": 92.26
+            },
+            {
+              "week": 10,
+              "score": 128.1
+            },
+            {
+              "week": 11,
+              "score": 80.64
+            },
+            {
+              "week": 12,
+              "score": 160.66
+            },
+            {
+              "week": 13,
+              "score": 105.48
+            },
+            {
+              "week": 14,
+              "score": 150.46
+            },
+            {
+              "week": 15,
+              "score": 131.8
+            },
+            {
+              "week": 16,
+              "score": 147
+            },
+            {
+              "week": 17,
+              "score": 111.84
+            }
+          ],
+          "highScore": 160.66,
+          "avgScore": 114.54,
+          "rank": 5,
+          "ownerId": "11"
+        },
+        {
+          "teamId": "2",
+          "teamName": "Samuel L Jaxson Dart",
+          "owner": "Tomas",
+          "wins": 7,
+          "losses": 10,
+          "ties": 0,
+          "pointsFor": 2040.76,
+          "pointsAgainst": 2102.96,
+          "weeklyScores": [
+            {
+              "week": 1,
+              "score": 121.28
+            },
+            {
+              "week": 2,
+              "score": 104.4
+            },
+            {
+              "week": 3,
+              "score": 111.12
+            },
+            {
+              "week": 4,
+              "score": 143.52
+            },
+            {
+              "week": 5,
+              "score": 114.54
+            },
+            {
+              "week": 6,
+              "score": 113.36
+            },
+            {
+              "week": 7,
+              "score": 138.52
+            },
+            {
+              "week": 8,
+              "score": 122.98
+            },
+            {
+              "week": 9,
+              "score": 124.5
+            },
+            {
+              "week": 10,
+              "score": 136.32
+            },
+            {
+              "week": 11,
+              "score": 80.24
+            },
+            {
+              "week": 12,
+              "score": 155.64
+            },
+            {
+              "week": 13,
+              "score": 104.64
+            },
+            {
+              "week": 14,
+              "score": 118.38
+            },
+            {
+              "week": 15,
+              "score": 90.48
+            },
+            {
+              "week": 16,
+              "score": 131.8
+            },
+            {
+              "week": 17,
+              "score": 129.04
+            }
+          ],
+          "highScore": 155.64,
+          "avgScore": 120.04,
+          "rank": 6,
+          "ownerId": "1"
+        },
+        {
+          "teamId": "11",
+          "teamName": "A Near Seth Experience",
+          "owner": "Seth",
+          "wins": 7,
+          "losses": 10,
+          "ties": 0,
+          "pointsFor": 1967.4,
+          "pointsAgainst": 2000.86,
+          "weeklyScores": [
+            {
+              "week": 1,
+              "score": 97.14
+            },
+            {
+              "week": 2,
+              "score": 119.24
+            },
+            {
+              "week": 3,
+              "score": 92.12
+            },
+            {
+              "week": 4,
+              "score": 112.24
+            },
+            {
+              "week": 5,
+              "score": 121.98
+            },
+            {
+              "week": 6,
+              "score": 155.96
+            },
+            {
+              "week": 7,
+              "score": 155.66
+            },
+            {
+              "week": 8,
+              "score": 124.58
+            },
+            {
+              "week": 9,
+              "score": 99.82
+            },
+            {
+              "week": 10,
+              "score": 113.9
+            },
+            {
+              "week": 11,
+              "score": 93.5
+            },
+            {
+              "week": 12,
+              "score": 116.72
+            },
+            {
+              "week": 13,
+              "score": 123.34
+            },
+            {
+              "week": 14,
+              "score": 94.04
+            },
+            {
+              "week": 15,
+              "score": 158.32
+            },
+            {
+              "week": 16,
+              "score": 84.88
+            },
+            {
+              "week": 17,
+              "score": 103.96
+            }
+          ],
+          "highScore": 158.32,
+          "avgScore": 115.73,
+          "rank": 7,
+          "ownerId": "7"
+        },
+        {
+          "teamId": "4",
+          "teamName": "La PortaPotty",
+          "owner": "Jason",
+          "wins": 7,
+          "losses": 10,
+          "ties": 0,
+          "pointsFor": 1915.68,
+          "pointsAgainst": 1968.18,
+          "weeklyScores": [
+            {
+              "week": 1,
+              "score": 115.28
+            },
+            {
+              "week": 2,
+              "score": 118.84
+            },
+            {
+              "week": 3,
+              "score": 114.94
+            },
+            {
+              "week": 4,
+              "score": 110.2
+            },
+            {
+              "week": 5,
+              "score": 102.88
+            },
+            {
+              "week": 6,
+              "score": 105.52
+            },
+            {
+              "week": 7,
+              "score": 129.04
+            },
+            {
+              "week": 8,
+              "score": 167.96
+            },
+            {
+              "week": 9,
+              "score": 94.6
+            },
+            {
+              "week": 10,
+              "score": 144.22
+            },
+            {
+              "week": 11,
+              "score": 77.2
+            },
+            {
+              "week": 12,
+              "score": 108.36
+            },
+            {
+              "week": 13,
+              "score": 102.8
+            },
+            {
+              "week": 14,
+              "score": 111.04
+            },
+            {
+              "week": 15,
+              "score": 145.06
+            },
+            {
+              "week": 16,
+              "score": 87.36
+            },
+            {
+              "week": 17,
+              "score": 80.38
+            }
+          ],
+          "highScore": 167.96,
+          "avgScore": 112.69,
+          "rank": 8,
+          "ownerId": "3"
+        },
+        {
+          "teamId": "6",
+          "teamName": "Half Order Nachos",
+          "owner": "Fred",
+          "wins": 6,
+          "losses": 9,
+          "ties": 0,
+          "pointsFor": 1618.86,
+          "pointsAgainst": 1782.06,
+          "weeklyScores": [
+            {
+              "week": 1,
+              "score": 111.66
+            },
+            {
+              "week": 2,
+              "score": 102.12
+            },
+            {
+              "week": 3,
+              "score": 129.32
+            },
+            {
+              "week": 4,
+              "score": 108.56
+            },
+            {
+              "week": 5,
+              "score": 128.22
+            },
+            {
+              "week": 6,
+              "score": 77.1
+            },
+            {
+              "week": 7,
+              "score": 120.22
+            },
+            {
+              "week": 8,
+              "score": 108.52
+            },
+            {
+              "week": 9,
+              "score": 111.92
+            },
+            {
+              "week": 10,
+              "score": 83.24
+            },
+            {
+              "week": 11,
+              "score": 117.88
+            },
+            {
+              "week": 12,
+              "score": 72.42
+            },
+            {
+              "week": 13,
+              "score": 106.32
+            },
+            {
+              "week": 14,
+              "score": 117.54
+            },
+            {
+              "week": 15,
+              "score": 123.82
+            }
+          ],
+          "highScore": 129.32,
+          "avgScore": 107.92,
+          "rank": 9,
+          "ownerId": "4"
+        },
+        {
+          "teamId": "9",
+          "teamName": "The Hazy Gang",
+          "owner": "Chris (WV)",
+          "wins": 5,
+          "losses": 10,
+          "ties": 0,
+          "pointsFor": 1539.62,
+          "pointsAgainst": 1813.52,
+          "weeklyScores": [
+            {
+              "week": 1,
+              "score": 123.76
+            },
+            {
+              "week": 2,
+              "score": 90.3
+            },
+            {
+              "week": 3,
+              "score": 87.32
+            },
+            {
+              "week": 4,
+              "score": 91.38
+            },
+            {
+              "week": 5,
+              "score": 98.62
+            },
+            {
+              "week": 6,
+              "score": 108
+            },
+            {
+              "week": 7,
+              "score": 64.04
+            },
+            {
+              "week": 8,
+              "score": 98.16
+            },
+            {
+              "week": 9,
+              "score": 168.36
+            },
+            {
+              "week": 10,
+              "score": 114.64
+            },
+            {
+              "week": 11,
+              "score": 105.12
+            },
+            {
+              "week": 12,
+              "score": 95.82
+            },
+            {
+              "week": 13,
+              "score": 78.04
+            },
+            {
+              "week": 14,
+              "score": 97.46
+            },
+            {
+              "week": 15,
+              "score": 118.6
+            }
+          ],
+          "highScore": 168.36,
+          "avgScore": 102.64,
+          "rank": 10,
+          "ownerId": "6"
+        }
+      ],
+      "teamSummaries": [
+        {
+          "teamId": "3",
+          "teamName": "Scott",
+          "owner": "Scott",
+          "wins": 12,
+          "losses": 5,
+          "ties": 0,
+          "pointsFor": 2333.72,
+          "pointsAgainst": 2095.38,
+          "weeklyScores": [
+            {
+              "week": 1,
+              "score": 149.92
+            },
+            {
+              "week": 2,
+              "score": 152.7
+            },
+            {
+              "week": 3,
+              "score": 123.26
+            },
+            {
+              "week": 4,
+              "score": 165.58
+            },
+            {
+              "week": 5,
+              "score": 129.6
+            },
+            {
+              "week": 6,
+              "score": 91.96
+            },
+            {
+              "week": 7,
+              "score": 122.16
+            },
+            {
+              "week": 8,
+              "score": 150.5
+            },
+            {
+              "week": 9,
+              "score": 124.32
+            },
+            {
+              "week": 10,
+              "score": 118.94
+            },
+            {
+              "week": 11,
+              "score": 136.06
+            },
+            {
+              "week": 12,
+              "score": 110.46
+            },
+            {
+              "week": 13,
+              "score": 147.54
+            },
+            {
+              "week": 14,
+              "score": 158.86
+            },
+            {
+              "week": 15,
+              "score": 125.2
+            },
+            {
+              "week": 16,
+              "score": 177.76
+            },
+            {
+              "week": 17,
+              "score": 148.9
+            }
+          ],
+          "highScore": 177.76,
+          "avgScore": 137.28,
+          "rank": 1,
+          "ownerId": "2"
+        },
+        {
+          "teamId": "14",
+          "teamName": "Cville Heuristicats",
+          "owner": "Dave",
+          "wins": 11,
+          "losses": 6,
+          "ties": 0,
+          "pointsFor": 2149.12,
+          "pointsAgainst": 1957.12,
+          "weeklyScores": [
+            {
+              "week": 1,
+              "score": 100.72
+            },
+            {
+              "week": 2,
+              "score": 85.84
+            },
+            {
+              "week": 3,
+              "score": 163.92
+            },
+            {
+              "week": 4,
+              "score": 135.78
+            },
+            {
+              "week": 5,
+              "score": 132.4
+            },
+            {
+              "week": 6,
+              "score": 148.38
+            },
+            {
+              "week": 7,
+              "score": 113.98
+            },
+            {
+              "week": 8,
+              "score": 103.08
+            },
+            {
+              "week": 9,
+              "score": 138.1
+            },
+            {
+              "week": 10,
+              "score": 147.6
+            },
+            {
+              "week": 11,
+              "score": 119.02
+            },
+            {
+              "week": 12,
+              "score": 127.14
+            },
+            {
+              "week": 13,
+              "score": 133.14
+            },
+            {
+              "week": 14,
+              "score": 99
+            },
+            {
+              "week": 15,
+              "score": 143.74
+            },
+            {
+              "week": 16,
+              "score": 129.48
+            },
+            {
+              "week": 17,
+              "score": 127.8
+            }
+          ],
+          "highScore": 163.92,
+          "avgScore": 126.42,
+          "rank": 2,
+          "ownerId": "10"
+        },
+        {
+          "teamId": "7",
+          "teamName": "Upbeat360Fly",
+          "owner": "Atiba",
+          "wins": 10,
+          "losses": 7,
+          "ties": 0,
+          "pointsFor": 2096.12,
+          "pointsAgainst": 1931.68,
+          "weeklyScores": [
+            {
+              "week": 1,
+              "score": 91.32
+            },
+            {
+              "week": 2,
+              "score": 134.68
+            },
+            {
+              "week": 3,
+              "score": 145.46
+            },
+            {
+              "week": 4,
+              "score": 171.3
+            },
+            {
+              "week": 5,
+              "score": 153.62
+            },
+            {
+              "week": 6,
+              "score": 145.8
+            },
+            {
+              "week": 7,
+              "score": 124.24
+            },
+            {
+              "week": 8,
+              "score": 115.02
+            },
+            {
+              "week": 9,
+              "score": 120.4
+            },
+            {
+              "week": 10,
+              "score": 113.28
+            },
+            {
+              "week": 11,
+              "score": 99.44
+            },
+            {
+              "week": 12,
+              "score": 132.28
+            },
+            {
+              "week": 13,
+              "score": 105.44
+            },
+            {
+              "week": 14,
+              "score": 85.2
+            },
+            {
+              "week": 15,
+              "score": 112.74
+            },
+            {
+              "week": 16,
+              "score": 117.92
+            },
+            {
+              "week": 17,
+              "score": 127.98
+            }
+          ],
+          "highScore": 171.3,
+          "avgScore": 123.3,
+          "rank": 3,
+          "ownerId": "5"
+        },
+        {
+          "teamId": "5",
+          "teamName": "Buck Nasty",
+          "owner": "Gerry",
+          "wins": 9,
+          "losses": 8,
+          "ties": 0,
+          "pointsFor": 2010.04,
+          "pointsAgainst": 1974.54,
+          "weeklyScores": [
+            {
+              "week": 1,
+              "score": 97.9
+            },
+            {
+              "week": 2,
+              "score": 120.56
+            },
+            {
+              "week": 3,
+              "score": 101.58
+            },
+            {
+              "week": 4,
+              "score": 91.62
+            },
+            {
+              "week": 5,
+              "score": 120.72
+            },
+            {
+              "week": 6,
+              "score": 102.72
+            },
+            {
+              "week": 7,
+              "score": 124.64
+            },
+            {
+              "week": 8,
+              "score": 123.62
+            },
+            {
+              "week": 9,
+              "score": 120.66
+            },
+            {
+              "week": 10,
+              "score": 142.8
+            },
+            {
+              "week": 11,
+              "score": 120
+            },
+            {
+              "week": 12,
+              "score": 83.72
+            },
+            {
+              "week": 13,
+              "score": 139.22
+            },
+            {
+              "week": 14,
+              "score": 135.56
+            },
+            {
+              "week": 15,
+              "score": 126.6
+            },
+            {
+              "week": 16,
+              "score": 139.1
+            },
+            {
+              "week": 17,
+              "score": 119.02
+            }
+          ],
+          "highScore": 142.8,
+          "avgScore": 118.24,
+          "rank": 4,
+          "ownerId": "12"
+        },
+        {
+          "teamId": "15",
+          "teamName": "Steamin Willy Beaman",
+          "owner": "William",
+          "wins": 9,
+          "losses": 8,
+          "ties": 0,
+          "pointsFor": 1947.1,
+          "pointsAgainst": 1992.12,
+          "weeklyScores": [
+            {
+              "week": 1,
+              "score": 101.62
+            },
+            {
+              "week": 2,
+              "score": 120.2
+            },
+            {
+              "week": 3,
+              "score": 128.32
+            },
+            {
+              "week": 4,
+              "score": 106.72
+            },
+            {
+              "week": 5,
+              "score": 102.24
+            },
+            {
+              "week": 6,
+              "score": 66.14
+            },
+            {
+              "week": 7,
+              "score": 114.04
+            },
+            {
+              "week": 8,
+              "score": 99.58
+            },
+            {
+              "week": 9,
+              "score": 92.26
+            },
+            {
+              "week": 10,
+              "score": 128.1
+            },
+            {
+              "week": 11,
+              "score": 80.64
+            },
+            {
+              "week": 12,
+              "score": 160.66
+            },
+            {
+              "week": 13,
+              "score": 105.48
+            },
+            {
+              "week": 14,
+              "score": 150.46
+            },
+            {
+              "week": 15,
+              "score": 131.8
+            },
+            {
+              "week": 16,
+              "score": 147
+            },
+            {
+              "week": 17,
+              "score": 111.84
+            }
+          ],
+          "highScore": 160.66,
+          "avgScore": 114.54,
+          "rank": 5,
+          "ownerId": "11"
+        },
+        {
+          "teamId": "2",
+          "teamName": "Samuel L Jaxson Dart",
+          "owner": "Tomas",
+          "wins": 7,
+          "losses": 10,
+          "ties": 0,
+          "pointsFor": 2040.76,
+          "pointsAgainst": 2102.96,
+          "weeklyScores": [
+            {
+              "week": 1,
+              "score": 121.28
+            },
+            {
+              "week": 2,
+              "score": 104.4
+            },
+            {
+              "week": 3,
+              "score": 111.12
+            },
+            {
+              "week": 4,
+              "score": 143.52
+            },
+            {
+              "week": 5,
+              "score": 114.54
+            },
+            {
+              "week": 6,
+              "score": 113.36
+            },
+            {
+              "week": 7,
+              "score": 138.52
+            },
+            {
+              "week": 8,
+              "score": 122.98
+            },
+            {
+              "week": 9,
+              "score": 124.5
+            },
+            {
+              "week": 10,
+              "score": 136.32
+            },
+            {
+              "week": 11,
+              "score": 80.24
+            },
+            {
+              "week": 12,
+              "score": 155.64
+            },
+            {
+              "week": 13,
+              "score": 104.64
+            },
+            {
+              "week": 14,
+              "score": 118.38
+            },
+            {
+              "week": 15,
+              "score": 90.48
+            },
+            {
+              "week": 16,
+              "score": 131.8
+            },
+            {
+              "week": 17,
+              "score": 129.04
+            }
+          ],
+          "highScore": 155.64,
+          "avgScore": 120.04,
+          "rank": 6,
+          "ownerId": "1"
+        },
+        {
+          "teamId": "11",
+          "teamName": "A Near Seth Experience",
+          "owner": "Seth",
+          "wins": 7,
+          "losses": 10,
+          "ties": 0,
+          "pointsFor": 1967.4,
+          "pointsAgainst": 2000.86,
+          "weeklyScores": [
+            {
+              "week": 1,
+              "score": 97.14
+            },
+            {
+              "week": 2,
+              "score": 119.24
+            },
+            {
+              "week": 3,
+              "score": 92.12
+            },
+            {
+              "week": 4,
+              "score": 112.24
+            },
+            {
+              "week": 5,
+              "score": 121.98
+            },
+            {
+              "week": 6,
+              "score": 155.96
+            },
+            {
+              "week": 7,
+              "score": 155.66
+            },
+            {
+              "week": 8,
+              "score": 124.58
+            },
+            {
+              "week": 9,
+              "score": 99.82
+            },
+            {
+              "week": 10,
+              "score": 113.9
+            },
+            {
+              "week": 11,
+              "score": 93.5
+            },
+            {
+              "week": 12,
+              "score": 116.72
+            },
+            {
+              "week": 13,
+              "score": 123.34
+            },
+            {
+              "week": 14,
+              "score": 94.04
+            },
+            {
+              "week": 15,
+              "score": 158.32
+            },
+            {
+              "week": 16,
+              "score": 84.88
+            },
+            {
+              "week": 17,
+              "score": 103.96
+            }
+          ],
+          "highScore": 158.32,
+          "avgScore": 115.73,
+          "rank": 7,
+          "ownerId": "7"
+        },
+        {
+          "teamId": "4",
+          "teamName": "La PortaPotty",
+          "owner": "Jason",
+          "wins": 7,
+          "losses": 10,
+          "ties": 0,
+          "pointsFor": 1915.68,
+          "pointsAgainst": 1968.18,
+          "weeklyScores": [
+            {
+              "week": 1,
+              "score": 115.28
+            },
+            {
+              "week": 2,
+              "score": 118.84
+            },
+            {
+              "week": 3,
+              "score": 114.94
+            },
+            {
+              "week": 4,
+              "score": 110.2
+            },
+            {
+              "week": 5,
+              "score": 102.88
+            },
+            {
+              "week": 6,
+              "score": 105.52
+            },
+            {
+              "week": 7,
+              "score": 129.04
+            },
+            {
+              "week": 8,
+              "score": 167.96
+            },
+            {
+              "week": 9,
+              "score": 94.6
+            },
+            {
+              "week": 10,
+              "score": 144.22
+            },
+            {
+              "week": 11,
+              "score": 77.2
+            },
+            {
+              "week": 12,
+              "score": 108.36
+            },
+            {
+              "week": 13,
+              "score": 102.8
+            },
+            {
+              "week": 14,
+              "score": 111.04
+            },
+            {
+              "week": 15,
+              "score": 145.06
+            },
+            {
+              "week": 16,
+              "score": 87.36
+            },
+            {
+              "week": 17,
+              "score": 80.38
+            }
+          ],
+          "highScore": 167.96,
+          "avgScore": 112.69,
+          "rank": 8,
+          "ownerId": "3"
+        },
+        {
+          "teamId": "6",
+          "teamName": "Half Order Nachos",
+          "owner": "Fred",
+          "wins": 6,
+          "losses": 9,
+          "ties": 0,
+          "pointsFor": 1618.86,
+          "pointsAgainst": 1782.06,
+          "weeklyScores": [
+            {
+              "week": 1,
+              "score": 111.66
+            },
+            {
+              "week": 2,
+              "score": 102.12
+            },
+            {
+              "week": 3,
+              "score": 129.32
+            },
+            {
+              "week": 4,
+              "score": 108.56
+            },
+            {
+              "week": 5,
+              "score": 128.22
+            },
+            {
+              "week": 6,
+              "score": 77.1
+            },
+            {
+              "week": 7,
+              "score": 120.22
+            },
+            {
+              "week": 8,
+              "score": 108.52
+            },
+            {
+              "week": 9,
+              "score": 111.92
+            },
+            {
+              "week": 10,
+              "score": 83.24
+            },
+            {
+              "week": 11,
+              "score": 117.88
+            },
+            {
+              "week": 12,
+              "score": 72.42
+            },
+            {
+              "week": 13,
+              "score": 106.32
+            },
+            {
+              "week": 14,
+              "score": 117.54
+            },
+            {
+              "week": 15,
+              "score": 123.82
+            }
+          ],
+          "highScore": 129.32,
+          "avgScore": 107.92,
+          "rank": 9,
+          "ownerId": "4"
+        },
+        {
+          "teamId": "9",
+          "teamName": "The Hazy Gang",
+          "owner": "Chris (WV)",
+          "wins": 5,
+          "losses": 10,
+          "ties": 0,
+          "pointsFor": 1539.62,
+          "pointsAgainst": 1813.52,
+          "weeklyScores": [
+            {
+              "week": 1,
+              "score": 123.76
+            },
+            {
+              "week": 2,
+              "score": 90.3
+            },
+            {
+              "week": 3,
+              "score": 87.32
+            },
+            {
+              "week": 4,
+              "score": 91.38
+            },
+            {
+              "week": 5,
+              "score": 98.62
+            },
+            {
+              "week": 6,
+              "score": 108
+            },
+            {
+              "week": 7,
+              "score": 64.04
+            },
+            {
+              "week": 8,
+              "score": 98.16
+            },
+            {
+              "week": 9,
+              "score": 168.36
+            },
+            {
+              "week": 10,
+              "score": 114.64
+            },
+            {
+              "week": 11,
+              "score": 105.12
+            },
+            {
+              "week": 12,
+              "score": 95.82
+            },
+            {
+              "week": 13,
+              "score": 78.04
+            },
+            {
+              "week": 14,
+              "score": 97.46
+            },
+            {
+              "week": 15,
+              "score": 118.6
+            }
+          ],
+          "highScore": 168.36,
+          "avgScore": 102.64,
+          "rank": 10,
+          "ownerId": "6"
+        }
+      ],
+      "matchups": [
+        {
+          "week": 1,
+          "homeTeamId": "2",
+          "homeTeamName": "Samuel L Jaxson Dart",
+          "homeScore": 121.28,
+          "awayTeamId": "7",
+          "awayTeamName": "Upbeat360Fly",
+          "awayScore": 91.32,
+          "winner": "2"
+        },
+        {
+          "week": 1,
+          "homeTeamId": "3",
+          "homeTeamName": "Scott",
+          "homeScore": 149.92,
+          "awayTeamId": "4",
+          "awayTeamName": "La PortaPotty",
+          "awayScore": 115.28,
+          "winner": "3"
+        },
+        {
+          "week": 1,
+          "homeTeamId": "5",
+          "homeTeamName": "Buck Nasty",
+          "homeScore": 97.9,
+          "awayTeamId": "6",
+          "awayTeamName": "Half Order Nachos",
+          "awayScore": 111.66,
+          "winner": "6"
+        },
+        {
+          "week": 1,
+          "homeTeamId": "15",
+          "homeTeamName": "Steamin Willy Beaman",
+          "homeScore": 101.62,
+          "awayTeamId": "14",
+          "awayTeamName": "Cville Heuristicats",
+          "awayScore": 100.72,
+          "winner": "15"
+        },
+        {
+          "week": 1,
+          "homeTeamId": "9",
+          "homeTeamName": "The Hazy Gang",
+          "homeScore": 123.76,
+          "awayTeamId": "11",
+          "awayTeamName": "A Near Seth Experience",
+          "awayScore": 97.14,
+          "winner": "9"
+        },
+        {
+          "week": 2,
+          "homeTeamId": "2",
+          "homeTeamName": "Samuel L Jaxson Dart",
+          "homeScore": 104.4,
+          "awayTeamId": "14",
+          "awayTeamName": "Cville Heuristicats",
+          "awayScore": 85.84,
+          "winner": "2"
+        },
+        {
+          "week": 2,
+          "homeTeamId": "5",
+          "homeTeamName": "Buck Nasty",
+          "homeScore": 120.56,
+          "awayTeamId": "3",
+          "awayTeamName": "Scott",
+          "awayScore": 152.7,
+          "winner": "3"
+        },
+        {
+          "week": 2,
+          "homeTeamId": "4",
+          "homeTeamName": "La PortaPotty",
+          "homeScore": 118.84,
+          "awayTeamId": "15",
+          "awayTeamName": "Steamin Willy Beaman",
+          "awayScore": 120.2,
+          "winner": "15"
+        },
+        {
+          "week": 2,
+          "homeTeamId": "6",
+          "homeTeamName": "Half Order Nachos",
+          "homeScore": 102.12,
+          "awayTeamId": "9",
+          "awayTeamName": "The Hazy Gang",
+          "awayScore": 90.3,
+          "winner": "6"
+        },
+        {
+          "week": 2,
+          "homeTeamId": "11",
+          "homeTeamName": "A Near Seth Experience",
+          "homeScore": 119.24,
+          "awayTeamId": "7",
+          "awayTeamName": "Upbeat360Fly",
+          "awayScore": 134.68,
+          "winner": "7"
+        },
+        {
+          "week": 3,
+          "homeTeamId": "2",
+          "homeTeamName": "Samuel L Jaxson Dart",
+          "homeScore": 111.12,
+          "awayTeamId": "4",
+          "awayTeamName": "La PortaPotty",
+          "awayScore": 114.94,
+          "winner": "4"
+        },
+        {
+          "week": 3,
+          "homeTeamId": "3",
+          "homeTeamName": "Scott",
+          "homeScore": 123.26,
+          "awayTeamId": "15",
+          "awayTeamName": "Steamin Willy Beaman",
+          "awayScore": 128.32,
+          "winner": "15"
+        },
+        {
+          "week": 3,
+          "homeTeamId": "9",
+          "homeTeamName": "The Hazy Gang",
+          "homeScore": 87.32,
+          "awayTeamId": "5",
+          "awayTeamName": "Buck Nasty",
+          "awayScore": 101.58,
+          "winner": "5"
+        },
+        {
+          "week": 3,
+          "homeTeamId": "7",
+          "homeTeamName": "Upbeat360Fly",
+          "homeScore": 145.46,
+          "awayTeamId": "6",
+          "awayTeamName": "Half Order Nachos",
+          "awayScore": 129.32,
+          "winner": "7"
+        },
+        {
+          "week": 3,
+          "homeTeamId": "11",
+          "homeTeamName": "A Near Seth Experience",
+          "homeScore": 92.12,
+          "awayTeamId": "14",
+          "awayTeamName": "Cville Heuristicats",
+          "awayScore": 163.92,
+          "winner": "14"
+        },
+        {
+          "week": 4,
+          "homeTeamId": "2",
+          "homeTeamName": "Samuel L Jaxson Dart",
+          "homeScore": 143.52,
+          "awayTeamId": "15",
+          "awayTeamName": "Steamin Willy Beaman",
+          "awayScore": 106.72,
+          "winner": "2"
+        },
+        {
+          "week": 4,
+          "homeTeamId": "9",
+          "homeTeamName": "The Hazy Gang",
+          "homeScore": 91.38,
+          "awayTeamId": "3",
+          "awayTeamName": "Scott",
+          "awayScore": 165.58,
+          "winner": "3"
+        },
+        {
+          "week": 4,
+          "homeTeamId": "5",
+          "homeTeamName": "Buck Nasty",
+          "homeScore": 91.62,
+          "awayTeamId": "7",
+          "awayTeamName": "Upbeat360Fly",
+          "awayScore": 171.3,
+          "winner": "7"
+        },
+        {
+          "week": 4,
+          "homeTeamId": "4",
+          "homeTeamName": "La PortaPotty",
+          "homeScore": 110.2,
+          "awayTeamId": "11",
+          "awayTeamName": "A Near Seth Experience",
+          "awayScore": 112.24,
+          "winner": "11"
+        },
+        {
+          "week": 4,
+          "homeTeamId": "6",
+          "homeTeamName": "Half Order Nachos",
+          "homeScore": 108.56,
+          "awayTeamId": "14",
+          "awayTeamName": "Cville Heuristicats",
+          "awayScore": 135.78,
+          "winner": "14"
+        },
+        {
+          "week": 5,
+          "homeTeamId": "2",
+          "homeTeamName": "Samuel L Jaxson Dart",
+          "homeScore": 114.54,
+          "awayTeamId": "3",
+          "awayTeamName": "Scott",
+          "awayScore": 129.6,
+          "winner": "3"
+        },
+        {
+          "week": 5,
+          "homeTeamId": "7",
+          "homeTeamName": "Upbeat360Fly",
+          "homeScore": 153.62,
+          "awayTeamId": "9",
+          "awayTeamName": "The Hazy Gang",
+          "awayScore": 98.62,
+          "winner": "7"
+        },
+        {
+          "week": 5,
+          "homeTeamId": "11",
+          "homeTeamName": "A Near Seth Experience",
+          "homeScore": 121.98,
+          "awayTeamId": "15",
+          "awayTeamName": "Steamin Willy Beaman",
+          "awayScore": 102.24,
+          "winner": "11"
+        },
+        {
+          "week": 5,
+          "homeTeamId": "14",
+          "homeTeamName": "Cville Heuristicats",
+          "homeScore": 132.4,
+          "awayTeamId": "5",
+          "awayTeamName": "Buck Nasty",
+          "awayScore": 120.72,
+          "winner": "14"
+        },
+        {
+          "week": 5,
+          "homeTeamId": "6",
+          "homeTeamName": "Half Order Nachos",
+          "homeScore": 128.22,
+          "awayTeamId": "4",
+          "awayTeamName": "La PortaPotty",
+          "awayScore": 102.88,
+          "winner": "6"
+        },
+        {
+          "week": 6,
+          "homeTeamId": "2",
+          "homeTeamName": "Samuel L Jaxson Dart",
+          "homeScore": 113.36,
+          "awayTeamId": "11",
+          "awayTeamName": "A Near Seth Experience",
+          "awayScore": 155.96,
+          "winner": "11"
+        },
+        {
+          "week": 6,
+          "homeTeamId": "7",
+          "homeTeamName": "Upbeat360Fly",
+          "homeScore": 145.8,
+          "awayTeamId": "3",
+          "awayTeamName": "Scott",
+          "awayScore": 91.96,
+          "winner": "7"
+        },
+        {
+          "week": 6,
+          "homeTeamId": "9",
+          "homeTeamName": "The Hazy Gang",
+          "homeScore": 108,
+          "awayTeamId": "14",
+          "awayTeamName": "Cville Heuristicats",
+          "awayScore": 148.38,
+          "winner": "14"
+        },
+        {
+          "week": 6,
+          "homeTeamId": "15",
+          "homeTeamName": "Steamin Willy Beaman",
+          "homeScore": 66.14,
+          "awayTeamId": "6",
+          "awayTeamName": "Half Order Nachos",
+          "awayScore": 77.1,
+          "winner": "6"
+        },
+        {
+          "week": 6,
+          "homeTeamId": "5",
+          "homeTeamName": "Buck Nasty",
+          "homeScore": 102.72,
+          "awayTeamId": "4",
+          "awayTeamName": "La PortaPotty",
+          "awayScore": 105.52,
+          "winner": "4"
+        },
+        {
+          "week": 7,
+          "homeTeamId": "2",
+          "homeTeamName": "Samuel L Jaxson Dart",
+          "homeScore": 138.52,
+          "awayTeamId": "6",
+          "awayTeamName": "Half Order Nachos",
+          "awayScore": 120.22,
+          "winner": "2"
+        },
+        {
+          "week": 7,
+          "homeTeamId": "3",
+          "homeTeamName": "Scott",
+          "homeScore": 122.16,
+          "awayTeamId": "11",
+          "awayTeamName": "A Near Seth Experience",
+          "awayScore": 155.66,
+          "winner": "11"
+        },
+        {
+          "week": 7,
+          "homeTeamId": "14",
+          "homeTeamName": "Cville Heuristicats",
+          "homeScore": 113.98,
+          "awayTeamId": "7",
+          "awayTeamName": "Upbeat360Fly",
+          "awayScore": 124.24,
+          "winner": "7"
+        },
+        {
+          "week": 7,
+          "homeTeamId": "4",
+          "homeTeamName": "La PortaPotty",
+          "homeScore": 129.04,
+          "awayTeamId": "9",
+          "awayTeamName": "The Hazy Gang",
+          "awayScore": 64.04,
+          "winner": "4"
+        },
+        {
+          "week": 7,
+          "homeTeamId": "5",
+          "homeTeamName": "Buck Nasty",
+          "homeScore": 124.64,
+          "awayTeamId": "15",
+          "awayTeamName": "Steamin Willy Beaman",
+          "awayScore": 114.04,
+          "winner": "5"
+        },
+        {
+          "week": 8,
+          "homeTeamId": "2",
+          "homeTeamName": "Samuel L Jaxson Dart",
+          "homeScore": 122.98,
+          "awayTeamId": "5",
+          "awayTeamName": "Buck Nasty",
+          "awayScore": 123.62,
+          "winner": "5"
+        },
+        {
+          "week": 8,
+          "homeTeamId": "14",
+          "homeTeamName": "Cville Heuristicats",
+          "homeScore": 103.08,
+          "awayTeamId": "3",
+          "awayTeamName": "Scott",
+          "awayScore": 150.5,
+          "winner": "3"
+        },
+        {
+          "week": 8,
+          "homeTeamId": "11",
+          "homeTeamName": "A Near Seth Experience",
+          "homeScore": 124.58,
+          "awayTeamId": "6",
+          "awayTeamName": "Half Order Nachos",
+          "awayScore": 108.52,
+          "winner": "11"
+        },
+        {
+          "week": 8,
+          "homeTeamId": "7",
+          "homeTeamName": "Upbeat360Fly",
+          "homeScore": 115.02,
+          "awayTeamId": "4",
+          "awayTeamName": "La PortaPotty",
+          "awayScore": 167.96,
+          "winner": "4"
+        },
+        {
+          "week": 8,
+          "homeTeamId": "9",
+          "homeTeamName": "The Hazy Gang",
+          "homeScore": 98.16,
+          "awayTeamId": "15",
+          "awayTeamName": "Steamin Willy Beaman",
+          "awayScore": 99.58,
+          "winner": "15"
+        },
+        {
+          "week": 9,
+          "homeTeamId": "2",
+          "homeTeamName": "Samuel L Jaxson Dart",
+          "homeScore": 124.5,
+          "awayTeamId": "9",
+          "awayTeamName": "The Hazy Gang",
+          "awayScore": 168.36,
+          "winner": "9"
+        },
+        {
+          "week": 9,
+          "homeTeamId": "3",
+          "homeTeamName": "Scott",
+          "homeScore": 124.32,
+          "awayTeamId": "6",
+          "awayTeamName": "Half Order Nachos",
+          "awayScore": 111.92,
+          "winner": "3"
+        },
+        {
+          "week": 9,
+          "homeTeamId": "4",
+          "homeTeamName": "La PortaPotty",
+          "homeScore": 94.6,
+          "awayTeamId": "14",
+          "awayTeamName": "Cville Heuristicats",
+          "awayScore": 138.1,
+          "winner": "14"
+        },
+        {
+          "week": 9,
+          "homeTeamId": "5",
+          "homeTeamName": "Buck Nasty",
+          "homeScore": 120.66,
+          "awayTeamId": "11",
+          "awayTeamName": "A Near Seth Experience",
+          "awayScore": 99.82,
+          "winner": "5"
+        },
+        {
+          "week": 9,
+          "homeTeamId": "15",
+          "homeTeamName": "Steamin Willy Beaman",
+          "homeScore": 92.26,
+          "awayTeamId": "7",
+          "awayTeamName": "Upbeat360Fly",
+          "awayScore": 120.4,
+          "winner": "7"
+        },
+        {
+          "week": 10,
+          "homeTeamId": "2",
+          "homeTeamName": "Samuel L Jaxson Dart",
+          "homeScore": 136.32,
+          "awayTeamId": "7",
+          "awayTeamName": "Upbeat360Fly",
+          "awayScore": 113.28,
+          "winner": "2"
+        },
+        {
+          "week": 10,
+          "homeTeamId": "4",
+          "homeTeamName": "La PortaPotty",
+          "homeScore": 144.22,
+          "awayTeamId": "3",
+          "awayTeamName": "Scott",
+          "awayScore": 118.94,
+          "winner": "4"
+        },
+        {
+          "week": 10,
+          "homeTeamId": "6",
+          "homeTeamName": "Half Order Nachos",
+          "homeScore": 83.24,
+          "awayTeamId": "5",
+          "awayTeamName": "Buck Nasty",
+          "awayScore": 142.8,
+          "winner": "5"
+        },
+        {
+          "week": 10,
+          "homeTeamId": "14",
+          "homeTeamName": "Cville Heuristicats",
+          "homeScore": 147.6,
+          "awayTeamId": "15",
+          "awayTeamName": "Steamin Willy Beaman",
+          "awayScore": 128.1,
+          "winner": "14"
+        },
+        {
+          "week": 10,
+          "homeTeamId": "11",
+          "homeTeamName": "A Near Seth Experience",
+          "homeScore": 113.9,
+          "awayTeamId": "9",
+          "awayTeamName": "The Hazy Gang",
+          "awayScore": 114.64,
+          "winner": "9"
+        },
+        {
+          "week": 11,
+          "homeTeamId": "2",
+          "homeTeamName": "Samuel L Jaxson Dart",
+          "homeScore": 80.24,
+          "awayTeamId": "14",
+          "awayTeamName": "Cville Heuristicats",
+          "awayScore": 119.02,
+          "winner": "14"
+        },
+        {
+          "week": 11,
+          "homeTeamId": "3",
+          "homeTeamName": "Scott",
+          "homeScore": 136.06,
+          "awayTeamId": "5",
+          "awayTeamName": "Buck Nasty",
+          "awayScore": 120,
+          "winner": "3"
+        },
+        {
+          "week": 11,
+          "homeTeamId": "15",
+          "homeTeamName": "Steamin Willy Beaman",
+          "homeScore": 80.64,
+          "awayTeamId": "4",
+          "awayTeamName": "La PortaPotty",
+          "awayScore": 77.2,
+          "winner": "15"
+        },
+        {
+          "week": 11,
+          "homeTeamId": "9",
+          "homeTeamName": "The Hazy Gang",
+          "homeScore": 105.12,
+          "awayTeamId": "6",
+          "awayTeamName": "Half Order Nachos",
+          "awayScore": 117.88,
+          "winner": "6"
+        },
+        {
+          "week": 11,
+          "homeTeamId": "7",
+          "homeTeamName": "Upbeat360Fly",
+          "homeScore": 99.44,
+          "awayTeamId": "11",
+          "awayTeamName": "A Near Seth Experience",
+          "awayScore": 93.5,
+          "winner": "7"
+        },
+        {
+          "week": 12,
+          "homeTeamId": "2",
+          "homeTeamName": "Samuel L Jaxson Dart",
+          "homeScore": 155.64,
+          "awayTeamId": "4",
+          "awayTeamName": "La PortaPotty",
+          "awayScore": 108.36,
+          "winner": "2"
+        },
+        {
+          "week": 12,
+          "homeTeamId": "15",
+          "homeTeamName": "Steamin Willy Beaman",
+          "homeScore": 160.66,
+          "awayTeamId": "3",
+          "awayTeamName": "Scott",
+          "awayScore": 110.46,
+          "winner": "15"
+        },
+        {
+          "week": 12,
+          "homeTeamId": "5",
+          "homeTeamName": "Buck Nasty",
+          "homeScore": 83.72,
+          "awayTeamId": "9",
+          "awayTeamName": "The Hazy Gang",
+          "awayScore": 95.82,
+          "winner": "9"
+        },
+        {
+          "week": 12,
+          "homeTeamId": "6",
+          "homeTeamName": "Half Order Nachos",
+          "homeScore": 72.42,
+          "awayTeamId": "7",
+          "awayTeamName": "Upbeat360Fly",
+          "awayScore": 132.28,
+          "winner": "7"
+        },
+        {
+          "week": 12,
+          "homeTeamId": "14",
+          "homeTeamName": "Cville Heuristicats",
+          "homeScore": 127.14,
+          "awayTeamId": "11",
+          "awayTeamName": "A Near Seth Experience",
+          "awayScore": 116.72,
+          "winner": "14"
+        },
+        {
+          "week": 13,
+          "homeTeamId": "2",
+          "homeTeamName": "Samuel L Jaxson Dart",
+          "homeScore": 104.64,
+          "awayTeamId": "15",
+          "awayTeamName": "Steamin Willy Beaman",
+          "awayScore": 105.48,
+          "winner": "15"
+        },
+        {
+          "week": 13,
+          "homeTeamId": "3",
+          "homeTeamName": "Scott",
+          "homeScore": 147.54,
+          "awayTeamId": "9",
+          "awayTeamName": "The Hazy Gang",
+          "awayScore": 78.04,
+          "winner": "3"
+        },
+        {
+          "week": 13,
+          "homeTeamId": "7",
+          "homeTeamName": "Upbeat360Fly",
+          "homeScore": 105.44,
+          "awayTeamId": "5",
+          "awayTeamName": "Buck Nasty",
+          "awayScore": 139.22,
+          "winner": "5"
+        },
+        {
+          "week": 13,
+          "homeTeamId": "11",
+          "homeTeamName": "A Near Seth Experience",
+          "homeScore": 123.34,
+          "awayTeamId": "4",
+          "awayTeamName": "La PortaPotty",
+          "awayScore": 102.8,
+          "winner": "11"
+        },
+        {
+          "week": 13,
+          "homeTeamId": "14",
+          "homeTeamName": "Cville Heuristicats",
+          "homeScore": 133.14,
+          "awayTeamId": "6",
+          "awayTeamName": "Half Order Nachos",
+          "awayScore": 106.32,
+          "winner": "14"
+        },
+        {
+          "week": 14,
+          "homeTeamId": "2",
+          "homeTeamName": "Samuel L Jaxson Dart",
+          "homeScore": 118.38,
+          "awayTeamId": "3",
+          "awayTeamName": "Scott",
+          "awayScore": 158.86,
+          "winner": "3"
+        },
+        {
+          "week": 14,
+          "homeTeamId": "9",
+          "homeTeamName": "The Hazy Gang",
+          "homeScore": 97.46,
+          "awayTeamId": "7",
+          "awayTeamName": "Upbeat360Fly",
+          "awayScore": 85.2,
+          "winner": "9"
+        },
+        {
+          "week": 14,
+          "homeTeamId": "15",
+          "homeTeamName": "Steamin Willy Beaman",
+          "homeScore": 150.46,
+          "awayTeamId": "11",
+          "awayTeamName": "A Near Seth Experience",
+          "awayScore": 94.04,
+          "winner": "15"
+        },
+        {
+          "week": 14,
+          "homeTeamId": "5",
+          "homeTeamName": "Buck Nasty",
+          "homeScore": 135.56,
+          "awayTeamId": "14",
+          "awayTeamName": "Cville Heuristicats",
+          "awayScore": 99,
+          "winner": "5"
+        },
+        {
+          "week": 14,
+          "homeTeamId": "4",
+          "homeTeamName": "La PortaPotty",
+          "homeScore": 111.04,
+          "awayTeamId": "6",
+          "awayTeamName": "Half Order Nachos",
+          "awayScore": 117.54,
+          "winner": "6"
+        },
+        {
+          "week": 15,
+          "homeTeamId": "2",
+          "homeTeamName": "Samuel L Jaxson Dart",
+          "homeScore": 90.48,
+          "awayTeamId": "11",
+          "awayTeamName": "A Near Seth Experience",
+          "awayScore": 158.32,
+          "winner": "11"
+        },
+        {
+          "week": 15,
+          "homeTeamId": "3",
+          "homeTeamName": "Scott",
+          "homeScore": 125.2,
+          "awayTeamId": "7",
+          "awayTeamName": "Upbeat360Fly",
+          "awayScore": 112.74,
+          "winner": "3"
+        },
+        {
+          "week": 15,
+          "homeTeamId": "14",
+          "homeTeamName": "Cville Heuristicats",
+          "homeScore": 143.74,
+          "awayTeamId": "9",
+          "awayTeamName": "The Hazy Gang",
+          "awayScore": 118.6,
+          "winner": "14"
+        },
+        {
+          "week": 15,
+          "homeTeamId": "6",
+          "homeTeamName": "Half Order Nachos",
+          "homeScore": 123.82,
+          "awayTeamId": "15",
+          "awayTeamName": "Steamin Willy Beaman",
+          "awayScore": 131.8,
+          "winner": "15"
+        },
+        {
+          "week": 15,
+          "homeTeamId": "4",
+          "homeTeamName": "La PortaPotty",
+          "homeScore": 145.06,
+          "awayTeamId": "5",
+          "awayTeamName": "Buck Nasty",
+          "awayScore": 126.6,
+          "winner": "4"
+        },
+        {
+          "week": 16,
+          "homeTeamId": "2",
+          "homeTeamName": "Samuel L Jaxson Dart",
+          "homeScore": 131.8,
+          "awayTeamId": "5",
+          "awayTeamName": "Buck Nasty",
+          "awayScore": 139.1,
+          "winner": "5"
+        },
+        {
+          "week": 16,
+          "homeTeamId": "11",
+          "homeTeamName": "A Near Seth Experience",
+          "homeScore": 84.88,
+          "awayTeamId": "4",
+          "awayTeamName": "La PortaPotty",
+          "awayScore": 87.36,
+          "winner": "4"
+        },
+        {
+          "week": 16,
+          "homeTeamId": "3",
+          "homeTeamName": "Scott",
+          "homeScore": 177.76,
+          "awayTeamId": "15",
+          "awayTeamName": "Steamin Willy Beaman",
+          "awayScore": 147,
+          "winner": "3"
+        },
+        {
+          "week": 16,
+          "homeTeamId": "14",
+          "homeTeamName": "Cville Heuristicats",
+          "homeScore": 129.48,
+          "awayTeamId": "7",
+          "awayTeamName": "Upbeat360Fly",
+          "awayScore": 117.92,
+          "winner": "14"
+        },
+        {
+          "week": 17,
+          "homeTeamId": "2",
+          "homeTeamName": "Samuel L Jaxson Dart",
+          "homeScore": 129.04,
+          "awayTeamId": "11",
+          "awayTeamName": "A Near Seth Experience",
+          "awayScore": 103.96,
+          "winner": "2"
+        },
+        {
+          "week": 17,
+          "homeTeamId": "4",
+          "homeTeamName": "La PortaPotty",
+          "homeScore": 80.38,
+          "awayTeamId": "5",
+          "awayTeamName": "Buck Nasty",
+          "awayScore": 119.02,
+          "winner": "5"
+        },
+        {
+          "week": 17,
+          "homeTeamId": "3",
+          "homeTeamName": "Scott",
+          "homeScore": 148.9,
+          "awayTeamId": "14",
+          "awayTeamName": "Cville Heuristicats",
+          "awayScore": 127.8,
+          "winner": "3"
+        },
+        {
+          "week": 17,
+          "homeTeamId": "15",
+          "homeTeamName": "Steamin Willy Beaman",
+          "homeScore": 111.84,
+          "awayTeamId": "7",
+          "awayTeamName": "Upbeat360Fly",
+          "awayScore": 127.98,
+          "winner": "7"
+        }
+      ]
+    }
+  ],
+  "owners": {
+    "1": {
+      "name": "Tomas",
+      "teams": [
+        "Is Mayonnaise a Quarterback",
+        "Samuel L Jaxson Dart"
+      ]
+    },
+    "2": {
+      "name": "Scott",
+      "teams": [
+        "Scott"
+      ]
+    },
+    "3": {
+      "name": "Jason",
+      "teams": [
+        "La PortaPotty"
+      ]
+    },
+    "4": {
+      "name": "Fred",
+      "teams": [
+        "Half Order Nachos"
+      ]
+    },
+    "5": {
+      "name": "Atiba",
+      "teams": [
+        "Upbeat360Fly"
+      ]
+    },
+    "6": {
+      "name": "Chris (WV)",
+      "teams": [
+        "The Sour Gang",
+        "The Hazy Gang"
+      ]
+    },
+    "7": {
+      "name": "Seth",
+      "teams": [
+        "GloboGymPurpleCobras",
+        "A Near Seth Experience"
+      ]
+    },
+    "8": {
+      "name": "Christina",
+      "teams": [
+        "Tiina Gail"
+      ]
+    },
+    "9": {
+      "name": "Chris Michael",
+      "teams": [
+        "Hawk Tua Tagovailoa"
+      ]
+    },
+    "10": {
+      "name": "Dave",
+      "teams": [
+        "Cville Heuristicats"
+      ]
+    },
+    "11": {
+      "name": "William",
+      "teams": [
+        "Steamin Willy Beaman"
+      ]
+    },
+    "12": {
+      "name": "Gerry",
+      "teams": [
+        "Buck Nasty"
+      ]
+    }
+  }
+}

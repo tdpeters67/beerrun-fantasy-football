@@ -1,0 +1,3347 @@
+{
+  "scrapedAt": "2026-03-12T17:14:32.672Z",
+  "league": {
+    "id": "12456354",
+    "name": "BeerRun"
+  },
+  "standings": [],
+  "teamSummaries": [],
+  "matchups": [
+    {
+      "week": 1,
+      "homeTeamId": null,
+      "homeTeamName": "Is Mayonnaise a Quarterback",
+      "homeScore": 145.42,
+      "awayTeamId": null,
+      "awayTeamName": "Upbeat360Fly",
+      "awayScore": 118.36,
+      "winner": null
+    },
+    {
+      "week": 1,
+      "homeTeamId": null,
+      "homeTeamName": "Scott",
+      "homeScore": 118.06,
+      "awayTeamId": null,
+      "awayTeamName": "La PortaPotty",
+      "awayScore": 114.62,
+      "winner": null
+    },
+    {
+      "week": 1,
+      "homeTeamId": null,
+      "homeTeamName": "Buck Nasty",
+      "homeScore": 146.24,
+      "awayTeamId": null,
+      "awayTeamName": "Half Order Nachos",
+      "awayScore": 111.38,
+      "winner": null
+    },
+    {
+      "week": 1,
+      "homeTeamId": null,
+      "homeTeamName": "Hawk Tua Tagovailoa",
+      "homeScore": 97.02,
+      "awayTeamId": null,
+      "awayTeamName": "Tiina Gail",
+      "awayScore": 78.76,
+      "winner": null
+    },
+    {
+      "week": 1,
+      "homeTeamId": null,
+      "homeTeamName": "The Sour Gang",
+      "homeScore": 119.38,
+      "awayTeamId": null,
+      "awayTeamName": "GloboGymPurpleCobras",
+      "awayScore": 120.28,
+      "winner": null
+    },
+    {
+      "week": 2,
+      "homeTeamId": null,
+      "homeTeamName": "Is Mayonnaise a Quarterback",
+      "homeScore": 109.72,
+      "awayTeamId": null,
+      "awayTeamName": "Tiina Gail",
+      "awayScore": 149.22,
+      "winner": null
+    },
+    {
+      "week": 2,
+      "homeTeamId": null,
+      "homeTeamName": "Buck Nasty",
+      "homeScore": 112.54,
+      "awayTeamId": null,
+      "awayTeamName": "Scott",
+      "awayScore": 109.12,
+      "winner": null
+    },
+    {
+      "week": 2,
+      "homeTeamId": null,
+      "homeTeamName": "La PortaPotty",
+      "homeScore": 83.64,
+      "awayTeamId": null,
+      "awayTeamName": "Hawk Tua Tagovailoa",
+      "awayScore": 165.48,
+      "winner": null
+    },
+    {
+      "week": 2,
+      "homeTeamId": null,
+      "homeTeamName": "Half Order Nachos",
+      "homeScore": 100.36,
+      "awayTeamId": null,
+      "awayTeamName": "The Sour Gang",
+      "awayScore": 91.38,
+      "winner": null
+    },
+    {
+      "week": 2,
+      "homeTeamId": null,
+      "homeTeamName": "GloboGymPurpleCobras",
+      "homeScore": 141.46,
+      "awayTeamId": null,
+      "awayTeamName": "Upbeat360Fly",
+      "awayScore": 115.4,
+      "winner": null
+    },
+    {
+      "week": 3,
+      "homeTeamId": null,
+      "homeTeamName": "Is Mayonnaise a Quarterback",
+      "homeScore": 129.76,
+      "awayTeamId": null,
+      "awayTeamName": "La PortaPotty",
+      "awayScore": 113.86,
+      "winner": null
+    },
+    {
+      "week": 3,
+      "homeTeamId": null,
+      "homeTeamName": "Scott",
+      "homeScore": 138.16,
+      "awayTeamId": null,
+      "awayTeamName": "Hawk Tua Tagovailoa",
+      "awayScore": 112.88,
+      "winner": null
+    },
+    {
+      "week": 3,
+      "homeTeamId": null,
+      "homeTeamName": "The Sour Gang",
+      "homeScore": 93.38,
+      "awayTeamId": null,
+      "awayTeamName": "Buck Nasty",
+      "awayScore": 79.88,
+      "winner": null
+    },
+    {
+      "week": 3,
+      "homeTeamId": null,
+      "homeTeamName": "Upbeat360Fly",
+      "homeScore": 105.1,
+      "awayTeamId": null,
+      "awayTeamName": "Half Order Nachos",
+      "awayScore": 118.68,
+      "winner": null
+    },
+    {
+      "week": 3,
+      "homeTeamId": null,
+      "homeTeamName": "GloboGymPurpleCobras",
+      "homeScore": 147.22,
+      "awayTeamId": null,
+      "awayTeamName": "Tiina Gail",
+      "awayScore": 105.46,
+      "winner": null
+    },
+    {
+      "week": 4,
+      "homeTeamId": null,
+      "homeTeamName": "Is Mayonnaise a Quarterback",
+      "homeScore": 126.52,
+      "awayTeamId": null,
+      "awayTeamName": "Hawk Tua Tagovailoa",
+      "awayScore": 130.52,
+      "winner": null
+    },
+    {
+      "week": 4,
+      "homeTeamId": null,
+      "homeTeamName": "The Sour Gang",
+      "homeScore": 113.08,
+      "awayTeamId": null,
+      "awayTeamName": "Scott",
+      "awayScore": 147.28,
+      "winner": null
+    },
+    {
+      "week": 4,
+      "homeTeamId": null,
+      "homeTeamName": "Buck Nasty",
+      "homeScore": 117.5,
+      "awayTeamId": null,
+      "awayTeamName": "Upbeat360Fly",
+      "awayScore": 91,
+      "winner": null
+    },
+    {
+      "week": 4,
+      "homeTeamId": null,
+      "homeTeamName": "La PortaPotty",
+      "homeScore": 107.82,
+      "awayTeamId": null,
+      "awayTeamName": "GloboGymPurpleCobras",
+      "awayScore": 112,
+      "winner": null
+    },
+    {
+      "week": 4,
+      "homeTeamId": null,
+      "homeTeamName": "Half Order Nachos",
+      "homeScore": 114.96,
+      "awayTeamId": null,
+      "awayTeamName": "Tiina Gail",
+      "awayScore": 108.64,
+      "winner": null
+    },
+    {
+      "week": 5,
+      "homeTeamId": null,
+      "homeTeamName": "Is Mayonnaise a Quarterback",
+      "homeScore": 120.66,
+      "awayTeamId": null,
+      "awayTeamName": "Scott",
+      "awayScore": 129.56,
+      "winner": null
+    },
+    {
+      "week": 5,
+      "homeTeamId": null,
+      "homeTeamName": "Upbeat360Fly",
+      "homeScore": 111.04,
+      "awayTeamId": null,
+      "awayTeamName": "The Sour Gang",
+      "awayScore": 172.3,
+      "winner": null
+    },
+    {
+      "week": 5,
+      "homeTeamId": null,
+      "homeTeamName": "GloboGymPurpleCobras",
+      "homeScore": 100.94,
+      "awayTeamId": null,
+      "awayTeamName": "Hawk Tua Tagovailoa",
+      "awayScore": 126.52,
+      "winner": null
+    },
+    {
+      "week": 5,
+      "homeTeamId": null,
+      "homeTeamName": "Tiina Gail",
+      "homeScore": 101.38,
+      "awayTeamId": null,
+      "awayTeamName": "Buck Nasty",
+      "awayScore": 98.64,
+      "winner": null
+    },
+    {
+      "week": 5,
+      "homeTeamId": null,
+      "homeTeamName": "Half Order Nachos",
+      "homeScore": 119.5,
+      "awayTeamId": null,
+      "awayTeamName": "La PortaPotty",
+      "awayScore": 139.52,
+      "winner": null
+    },
+    {
+      "week": 6,
+      "homeTeamId": null,
+      "homeTeamName": "Is Mayonnaise a Quarterback",
+      "homeScore": 118.96,
+      "awayTeamId": null,
+      "awayTeamName": "GloboGymPurpleCobras",
+      "awayScore": 130.3,
+      "winner": null
+    },
+    {
+      "week": 6,
+      "homeTeamId": null,
+      "homeTeamName": "Upbeat360Fly",
+      "homeScore": 102,
+      "awayTeamId": null,
+      "awayTeamName": "Scott",
+      "awayScore": 132.22,
+      "winner": null
+    },
+    {
+      "week": 6,
+      "homeTeamId": null,
+      "homeTeamName": "The Sour Gang",
+      "homeScore": 121.66,
+      "awayTeamId": null,
+      "awayTeamName": "Tiina Gail",
+      "awayScore": 85.52,
+      "winner": null
+    },
+    {
+      "week": 6,
+      "homeTeamId": null,
+      "homeTeamName": "Hawk Tua Tagovailoa",
+      "homeScore": 103.52,
+      "awayTeamId": null,
+      "awayTeamName": "Half Order Nachos",
+      "awayScore": 106.1,
+      "winner": null
+    },
+    {
+      "week": 6,
+      "homeTeamId": null,
+      "homeTeamName": "Buck Nasty",
+      "homeScore": 129.3,
+      "awayTeamId": null,
+      "awayTeamName": "La PortaPotty",
+      "awayScore": 143.76,
+      "winner": null
+    },
+    {
+      "week": 7,
+      "homeTeamId": null,
+      "homeTeamName": "Is Mayonnaise a Quarterback",
+      "homeScore": 113.26,
+      "awayTeamId": null,
+      "awayTeamName": "Half Order Nachos",
+      "awayScore": 140.1,
+      "winner": null
+    },
+    {
+      "week": 7,
+      "homeTeamId": null,
+      "homeTeamName": "Scott",
+      "homeScore": 172.74,
+      "awayTeamId": null,
+      "awayTeamName": "GloboGymPurpleCobras",
+      "awayScore": 84.82,
+      "winner": null
+    },
+    {
+      "week": 7,
+      "homeTeamId": null,
+      "homeTeamName": "Tiina Gail",
+      "homeScore": 100.1,
+      "awayTeamId": null,
+      "awayTeamName": "Upbeat360Fly",
+      "awayScore": 110.6,
+      "winner": null
+    },
+    {
+      "week": 7,
+      "homeTeamId": null,
+      "homeTeamName": "La PortaPotty",
+      "homeScore": 142.74,
+      "awayTeamId": null,
+      "awayTeamName": "The Sour Gang",
+      "awayScore": 110.4,
+      "winner": null
+    },
+    {
+      "week": 7,
+      "homeTeamId": null,
+      "homeTeamName": "Buck Nasty",
+      "homeScore": 79.38,
+      "awayTeamId": null,
+      "awayTeamName": "Hawk Tua Tagovailoa",
+      "awayScore": 105.74,
+      "winner": null
+    },
+    {
+      "week": 8,
+      "homeTeamId": null,
+      "homeTeamName": "Is Mayonnaise a Quarterback",
+      "homeScore": 111.06,
+      "awayTeamId": null,
+      "awayTeamName": "Buck Nasty",
+      "awayScore": 134.58,
+      "winner": null
+    },
+    {
+      "week": 8,
+      "homeTeamId": null,
+      "homeTeamName": "Tiina Gail",
+      "homeScore": 141.2,
+      "awayTeamId": null,
+      "awayTeamName": "Scott",
+      "awayScore": 100.36,
+      "winner": null
+    },
+    {
+      "week": 8,
+      "homeTeamId": null,
+      "homeTeamName": "GloboGymPurpleCobras",
+      "homeScore": 139.72,
+      "awayTeamId": null,
+      "awayTeamName": "Half Order Nachos",
+      "awayScore": 154.2,
+      "winner": null
+    },
+    {
+      "week": 8,
+      "homeTeamId": null,
+      "homeTeamName": "Upbeat360Fly",
+      "homeScore": 117.74,
+      "awayTeamId": null,
+      "awayTeamName": "La PortaPotty",
+      "awayScore": 127.54,
+      "winner": null
+    },
+    {
+      "week": 8,
+      "homeTeamId": null,
+      "homeTeamName": "The Sour Gang",
+      "homeScore": 130.68,
+      "awayTeamId": null,
+      "awayTeamName": "Hawk Tua Tagovailoa",
+      "awayScore": 96.36,
+      "winner": null
+    },
+    {
+      "week": 9,
+      "homeTeamId": null,
+      "homeTeamName": "Is Mayonnaise a Quarterback",
+      "homeScore": 135.2,
+      "awayTeamId": null,
+      "awayTeamName": "The Sour Gang",
+      "awayScore": 132.96,
+      "winner": null
+    },
+    {
+      "week": 9,
+      "homeTeamId": null,
+      "homeTeamName": "Scott",
+      "homeScore": 132.74,
+      "awayTeamId": null,
+      "awayTeamName": "Half Order Nachos",
+      "awayScore": 102,
+      "winner": null
+    },
+    {
+      "week": 9,
+      "homeTeamId": null,
+      "homeTeamName": "La PortaPotty",
+      "homeScore": 131.72,
+      "awayTeamId": null,
+      "awayTeamName": "Tiina Gail",
+      "awayScore": 112.02,
+      "winner": null
+    },
+    {
+      "week": 9,
+      "homeTeamId": null,
+      "homeTeamName": "Buck Nasty",
+      "homeScore": 179.34,
+      "awayTeamId": null,
+      "awayTeamName": "GloboGymPurpleCobras",
+      "awayScore": 100.7,
+      "winner": null
+    },
+    {
+      "week": 9,
+      "homeTeamId": null,
+      "homeTeamName": "Hawk Tua Tagovailoa",
+      "homeScore": 114.2,
+      "awayTeamId": null,
+      "awayTeamName": "Upbeat360Fly",
+      "awayScore": 109.22,
+      "winner": null
+    },
+    {
+      "week": 10,
+      "homeTeamId": null,
+      "homeTeamName": "Is Mayonnaise a Quarterback",
+      "homeScore": 116.08,
+      "awayTeamId": null,
+      "awayTeamName": "Upbeat360Fly",
+      "awayScore": 95.18,
+      "winner": null
+    },
+    {
+      "week": 10,
+      "homeTeamId": null,
+      "homeTeamName": "La PortaPotty",
+      "homeScore": 93.08,
+      "awayTeamId": null,
+      "awayTeamName": "Scott",
+      "awayScore": 133.62,
+      "winner": null
+    },
+    {
+      "week": 10,
+      "homeTeamId": null,
+      "homeTeamName": "Half Order Nachos",
+      "homeScore": 129.44,
+      "awayTeamId": null,
+      "awayTeamName": "Buck Nasty",
+      "awayScore": 121.22,
+      "winner": null
+    },
+    {
+      "week": 10,
+      "homeTeamId": null,
+      "homeTeamName": "Tiina Gail",
+      "homeScore": 90.9,
+      "awayTeamId": null,
+      "awayTeamName": "Hawk Tua Tagovailoa",
+      "awayScore": 106.4,
+      "winner": null
+    },
+    {
+      "week": 10,
+      "homeTeamId": null,
+      "homeTeamName": "GloboGymPurpleCobras",
+      "homeScore": 90.6,
+      "awayTeamId": null,
+      "awayTeamName": "The Sour Gang",
+      "awayScore": 168.64,
+      "winner": null
+    },
+    {
+      "week": 11,
+      "homeTeamId": null,
+      "homeTeamName": "Is Mayonnaise a Quarterback",
+      "homeScore": 133.84,
+      "awayTeamId": null,
+      "awayTeamName": "Tiina Gail",
+      "awayScore": 108.38,
+      "winner": null
+    },
+    {
+      "week": 11,
+      "homeTeamId": null,
+      "homeTeamName": "Scott",
+      "homeScore": 87.14,
+      "awayTeamId": null,
+      "awayTeamName": "Buck Nasty",
+      "awayScore": 145.96,
+      "winner": null
+    },
+    {
+      "week": 11,
+      "homeTeamId": null,
+      "homeTeamName": "Hawk Tua Tagovailoa",
+      "homeScore": 122.68,
+      "awayTeamId": null,
+      "awayTeamName": "La PortaPotty",
+      "awayScore": 130.44,
+      "winner": null
+    },
+    {
+      "week": 11,
+      "homeTeamId": null,
+      "homeTeamName": "The Sour Gang",
+      "homeScore": 118.72,
+      "awayTeamId": null,
+      "awayTeamName": "Half Order Nachos",
+      "awayScore": 105,
+      "winner": null
+    },
+    {
+      "week": 11,
+      "homeTeamId": null,
+      "homeTeamName": "Upbeat360Fly",
+      "homeScore": 145.7,
+      "awayTeamId": null,
+      "awayTeamName": "GloboGymPurpleCobras",
+      "awayScore": 106.18,
+      "winner": null
+    },
+    {
+      "week": 12,
+      "homeTeamId": null,
+      "homeTeamName": "Is Mayonnaise a Quarterback",
+      "homeScore": 154.76,
+      "awayTeamId": null,
+      "awayTeamName": "La PortaPotty",
+      "awayScore": 109.7,
+      "winner": null
+    },
+    {
+      "week": 12,
+      "homeTeamId": null,
+      "homeTeamName": "Hawk Tua Tagovailoa",
+      "homeScore": 89.68,
+      "awayTeamId": null,
+      "awayTeamName": "Scott",
+      "awayScore": 136.22,
+      "winner": null
+    },
+    {
+      "week": 12,
+      "homeTeamId": null,
+      "homeTeamName": "Buck Nasty",
+      "homeScore": 123.66,
+      "awayTeamId": null,
+      "awayTeamName": "The Sour Gang",
+      "awayScore": 80.7,
+      "winner": null
+    },
+    {
+      "week": 12,
+      "homeTeamId": null,
+      "homeTeamName": "Half Order Nachos",
+      "homeScore": 104.26,
+      "awayTeamId": null,
+      "awayTeamName": "Upbeat360Fly",
+      "awayScore": 138.12,
+      "winner": null
+    },
+    {
+      "week": 12,
+      "homeTeamId": null,
+      "homeTeamName": "Tiina Gail",
+      "homeScore": 73.86,
+      "awayTeamId": null,
+      "awayTeamName": "GloboGymPurpleCobras",
+      "awayScore": 117.32,
+      "winner": null
+    },
+    {
+      "week": 13,
+      "homeTeamId": null,
+      "homeTeamName": "Is Mayonnaise a Quarterback",
+      "homeScore": 125.22,
+      "awayTeamId": null,
+      "awayTeamName": "Hawk Tua Tagovailoa",
+      "awayScore": 143.18,
+      "winner": null
+    },
+    {
+      "week": 13,
+      "homeTeamId": null,
+      "homeTeamName": "Scott",
+      "homeScore": 119.02,
+      "awayTeamId": null,
+      "awayTeamName": "The Sour Gang",
+      "awayScore": 130.5,
+      "winner": null
+    },
+    {
+      "week": 13,
+      "homeTeamId": null,
+      "homeTeamName": "Upbeat360Fly",
+      "homeScore": 155.08,
+      "awayTeamId": null,
+      "awayTeamName": "Buck Nasty",
+      "awayScore": 105.04,
+      "winner": null
+    },
+    {
+      "week": 13,
+      "homeTeamId": null,
+      "homeTeamName": "GloboGymPurpleCobras",
+      "homeScore": 166.52,
+      "awayTeamId": null,
+      "awayTeamName": "La PortaPotty",
+      "awayScore": 137.54,
+      "winner": null
+    },
+    {
+      "week": 13,
+      "homeTeamId": null,
+      "homeTeamName": "Tiina Gail",
+      "homeScore": 102.24,
+      "awayTeamId": null,
+      "awayTeamName": "Half Order Nachos",
+      "awayScore": 119,
+      "winner": null
+    },
+    {
+      "week": 14,
+      "homeTeamId": null,
+      "homeTeamName": "Is Mayonnaise a Quarterback",
+      "homeScore": 144.52,
+      "awayTeamId": null,
+      "awayTeamName": "Scott",
+      "awayScore": 118.66,
+      "winner": null
+    },
+    {
+      "week": 14,
+      "homeTeamId": null,
+      "homeTeamName": "The Sour Gang",
+      "homeScore": 183.26,
+      "awayTeamId": null,
+      "awayTeamName": "Upbeat360Fly",
+      "awayScore": 73.34,
+      "winner": null
+    },
+    {
+      "week": 14,
+      "homeTeamId": null,
+      "homeTeamName": "Hawk Tua Tagovailoa",
+      "homeScore": 78.54,
+      "awayTeamId": null,
+      "awayTeamName": "GloboGymPurpleCobras",
+      "awayScore": 166.68,
+      "winner": null
+    },
+    {
+      "week": 14,
+      "homeTeamId": null,
+      "homeTeamName": "Buck Nasty",
+      "homeScore": 147.6,
+      "awayTeamId": null,
+      "awayTeamName": "Tiina Gail",
+      "awayScore": 103.22,
+      "winner": null
+    },
+    {
+      "week": 14,
+      "homeTeamId": null,
+      "homeTeamName": "La PortaPotty",
+      "homeScore": 139.76,
+      "awayTeamId": null,
+      "awayTeamName": "Half Order Nachos",
+      "awayScore": 119.7,
+      "winner": null
+    },
+    {
+      "week": 15,
+      "homeTeamId": null,
+      "homeTeamName": "Is Mayonnaise a Quarterback",
+      "homeScore": 120.4,
+      "awayTeamId": null,
+      "awayTeamName": "GloboGymPurpleCobras",
+      "awayScore": 131.38,
+      "winner": null
+    },
+    {
+      "week": 15,
+      "homeTeamId": null,
+      "homeTeamName": "Scott",
+      "homeScore": 169.14,
+      "awayTeamId": null,
+      "awayTeamName": "Upbeat360Fly",
+      "awayScore": 145.26,
+      "winner": null
+    },
+    {
+      "week": 15,
+      "homeTeamId": null,
+      "homeTeamName": "Tiina Gail",
+      "homeScore": 97.06,
+      "awayTeamId": null,
+      "awayTeamName": "The Sour Gang",
+      "awayScore": 156.26,
+      "winner": null
+    },
+    {
+      "week": 15,
+      "homeTeamId": null,
+      "homeTeamName": "Half Order Nachos",
+      "homeScore": 133.02,
+      "awayTeamId": null,
+      "awayTeamName": "Hawk Tua Tagovailoa",
+      "awayScore": 176.9,
+      "winner": null
+    },
+    {
+      "week": 15,
+      "homeTeamId": null,
+      "homeTeamName": "La PortaPotty",
+      "homeScore": 127.14,
+      "awayTeamId": null,
+      "awayTeamName": "Buck Nasty",
+      "awayScore": 68.58,
+      "winner": null
+    },
+    {
+      "week": 16,
+      "homeTeamId": null,
+      "homeTeamName": "Is Mayonnaise a Quarterback",
+      "homeScore": 104.44,
+      "awayTeamId": null,
+      "awayTeamName": "La PortaPotty",
+      "awayScore": 151.02,
+      "winner": null
+    },
+    {
+      "week": 16,
+      "homeTeamId": null,
+      "homeTeamName": "Buck Nasty",
+      "homeScore": 100.62,
+      "awayTeamId": null,
+      "awayTeamName": "Half Order Nachos",
+      "awayScore": 102.92,
+      "winner": null
+    },
+    {
+      "week": 16,
+      "homeTeamId": null,
+      "homeTeamName": "Scott",
+      "homeScore": 141.88,
+      "awayTeamId": null,
+      "awayTeamName": "Hawk Tua Tagovailoa",
+      "awayScore": 120.78,
+      "winner": null
+    },
+    {
+      "week": 16,
+      "homeTeamId": null,
+      "homeTeamName": "The Sour Gang",
+      "homeScore": 152.08,
+      "awayTeamId": null,
+      "awayTeamName": "GloboGymPurpleCobras",
+      "awayScore": 140.46,
+      "winner": null
+    },
+    {
+      "week": 17,
+      "homeTeamId": null,
+      "homeTeamName": "Is Mayonnaise a Quarterback",
+      "homeScore": 161.02,
+      "awayTeamId": null,
+      "awayTeamName": "Buck Nasty",
+      "awayScore": 113.58,
+      "winner": null
+    },
+    {
+      "week": 17,
+      "homeTeamId": null,
+      "homeTeamName": "La PortaPotty",
+      "homeScore": 134.38,
+      "awayTeamId": null,
+      "awayTeamName": "Half Order Nachos",
+      "awayScore": 130.56,
+      "winner": null
+    },
+    {
+      "week": 17,
+      "homeTeamId": null,
+      "homeTeamName": "Scott",
+      "homeScore": 150.08,
+      "awayTeamId": null,
+      "awayTeamName": "The Sour Gang",
+      "awayScore": 100.04,
+      "winner": null
+    },
+    {
+      "week": 17,
+      "homeTeamId": null,
+      "homeTeamName": "Hawk Tua Tagovailoa",
+      "homeScore": 138.72,
+      "awayTeamId": null,
+      "awayTeamName": "GloboGymPurpleCobras",
+      "awayScore": 119.58,
+      "winner": null
+    },
+    {
+      "week": 1,
+      "homeTeamId": null,
+      "homeTeamName": "Samuel L Jaxson Dart",
+      "homeScore": 121.28,
+      "awayTeamId": null,
+      "awayTeamName": "Upbeat360Fly",
+      "awayScore": 91.32,
+      "winner": null
+    },
+    {
+      "week": 1,
+      "homeTeamId": null,
+      "homeTeamName": "Scott",
+      "homeScore": 149.92,
+      "awayTeamId": null,
+      "awayTeamName": "La PortaPotty",
+      "awayScore": 115.28,
+      "winner": null
+    },
+    {
+      "week": 1,
+      "homeTeamId": null,
+      "homeTeamName": "Buck Nasty",
+      "homeScore": 97.9,
+      "awayTeamId": null,
+      "awayTeamName": "Half Order Nachos",
+      "awayScore": 111.66,
+      "winner": null
+    },
+    {
+      "week": 1,
+      "homeTeamId": null,
+      "homeTeamName": "Steamin Willy Beaman",
+      "homeScore": 101.62,
+      "awayTeamId": null,
+      "awayTeamName": "Cville Heuristicats",
+      "awayScore": 100.72,
+      "winner": null
+    },
+    {
+      "week": 1,
+      "homeTeamId": null,
+      "homeTeamName": "The Hazy Gang",
+      "homeScore": 123.76,
+      "awayTeamId": null,
+      "awayTeamName": "A Near Seth Experience",
+      "awayScore": 97.14,
+      "winner": null
+    },
+    {
+      "week": 2,
+      "homeTeamId": null,
+      "homeTeamName": "Samuel L Jaxson Dart",
+      "homeScore": 104.4,
+      "awayTeamId": null,
+      "awayTeamName": "Cville Heuristicats",
+      "awayScore": 85.84,
+      "winner": null
+    },
+    {
+      "week": 2,
+      "homeTeamId": null,
+      "homeTeamName": "Buck Nasty",
+      "homeScore": 120.56,
+      "awayTeamId": null,
+      "awayTeamName": "Scott",
+      "awayScore": 152.7,
+      "winner": null
+    },
+    {
+      "week": 2,
+      "homeTeamId": null,
+      "homeTeamName": "La PortaPotty",
+      "homeScore": 118.84,
+      "awayTeamId": null,
+      "awayTeamName": "Steamin Willy Beaman",
+      "awayScore": 120.2,
+      "winner": null
+    },
+    {
+      "week": 2,
+      "homeTeamId": null,
+      "homeTeamName": "Half Order Nachos",
+      "homeScore": 102.12,
+      "awayTeamId": null,
+      "awayTeamName": "The Hazy Gang",
+      "awayScore": 90.3,
+      "winner": null
+    },
+    {
+      "week": 2,
+      "homeTeamId": null,
+      "homeTeamName": "A Near Seth Experience",
+      "homeScore": 119.24,
+      "awayTeamId": null,
+      "awayTeamName": "Upbeat360Fly",
+      "awayScore": 134.68,
+      "winner": null
+    },
+    {
+      "week": 3,
+      "homeTeamId": null,
+      "homeTeamName": "Samuel L Jaxson Dart",
+      "homeScore": 111.12,
+      "awayTeamId": null,
+      "awayTeamName": "La PortaPotty",
+      "awayScore": 114.94,
+      "winner": null
+    },
+    {
+      "week": 3,
+      "homeTeamId": null,
+      "homeTeamName": "Scott",
+      "homeScore": 123.26,
+      "awayTeamId": null,
+      "awayTeamName": "Steamin Willy Beaman",
+      "awayScore": 128.32,
+      "winner": null
+    },
+    {
+      "week": 3,
+      "homeTeamId": null,
+      "homeTeamName": "The Hazy Gang",
+      "homeScore": 87.32,
+      "awayTeamId": null,
+      "awayTeamName": "Buck Nasty",
+      "awayScore": 101.58,
+      "winner": null
+    },
+    {
+      "week": 3,
+      "homeTeamId": null,
+      "homeTeamName": "Upbeat360Fly",
+      "homeScore": 145.46,
+      "awayTeamId": null,
+      "awayTeamName": "Half Order Nachos",
+      "awayScore": 129.32,
+      "winner": null
+    },
+    {
+      "week": 3,
+      "homeTeamId": null,
+      "homeTeamName": "A Near Seth Experience",
+      "homeScore": 92.12,
+      "awayTeamId": null,
+      "awayTeamName": "Cville Heuristicats",
+      "awayScore": 163.92,
+      "winner": null
+    },
+    {
+      "week": 4,
+      "homeTeamId": null,
+      "homeTeamName": "Samuel L Jaxson Dart",
+      "homeScore": 143.52,
+      "awayTeamId": null,
+      "awayTeamName": "Steamin Willy Beaman",
+      "awayScore": 106.72,
+      "winner": null
+    },
+    {
+      "week": 4,
+      "homeTeamId": null,
+      "homeTeamName": "The Hazy Gang",
+      "homeScore": 91.38,
+      "awayTeamId": null,
+      "awayTeamName": "Scott",
+      "awayScore": 165.58,
+      "winner": null
+    },
+    {
+      "week": 4,
+      "homeTeamId": null,
+      "homeTeamName": "Buck Nasty",
+      "homeScore": 91.62,
+      "awayTeamId": null,
+      "awayTeamName": "Upbeat360Fly",
+      "awayScore": 171.3,
+      "winner": null
+    },
+    {
+      "week": 4,
+      "homeTeamId": null,
+      "homeTeamName": "La PortaPotty",
+      "homeScore": 110.2,
+      "awayTeamId": null,
+      "awayTeamName": "A Near Seth Experience",
+      "awayScore": 112.24,
+      "winner": null
+    },
+    {
+      "week": 4,
+      "homeTeamId": null,
+      "homeTeamName": "Half Order Nachos",
+      "homeScore": 108.56,
+      "awayTeamId": null,
+      "awayTeamName": "Cville Heuristicats",
+      "awayScore": 135.78,
+      "winner": null
+    },
+    {
+      "week": 5,
+      "homeTeamId": null,
+      "homeTeamName": "Samuel L Jaxson Dart",
+      "homeScore": 114.54,
+      "awayTeamId": null,
+      "awayTeamName": "Scott",
+      "awayScore": 129.6,
+      "winner": null
+    },
+    {
+      "week": 5,
+      "homeTeamId": null,
+      "homeTeamName": "Upbeat360Fly",
+      "homeScore": 153.62,
+      "awayTeamId": null,
+      "awayTeamName": "The Hazy Gang",
+      "awayScore": 98.62,
+      "winner": null
+    },
+    {
+      "week": 5,
+      "homeTeamId": null,
+      "homeTeamName": "A Near Seth Experience",
+      "homeScore": 121.98,
+      "awayTeamId": null,
+      "awayTeamName": "Steamin Willy Beaman",
+      "awayScore": 102.24,
+      "winner": null
+    },
+    {
+      "week": 5,
+      "homeTeamId": null,
+      "homeTeamName": "Cville Heuristicats",
+      "homeScore": 132.4,
+      "awayTeamId": null,
+      "awayTeamName": "Buck Nasty",
+      "awayScore": 120.72,
+      "winner": null
+    },
+    {
+      "week": 5,
+      "homeTeamId": null,
+      "homeTeamName": "Half Order Nachos",
+      "homeScore": 128.22,
+      "awayTeamId": null,
+      "awayTeamName": "La PortaPotty",
+      "awayScore": 102.88,
+      "winner": null
+    },
+    {
+      "week": 6,
+      "homeTeamId": null,
+      "homeTeamName": "Samuel L Jaxson Dart",
+      "homeScore": 113.36,
+      "awayTeamId": null,
+      "awayTeamName": "A Near Seth Experience",
+      "awayScore": 155.96,
+      "winner": null
+    },
+    {
+      "week": 6,
+      "homeTeamId": null,
+      "homeTeamName": "Upbeat360Fly",
+      "homeScore": 145.8,
+      "awayTeamId": null,
+      "awayTeamName": "Scott",
+      "awayScore": 91.96,
+      "winner": null
+    },
+    {
+      "week": 6,
+      "homeTeamId": null,
+      "homeTeamName": "The Hazy Gang",
+      "homeScore": 108,
+      "awayTeamId": null,
+      "awayTeamName": "Cville Heuristicats",
+      "awayScore": 148.38,
+      "winner": null
+    },
+    {
+      "week": 6,
+      "homeTeamId": null,
+      "homeTeamName": "Steamin Willy Beaman",
+      "homeScore": 66.14,
+      "awayTeamId": null,
+      "awayTeamName": "Half Order Nachos",
+      "awayScore": 77.1,
+      "winner": null
+    },
+    {
+      "week": 6,
+      "homeTeamId": null,
+      "homeTeamName": "Buck Nasty",
+      "homeScore": 102.72,
+      "awayTeamId": null,
+      "awayTeamName": "La PortaPotty",
+      "awayScore": 105.52,
+      "winner": null
+    },
+    {
+      "week": 7,
+      "homeTeamId": null,
+      "homeTeamName": "Samuel L Jaxson Dart",
+      "homeScore": 138.52,
+      "awayTeamId": null,
+      "awayTeamName": "Half Order Nachos",
+      "awayScore": 120.22,
+      "winner": null
+    },
+    {
+      "week": 7,
+      "homeTeamId": null,
+      "homeTeamName": "Scott",
+      "homeScore": 122.16,
+      "awayTeamId": null,
+      "awayTeamName": "A Near Seth Experience",
+      "awayScore": 155.66,
+      "winner": null
+    },
+    {
+      "week": 7,
+      "homeTeamId": null,
+      "homeTeamName": "Cville Heuristicats",
+      "homeScore": 113.98,
+      "awayTeamId": null,
+      "awayTeamName": "Upbeat360Fly",
+      "awayScore": 124.24,
+      "winner": null
+    },
+    {
+      "week": 7,
+      "homeTeamId": null,
+      "homeTeamName": "La PortaPotty",
+      "homeScore": 129.04,
+      "awayTeamId": null,
+      "awayTeamName": "The Hazy Gang",
+      "awayScore": 64.04,
+      "winner": null
+    },
+    {
+      "week": 7,
+      "homeTeamId": null,
+      "homeTeamName": "Buck Nasty",
+      "homeScore": 124.64,
+      "awayTeamId": null,
+      "awayTeamName": "Steamin Willy Beaman",
+      "awayScore": 114.04,
+      "winner": null
+    },
+    {
+      "week": 8,
+      "homeTeamId": null,
+      "homeTeamName": "Samuel L Jaxson Dart",
+      "homeScore": 122.98,
+      "awayTeamId": null,
+      "awayTeamName": "Buck Nasty",
+      "awayScore": 123.62,
+      "winner": null
+    },
+    {
+      "week": 8,
+      "homeTeamId": null,
+      "homeTeamName": "Cville Heuristicats",
+      "homeScore": 103.08,
+      "awayTeamId": null,
+      "awayTeamName": "Scott",
+      "awayScore": 150.5,
+      "winner": null
+    },
+    {
+      "week": 8,
+      "homeTeamId": null,
+      "homeTeamName": "A Near Seth Experience",
+      "homeScore": 124.58,
+      "awayTeamId": null,
+      "awayTeamName": "Half Order Nachos",
+      "awayScore": 108.52,
+      "winner": null
+    },
+    {
+      "week": 8,
+      "homeTeamId": null,
+      "homeTeamName": "Upbeat360Fly",
+      "homeScore": 115.02,
+      "awayTeamId": null,
+      "awayTeamName": "La PortaPotty",
+      "awayScore": 167.96,
+      "winner": null
+    },
+    {
+      "week": 8,
+      "homeTeamId": null,
+      "homeTeamName": "The Hazy Gang",
+      "homeScore": 98.16,
+      "awayTeamId": null,
+      "awayTeamName": "Steamin Willy Beaman",
+      "awayScore": 99.58,
+      "winner": null
+    },
+    {
+      "week": 9,
+      "homeTeamId": null,
+      "homeTeamName": "Samuel L Jaxson Dart",
+      "homeScore": 124.5,
+      "awayTeamId": null,
+      "awayTeamName": "The Hazy Gang",
+      "awayScore": 168.36,
+      "winner": null
+    },
+    {
+      "week": 9,
+      "homeTeamId": null,
+      "homeTeamName": "Scott",
+      "homeScore": 124.32,
+      "awayTeamId": null,
+      "awayTeamName": "Half Order Nachos",
+      "awayScore": 111.92,
+      "winner": null
+    },
+    {
+      "week": 9,
+      "homeTeamId": null,
+      "homeTeamName": "La PortaPotty",
+      "homeScore": 94.6,
+      "awayTeamId": null,
+      "awayTeamName": "Cville Heuristicats",
+      "awayScore": 138.1,
+      "winner": null
+    },
+    {
+      "week": 9,
+      "homeTeamId": null,
+      "homeTeamName": "Buck Nasty",
+      "homeScore": 120.66,
+      "awayTeamId": null,
+      "awayTeamName": "A Near Seth Experience",
+      "awayScore": 99.82,
+      "winner": null
+    },
+    {
+      "week": 9,
+      "homeTeamId": null,
+      "homeTeamName": "Steamin Willy Beaman",
+      "homeScore": 92.26,
+      "awayTeamId": null,
+      "awayTeamName": "Upbeat360Fly",
+      "awayScore": 120.4,
+      "winner": null
+    },
+    {
+      "week": 10,
+      "homeTeamId": null,
+      "homeTeamName": "Samuel L Jaxson Dart",
+      "homeScore": 136.32,
+      "awayTeamId": null,
+      "awayTeamName": "Upbeat360Fly",
+      "awayScore": 113.28,
+      "winner": null
+    },
+    {
+      "week": 10,
+      "homeTeamId": null,
+      "homeTeamName": "La PortaPotty",
+      "homeScore": 144.22,
+      "awayTeamId": null,
+      "awayTeamName": "Scott",
+      "awayScore": 118.94,
+      "winner": null
+    },
+    {
+      "week": 10,
+      "homeTeamId": null,
+      "homeTeamName": "Half Order Nachos",
+      "homeScore": 83.24,
+      "awayTeamId": null,
+      "awayTeamName": "Buck Nasty",
+      "awayScore": 142.8,
+      "winner": null
+    },
+    {
+      "week": 10,
+      "homeTeamId": null,
+      "homeTeamName": "Cville Heuristicats",
+      "homeScore": 147.6,
+      "awayTeamId": null,
+      "awayTeamName": "Steamin Willy Beaman",
+      "awayScore": 128.1,
+      "winner": null
+    },
+    {
+      "week": 10,
+      "homeTeamId": null,
+      "homeTeamName": "A Near Seth Experience",
+      "homeScore": 113.9,
+      "awayTeamId": null,
+      "awayTeamName": "The Hazy Gang",
+      "awayScore": 114.64,
+      "winner": null
+    },
+    {
+      "week": 11,
+      "homeTeamId": null,
+      "homeTeamName": "Samuel L Jaxson Dart",
+      "homeScore": 80.24,
+      "awayTeamId": null,
+      "awayTeamName": "Cville Heuristicats",
+      "awayScore": 119.02,
+      "winner": null
+    },
+    {
+      "week": 11,
+      "homeTeamId": null,
+      "homeTeamName": "Scott",
+      "homeScore": 136.06,
+      "awayTeamId": null,
+      "awayTeamName": "Buck Nasty",
+      "awayScore": 120,
+      "winner": null
+    },
+    {
+      "week": 11,
+      "homeTeamId": null,
+      "homeTeamName": "Steamin Willy Beaman",
+      "homeScore": 80.64,
+      "awayTeamId": null,
+      "awayTeamName": "La PortaPotty",
+      "awayScore": 77.2,
+      "winner": null
+    },
+    {
+      "week": 11,
+      "homeTeamId": null,
+      "homeTeamName": "The Hazy Gang",
+      "homeScore": 105.12,
+      "awayTeamId": null,
+      "awayTeamName": "Half Order Nachos",
+      "awayScore": 117.88,
+      "winner": null
+    },
+    {
+      "week": 11,
+      "homeTeamId": null,
+      "homeTeamName": "Upbeat360Fly",
+      "homeScore": 99.44,
+      "awayTeamId": null,
+      "awayTeamName": "A Near Seth Experience",
+      "awayScore": 93.5,
+      "winner": null
+    },
+    {
+      "week": 12,
+      "homeTeamId": null,
+      "homeTeamName": "Samuel L Jaxson Dart",
+      "homeScore": 155.64,
+      "awayTeamId": null,
+      "awayTeamName": "La PortaPotty",
+      "awayScore": 108.36,
+      "winner": null
+    },
+    {
+      "week": 12,
+      "homeTeamId": null,
+      "homeTeamName": "Steamin Willy Beaman",
+      "homeScore": 160.66,
+      "awayTeamId": null,
+      "awayTeamName": "Scott",
+      "awayScore": 110.46,
+      "winner": null
+    },
+    {
+      "week": 12,
+      "homeTeamId": null,
+      "homeTeamName": "Buck Nasty",
+      "homeScore": 83.72,
+      "awayTeamId": null,
+      "awayTeamName": "The Hazy Gang",
+      "awayScore": 95.82,
+      "winner": null
+    },
+    {
+      "week": 12,
+      "homeTeamId": null,
+      "homeTeamName": "Half Order Nachos",
+      "homeScore": 72.42,
+      "awayTeamId": null,
+      "awayTeamName": "Upbeat360Fly",
+      "awayScore": 132.28,
+      "winner": null
+    },
+    {
+      "week": 12,
+      "homeTeamId": null,
+      "homeTeamName": "Cville Heuristicats",
+      "homeScore": 127.14,
+      "awayTeamId": null,
+      "awayTeamName": "A Near Seth Experience",
+      "awayScore": 116.72,
+      "winner": null
+    },
+    {
+      "week": 13,
+      "homeTeamId": null,
+      "homeTeamName": "Samuel L Jaxson Dart",
+      "homeScore": 104.64,
+      "awayTeamId": null,
+      "awayTeamName": "Steamin Willy Beaman",
+      "awayScore": 105.48,
+      "winner": null
+    },
+    {
+      "week": 13,
+      "homeTeamId": null,
+      "homeTeamName": "Scott",
+      "homeScore": 147.54,
+      "awayTeamId": null,
+      "awayTeamName": "The Hazy Gang",
+      "awayScore": 78.04,
+      "winner": null
+    },
+    {
+      "week": 13,
+      "homeTeamId": null,
+      "homeTeamName": "Upbeat360Fly",
+      "homeScore": 105.44,
+      "awayTeamId": null,
+      "awayTeamName": "Buck Nasty",
+      "awayScore": 139.22,
+      "winner": null
+    },
+    {
+      "week": 13,
+      "homeTeamId": null,
+      "homeTeamName": "A Near Seth Experience",
+      "homeScore": 123.34,
+      "awayTeamId": null,
+      "awayTeamName": "La PortaPotty",
+      "awayScore": 102.8,
+      "winner": null
+    },
+    {
+      "week": 13,
+      "homeTeamId": null,
+      "homeTeamName": "Cville Heuristicats",
+      "homeScore": 133.14,
+      "awayTeamId": null,
+      "awayTeamName": "Half Order Nachos",
+      "awayScore": 106.32,
+      "winner": null
+    },
+    {
+      "week": 14,
+      "homeTeamId": null,
+      "homeTeamName": "Samuel L Jaxson Dart",
+      "homeScore": 118.38,
+      "awayTeamId": null,
+      "awayTeamName": "Scott",
+      "awayScore": 158.86,
+      "winner": null
+    },
+    {
+      "week": 14,
+      "homeTeamId": null,
+      "homeTeamName": "The Hazy Gang",
+      "homeScore": 97.46,
+      "awayTeamId": null,
+      "awayTeamName": "Upbeat360Fly",
+      "awayScore": 85.2,
+      "winner": null
+    },
+    {
+      "week": 14,
+      "homeTeamId": null,
+      "homeTeamName": "Steamin Willy Beaman",
+      "homeScore": 150.46,
+      "awayTeamId": null,
+      "awayTeamName": "A Near Seth Experience",
+      "awayScore": 94.04,
+      "winner": null
+    },
+    {
+      "week": 14,
+      "homeTeamId": null,
+      "homeTeamName": "Buck Nasty",
+      "homeScore": 135.56,
+      "awayTeamId": null,
+      "awayTeamName": "Cville Heuristicats",
+      "awayScore": 99,
+      "winner": null
+    },
+    {
+      "week": 14,
+      "homeTeamId": null,
+      "homeTeamName": "La PortaPotty",
+      "homeScore": 111.04,
+      "awayTeamId": null,
+      "awayTeamName": "Half Order Nachos",
+      "awayScore": 117.54,
+      "winner": null
+    },
+    {
+      "week": 15,
+      "homeTeamId": null,
+      "homeTeamName": "Samuel L Jaxson Dart",
+      "homeScore": 90.48,
+      "awayTeamId": null,
+      "awayTeamName": "A Near Seth Experience",
+      "awayScore": 158.32,
+      "winner": null
+    },
+    {
+      "week": 15,
+      "homeTeamId": null,
+      "homeTeamName": "Scott",
+      "homeScore": 125.2,
+      "awayTeamId": null,
+      "awayTeamName": "Upbeat360Fly",
+      "awayScore": 112.74,
+      "winner": null
+    },
+    {
+      "week": 15,
+      "homeTeamId": null,
+      "homeTeamName": "Cville Heuristicats",
+      "homeScore": 143.74,
+      "awayTeamId": null,
+      "awayTeamName": "The Hazy Gang",
+      "awayScore": 118.6,
+      "winner": null
+    },
+    {
+      "week": 15,
+      "homeTeamId": null,
+      "homeTeamName": "Half Order Nachos",
+      "homeScore": 123.82,
+      "awayTeamId": null,
+      "awayTeamName": "Steamin Willy Beaman",
+      "awayScore": 131.8,
+      "winner": null
+    },
+    {
+      "week": 15,
+      "homeTeamId": null,
+      "homeTeamName": "La PortaPotty",
+      "homeScore": 145.06,
+      "awayTeamId": null,
+      "awayTeamName": "Buck Nasty",
+      "awayScore": 126.6,
+      "winner": null
+    },
+    {
+      "week": 16,
+      "homeTeamId": null,
+      "homeTeamName": "Samuel L Jaxson Dart",
+      "homeScore": 131.8,
+      "awayTeamId": null,
+      "awayTeamName": "Buck Nasty",
+      "awayScore": 139.1,
+      "winner": null
+    },
+    {
+      "week": 16,
+      "homeTeamId": null,
+      "homeTeamName": "A Near Seth Experience",
+      "homeScore": 84.88,
+      "awayTeamId": null,
+      "awayTeamName": "La PortaPotty",
+      "awayScore": 87.36,
+      "winner": null
+    },
+    {
+      "week": 16,
+      "homeTeamId": null,
+      "homeTeamName": "Scott",
+      "homeScore": 177.76,
+      "awayTeamId": null,
+      "awayTeamName": "Steamin Willy Beaman",
+      "awayScore": 147,
+      "winner": null
+    },
+    {
+      "week": 16,
+      "homeTeamId": null,
+      "homeTeamName": "Cville Heuristicats",
+      "homeScore": 129.48,
+      "awayTeamId": null,
+      "awayTeamName": "Upbeat360Fly",
+      "awayScore": 117.92,
+      "winner": null
+    },
+    {
+      "week": 17,
+      "homeTeamId": null,
+      "homeTeamName": "Samuel L Jaxson Dart",
+      "homeScore": 129.04,
+      "awayTeamId": null,
+      "awayTeamName": "A Near Seth Experience",
+      "awayScore": 103.96,
+      "winner": null
+    },
+    {
+      "week": 17,
+      "homeTeamId": null,
+      "homeTeamName": "La PortaPotty",
+      "homeScore": 80.38,
+      "awayTeamId": null,
+      "awayTeamName": "Buck Nasty",
+      "awayScore": 119.02,
+      "winner": null
+    },
+    {
+      "week": 17,
+      "homeTeamId": null,
+      "homeTeamName": "Scott",
+      "homeScore": 148.9,
+      "awayTeamId": null,
+      "awayTeamName": "Cville Heuristicats",
+      "awayScore": 127.8,
+      "winner": null
+    },
+    {
+      "week": 17,
+      "homeTeamId": null,
+      "homeTeamName": "Steamin Willy Beaman",
+      "homeScore": 111.84,
+      "awayTeamId": null,
+      "awayTeamName": "Upbeat360Fly",
+      "awayScore": 127.98,
+      "winner": null
+    }
+  ],
+  "seasons": [
+    {
+      "season": 2024,
+      "teams": [],
+      "teamSummaries": [],
+      "matchups": [
+        {
+          "week": 1,
+          "homeTeamId": null,
+          "homeTeamName": "Is Mayonnaise a Quarterback",
+          "homeScore": 145.42,
+          "awayTeamId": null,
+          "awayTeamName": "Upbeat360Fly",
+          "awayScore": 118.36,
+          "winner": null
+        },
+        {
+          "week": 1,
+          "homeTeamId": null,
+          "homeTeamName": "Scott",
+          "homeScore": 118.06,
+          "awayTeamId": null,
+          "awayTeamName": "La PortaPotty",
+          "awayScore": 114.62,
+          "winner": null
+        },
+        {
+          "week": 1,
+          "homeTeamId": null,
+          "homeTeamName": "Buck Nasty",
+          "homeScore": 146.24,
+          "awayTeamId": null,
+          "awayTeamName": "Half Order Nachos",
+          "awayScore": 111.38,
+          "winner": null
+        },
+        {
+          "week": 1,
+          "homeTeamId": null,
+          "homeTeamName": "Hawk Tua Tagovailoa",
+          "homeScore": 97.02,
+          "awayTeamId": null,
+          "awayTeamName": "Tiina Gail",
+          "awayScore": 78.76,
+          "winner": null
+        },
+        {
+          "week": 1,
+          "homeTeamId": null,
+          "homeTeamName": "The Sour Gang",
+          "homeScore": 119.38,
+          "awayTeamId": null,
+          "awayTeamName": "GloboGymPurpleCobras",
+          "awayScore": 120.28,
+          "winner": null
+        },
+        {
+          "week": 2,
+          "homeTeamId": null,
+          "homeTeamName": "Is Mayonnaise a Quarterback",
+          "homeScore": 109.72,
+          "awayTeamId": null,
+          "awayTeamName": "Tiina Gail",
+          "awayScore": 149.22,
+          "winner": null
+        },
+        {
+          "week": 2,
+          "homeTeamId": null,
+          "homeTeamName": "Buck Nasty",
+          "homeScore": 112.54,
+          "awayTeamId": null,
+          "awayTeamName": "Scott",
+          "awayScore": 109.12,
+          "winner": null
+        },
+        {
+          "week": 2,
+          "homeTeamId": null,
+          "homeTeamName": "La PortaPotty",
+          "homeScore": 83.64,
+          "awayTeamId": null,
+          "awayTeamName": "Hawk Tua Tagovailoa",
+          "awayScore": 165.48,
+          "winner": null
+        },
+        {
+          "week": 2,
+          "homeTeamId": null,
+          "homeTeamName": "Half Order Nachos",
+          "homeScore": 100.36,
+          "awayTeamId": null,
+          "awayTeamName": "The Sour Gang",
+          "awayScore": 91.38,
+          "winner": null
+        },
+        {
+          "week": 2,
+          "homeTeamId": null,
+          "homeTeamName": "GloboGymPurpleCobras",
+          "homeScore": 141.46,
+          "awayTeamId": null,
+          "awayTeamName": "Upbeat360Fly",
+          "awayScore": 115.4,
+          "winner": null
+        },
+        {
+          "week": 3,
+          "homeTeamId": null,
+          "homeTeamName": "Is Mayonnaise a Quarterback",
+          "homeScore": 129.76,
+          "awayTeamId": null,
+          "awayTeamName": "La PortaPotty",
+          "awayScore": 113.86,
+          "winner": null
+        },
+        {
+          "week": 3,
+          "homeTeamId": null,
+          "homeTeamName": "Scott",
+          "homeScore": 138.16,
+          "awayTeamId": null,
+          "awayTeamName": "Hawk Tua Tagovailoa",
+          "awayScore": 112.88,
+          "winner": null
+        },
+        {
+          "week": 3,
+          "homeTeamId": null,
+          "homeTeamName": "The Sour Gang",
+          "homeScore": 93.38,
+          "awayTeamId": null,
+          "awayTeamName": "Buck Nasty",
+          "awayScore": 79.88,
+          "winner": null
+        },
+        {
+          "week": 3,
+          "homeTeamId": null,
+          "homeTeamName": "Upbeat360Fly",
+          "homeScore": 105.1,
+          "awayTeamId": null,
+          "awayTeamName": "Half Order Nachos",
+          "awayScore": 118.68,
+          "winner": null
+        },
+        {
+          "week": 3,
+          "homeTeamId": null,
+          "homeTeamName": "GloboGymPurpleCobras",
+          "homeScore": 147.22,
+          "awayTeamId": null,
+          "awayTeamName": "Tiina Gail",
+          "awayScore": 105.46,
+          "winner": null
+        },
+        {
+          "week": 4,
+          "homeTeamId": null,
+          "homeTeamName": "Is Mayonnaise a Quarterback",
+          "homeScore": 126.52,
+          "awayTeamId": null,
+          "awayTeamName": "Hawk Tua Tagovailoa",
+          "awayScore": 130.52,
+          "winner": null
+        },
+        {
+          "week": 4,
+          "homeTeamId": null,
+          "homeTeamName": "The Sour Gang",
+          "homeScore": 113.08,
+          "awayTeamId": null,
+          "awayTeamName": "Scott",
+          "awayScore": 147.28,
+          "winner": null
+        },
+        {
+          "week": 4,
+          "homeTeamId": null,
+          "homeTeamName": "Buck Nasty",
+          "homeScore": 117.5,
+          "awayTeamId": null,
+          "awayTeamName": "Upbeat360Fly",
+          "awayScore": 91,
+          "winner": null
+        },
+        {
+          "week": 4,
+          "homeTeamId": null,
+          "homeTeamName": "La PortaPotty",
+          "homeScore": 107.82,
+          "awayTeamId": null,
+          "awayTeamName": "GloboGymPurpleCobras",
+          "awayScore": 112,
+          "winner": null
+        },
+        {
+          "week": 4,
+          "homeTeamId": null,
+          "homeTeamName": "Half Order Nachos",
+          "homeScore": 114.96,
+          "awayTeamId": null,
+          "awayTeamName": "Tiina Gail",
+          "awayScore": 108.64,
+          "winner": null
+        },
+        {
+          "week": 5,
+          "homeTeamId": null,
+          "homeTeamName": "Is Mayonnaise a Quarterback",
+          "homeScore": 120.66,
+          "awayTeamId": null,
+          "awayTeamName": "Scott",
+          "awayScore": 129.56,
+          "winner": null
+        },
+        {
+          "week": 5,
+          "homeTeamId": null,
+          "homeTeamName": "Upbeat360Fly",
+          "homeScore": 111.04,
+          "awayTeamId": null,
+          "awayTeamName": "The Sour Gang",
+          "awayScore": 172.3,
+          "winner": null
+        },
+        {
+          "week": 5,
+          "homeTeamId": null,
+          "homeTeamName": "GloboGymPurpleCobras",
+          "homeScore": 100.94,
+          "awayTeamId": null,
+          "awayTeamName": "Hawk Tua Tagovailoa",
+          "awayScore": 126.52,
+          "winner": null
+        },
+        {
+          "week": 5,
+          "homeTeamId": null,
+          "homeTeamName": "Tiina Gail",
+          "homeScore": 101.38,
+          "awayTeamId": null,
+          "awayTeamName": "Buck Nasty",
+          "awayScore": 98.64,
+          "winner": null
+        },
+        {
+          "week": 5,
+          "homeTeamId": null,
+          "homeTeamName": "Half Order Nachos",
+          "homeScore": 119.5,
+          "awayTeamId": null,
+          "awayTeamName": "La PortaPotty",
+          "awayScore": 139.52,
+          "winner": null
+        },
+        {
+          "week": 6,
+          "homeTeamId": null,
+          "homeTeamName": "Is Mayonnaise a Quarterback",
+          "homeScore": 118.96,
+          "awayTeamId": null,
+          "awayTeamName": "GloboGymPurpleCobras",
+          "awayScore": 130.3,
+          "winner": null
+        },
+        {
+          "week": 6,
+          "homeTeamId": null,
+          "homeTeamName": "Upbeat360Fly",
+          "homeScore": 102,
+          "awayTeamId": null,
+          "awayTeamName": "Scott",
+          "awayScore": 132.22,
+          "winner": null
+        },
+        {
+          "week": 6,
+          "homeTeamId": null,
+          "homeTeamName": "The Sour Gang",
+          "homeScore": 121.66,
+          "awayTeamId": null,
+          "awayTeamName": "Tiina Gail",
+          "awayScore": 85.52,
+          "winner": null
+        },
+        {
+          "week": 6,
+          "homeTeamId": null,
+          "homeTeamName": "Hawk Tua Tagovailoa",
+          "homeScore": 103.52,
+          "awayTeamId": null,
+          "awayTeamName": "Half Order Nachos",
+          "awayScore": 106.1,
+          "winner": null
+        },
+        {
+          "week": 6,
+          "homeTeamId": null,
+          "homeTeamName": "Buck Nasty",
+          "homeScore": 129.3,
+          "awayTeamId": null,
+          "awayTeamName": "La PortaPotty",
+          "awayScore": 143.76,
+          "winner": null
+        },
+        {
+          "week": 7,
+          "homeTeamId": null,
+          "homeTeamName": "Is Mayonnaise a Quarterback",
+          "homeScore": 113.26,
+          "awayTeamId": null,
+          "awayTeamName": "Half Order Nachos",
+          "awayScore": 140.1,
+          "winner": null
+        },
+        {
+          "week": 7,
+          "homeTeamId": null,
+          "homeTeamName": "Scott",
+          "homeScore": 172.74,
+          "awayTeamId": null,
+          "awayTeamName": "GloboGymPurpleCobras",
+          "awayScore": 84.82,
+          "winner": null
+        },
+        {
+          "week": 7,
+          "homeTeamId": null,
+          "homeTeamName": "Tiina Gail",
+          "homeScore": 100.1,
+          "awayTeamId": null,
+          "awayTeamName": "Upbeat360Fly",
+          "awayScore": 110.6,
+          "winner": null
+        },
+        {
+          "week": 7,
+          "homeTeamId": null,
+          "homeTeamName": "La PortaPotty",
+          "homeScore": 142.74,
+          "awayTeamId": null,
+          "awayTeamName": "The Sour Gang",
+          "awayScore": 110.4,
+          "winner": null
+        },
+        {
+          "week": 7,
+          "homeTeamId": null,
+          "homeTeamName": "Buck Nasty",
+          "homeScore": 79.38,
+          "awayTeamId": null,
+          "awayTeamName": "Hawk Tua Tagovailoa",
+          "awayScore": 105.74,
+          "winner": null
+        },
+        {
+          "week": 8,
+          "homeTeamId": null,
+          "homeTeamName": "Is Mayonnaise a Quarterback",
+          "homeScore": 111.06,
+          "awayTeamId": null,
+          "awayTeamName": "Buck Nasty",
+          "awayScore": 134.58,
+          "winner": null
+        },
+        {
+          "week": 8,
+          "homeTeamId": null,
+          "homeTeamName": "Tiina Gail",
+          "homeScore": 141.2,
+          "awayTeamId": null,
+          "awayTeamName": "Scott",
+          "awayScore": 100.36,
+          "winner": null
+        },
+        {
+          "week": 8,
+          "homeTeamId": null,
+          "homeTeamName": "GloboGymPurpleCobras",
+          "homeScore": 139.72,
+          "awayTeamId": null,
+          "awayTeamName": "Half Order Nachos",
+          "awayScore": 154.2,
+          "winner": null
+        },
+        {
+          "week": 8,
+          "homeTeamId": null,
+          "homeTeamName": "Upbeat360Fly",
+          "homeScore": 117.74,
+          "awayTeamId": null,
+          "awayTeamName": "La PortaPotty",
+          "awayScore": 127.54,
+          "winner": null
+        },
+        {
+          "week": 8,
+          "homeTeamId": null,
+          "homeTeamName": "The Sour Gang",
+          "homeScore": 130.68,
+          "awayTeamId": null,
+          "awayTeamName": "Hawk Tua Tagovailoa",
+          "awayScore": 96.36,
+          "winner": null
+        },
+        {
+          "week": 9,
+          "homeTeamId": null,
+          "homeTeamName": "Is Mayonnaise a Quarterback",
+          "homeScore": 135.2,
+          "awayTeamId": null,
+          "awayTeamName": "The Sour Gang",
+          "awayScore": 132.96,
+          "winner": null
+        },
+        {
+          "week": 9,
+          "homeTeamId": null,
+          "homeTeamName": "Scott",
+          "homeScore": 132.74,
+          "awayTeamId": null,
+          "awayTeamName": "Half Order Nachos",
+          "awayScore": 102,
+          "winner": null
+        },
+        {
+          "week": 9,
+          "homeTeamId": null,
+          "homeTeamName": "La PortaPotty",
+          "homeScore": 131.72,
+          "awayTeamId": null,
+          "awayTeamName": "Tiina Gail",
+          "awayScore": 112.02,
+          "winner": null
+        },
+        {
+          "week": 9,
+          "homeTeamId": null,
+          "homeTeamName": "Buck Nasty",
+          "homeScore": 179.34,
+          "awayTeamId": null,
+          "awayTeamName": "GloboGymPurpleCobras",
+          "awayScore": 100.7,
+          "winner": null
+        },
+        {
+          "week": 9,
+          "homeTeamId": null,
+          "homeTeamName": "Hawk Tua Tagovailoa",
+          "homeScore": 114.2,
+          "awayTeamId": null,
+          "awayTeamName": "Upbeat360Fly",
+          "awayScore": 109.22,
+          "winner": null
+        },
+        {
+          "week": 10,
+          "homeTeamId": null,
+          "homeTeamName": "Is Mayonnaise a Quarterback",
+          "homeScore": 116.08,
+          "awayTeamId": null,
+          "awayTeamName": "Upbeat360Fly",
+          "awayScore": 95.18,
+          "winner": null
+        },
+        {
+          "week": 10,
+          "homeTeamId": null,
+          "homeTeamName": "La PortaPotty",
+          "homeScore": 93.08,
+          "awayTeamId": null,
+          "awayTeamName": "Scott",
+          "awayScore": 133.62,
+          "winner": null
+        },
+        {
+          "week": 10,
+          "homeTeamId": null,
+          "homeTeamName": "Half Order Nachos",
+          "homeScore": 129.44,
+          "awayTeamId": null,
+          "awayTeamName": "Buck Nasty",
+          "awayScore": 121.22,
+          "winner": null
+        },
+        {
+          "week": 10,
+          "homeTeamId": null,
+          "homeTeamName": "Tiina Gail",
+          "homeScore": 90.9,
+          "awayTeamId": null,
+          "awayTeamName": "Hawk Tua Tagovailoa",
+          "awayScore": 106.4,
+          "winner": null
+        },
+        {
+          "week": 10,
+          "homeTeamId": null,
+          "homeTeamName": "GloboGymPurpleCobras",
+          "homeScore": 90.6,
+          "awayTeamId": null,
+          "awayTeamName": "The Sour Gang",
+          "awayScore": 168.64,
+          "winner": null
+        },
+        {
+          "week": 11,
+          "homeTeamId": null,
+          "homeTeamName": "Is Mayonnaise a Quarterback",
+          "homeScore": 133.84,
+          "awayTeamId": null,
+          "awayTeamName": "Tiina Gail",
+          "awayScore": 108.38,
+          "winner": null
+        },
+        {
+          "week": 11,
+          "homeTeamId": null,
+          "homeTeamName": "Scott",
+          "homeScore": 87.14,
+          "awayTeamId": null,
+          "awayTeamName": "Buck Nasty",
+          "awayScore": 145.96,
+          "winner": null
+        },
+        {
+          "week": 11,
+          "homeTeamId": null,
+          "homeTeamName": "Hawk Tua Tagovailoa",
+          "homeScore": 122.68,
+          "awayTeamId": null,
+          "awayTeamName": "La PortaPotty",
+          "awayScore": 130.44,
+          "winner": null
+        },
+        {
+          "week": 11,
+          "homeTeamId": null,
+          "homeTeamName": "The Sour Gang",
+          "homeScore": 118.72,
+          "awayTeamId": null,
+          "awayTeamName": "Half Order Nachos",
+          "awayScore": 105,
+          "winner": null
+        },
+        {
+          "week": 11,
+          "homeTeamId": null,
+          "homeTeamName": "Upbeat360Fly",
+          "homeScore": 145.7,
+          "awayTeamId": null,
+          "awayTeamName": "GloboGymPurpleCobras",
+          "awayScore": 106.18,
+          "winner": null
+        },
+        {
+          "week": 12,
+          "homeTeamId": null,
+          "homeTeamName": "Is Mayonnaise a Quarterback",
+          "homeScore": 154.76,
+          "awayTeamId": null,
+          "awayTeamName": "La PortaPotty",
+          "awayScore": 109.7,
+          "winner": null
+        },
+        {
+          "week": 12,
+          "homeTeamId": null,
+          "homeTeamName": "Hawk Tua Tagovailoa",
+          "homeScore": 89.68,
+          "awayTeamId": null,
+          "awayTeamName": "Scott",
+          "awayScore": 136.22,
+          "winner": null
+        },
+        {
+          "week": 12,
+          "homeTeamId": null,
+          "homeTeamName": "Buck Nasty",
+          "homeScore": 123.66,
+          "awayTeamId": null,
+          "awayTeamName": "The Sour Gang",
+          "awayScore": 80.7,
+          "winner": null
+        },
+        {
+          "week": 12,
+          "homeTeamId": null,
+          "homeTeamName": "Half Order Nachos",
+          "homeScore": 104.26,
+          "awayTeamId": null,
+          "awayTeamName": "Upbeat360Fly",
+          "awayScore": 138.12,
+          "winner": null
+        },
+        {
+          "week": 12,
+          "homeTeamId": null,
+          "homeTeamName": "Tiina Gail",
+          "homeScore": 73.86,
+          "awayTeamId": null,
+          "awayTeamName": "GloboGymPurpleCobras",
+          "awayScore": 117.32,
+          "winner": null
+        },
+        {
+          "week": 13,
+          "homeTeamId": null,
+          "homeTeamName": "Is Mayonnaise a Quarterback",
+          "homeScore": 125.22,
+          "awayTeamId": null,
+          "awayTeamName": "Hawk Tua Tagovailoa",
+          "awayScore": 143.18,
+          "winner": null
+        },
+        {
+          "week": 13,
+          "homeTeamId": null,
+          "homeTeamName": "Scott",
+          "homeScore": 119.02,
+          "awayTeamId": null,
+          "awayTeamName": "The Sour Gang",
+          "awayScore": 130.5,
+          "winner": null
+        },
+        {
+          "week": 13,
+          "homeTeamId": null,
+          "homeTeamName": "Upbeat360Fly",
+          "homeScore": 155.08,
+          "awayTeamId": null,
+          "awayTeamName": "Buck Nasty",
+          "awayScore": 105.04,
+          "winner": null
+        },
+        {
+          "week": 13,
+          "homeTeamId": null,
+          "homeTeamName": "GloboGymPurpleCobras",
+          "homeScore": 166.52,
+          "awayTeamId": null,
+          "awayTeamName": "La PortaPotty",
+          "awayScore": 137.54,
+          "winner": null
+        },
+        {
+          "week": 13,
+          "homeTeamId": null,
+          "homeTeamName": "Tiina Gail",
+          "homeScore": 102.24,
+          "awayTeamId": null,
+          "awayTeamName": "Half Order Nachos",
+          "awayScore": 119,
+          "winner": null
+        },
+        {
+          "week": 14,
+          "homeTeamId": null,
+          "homeTeamName": "Is Mayonnaise a Quarterback",
+          "homeScore": 144.52,
+          "awayTeamId": null,
+          "awayTeamName": "Scott",
+          "awayScore": 118.66,
+          "winner": null
+        },
+        {
+          "week": 14,
+          "homeTeamId": null,
+          "homeTeamName": "The Sour Gang",
+          "homeScore": 183.26,
+          "awayTeamId": null,
+          "awayTeamName": "Upbeat360Fly",
+          "awayScore": 73.34,
+          "winner": null
+        },
+        {
+          "week": 14,
+          "homeTeamId": null,
+          "homeTeamName": "Hawk Tua Tagovailoa",
+          "homeScore": 78.54,
+          "awayTeamId": null,
+          "awayTeamName": "GloboGymPurpleCobras",
+          "awayScore": 166.68,
+          "winner": null
+        },
+        {
+          "week": 14,
+          "homeTeamId": null,
+          "homeTeamName": "Buck Nasty",
+          "homeScore": 147.6,
+          "awayTeamId": null,
+          "awayTeamName": "Tiina Gail",
+          "awayScore": 103.22,
+          "winner": null
+        },
+        {
+          "week": 14,
+          "homeTeamId": null,
+          "homeTeamName": "La PortaPotty",
+          "homeScore": 139.76,
+          "awayTeamId": null,
+          "awayTeamName": "Half Order Nachos",
+          "awayScore": 119.7,
+          "winner": null
+        },
+        {
+          "week": 15,
+          "homeTeamId": null,
+          "homeTeamName": "Is Mayonnaise a Quarterback",
+          "homeScore": 120.4,
+          "awayTeamId": null,
+          "awayTeamName": "GloboGymPurpleCobras",
+          "awayScore": 131.38,
+          "winner": null
+        },
+        {
+          "week": 15,
+          "homeTeamId": null,
+          "homeTeamName": "Scott",
+          "homeScore": 169.14,
+          "awayTeamId": null,
+          "awayTeamName": "Upbeat360Fly",
+          "awayScore": 145.26,
+          "winner": null
+        },
+        {
+          "week": 15,
+          "homeTeamId": null,
+          "homeTeamName": "Tiina Gail",
+          "homeScore": 97.06,
+          "awayTeamId": null,
+          "awayTeamName": "The Sour Gang",
+          "awayScore": 156.26,
+          "winner": null
+        },
+        {
+          "week": 15,
+          "homeTeamId": null,
+          "homeTeamName": "Half Order Nachos",
+          "homeScore": 133.02,
+          "awayTeamId": null,
+          "awayTeamName": "Hawk Tua Tagovailoa",
+          "awayScore": 176.9,
+          "winner": null
+        },
+        {
+          "week": 15,
+          "homeTeamId": null,
+          "homeTeamName": "La PortaPotty",
+          "homeScore": 127.14,
+          "awayTeamId": null,
+          "awayTeamName": "Buck Nasty",
+          "awayScore": 68.58,
+          "winner": null
+        },
+        {
+          "week": 16,
+          "homeTeamId": null,
+          "homeTeamName": "Is Mayonnaise a Quarterback",
+          "homeScore": 104.44,
+          "awayTeamId": null,
+          "awayTeamName": "La PortaPotty",
+          "awayScore": 151.02,
+          "winner": null
+        },
+        {
+          "week": 16,
+          "homeTeamId": null,
+          "homeTeamName": "Buck Nasty",
+          "homeScore": 100.62,
+          "awayTeamId": null,
+          "awayTeamName": "Half Order Nachos",
+          "awayScore": 102.92,
+          "winner": null
+        },
+        {
+          "week": 16,
+          "homeTeamId": null,
+          "homeTeamName": "Scott",
+          "homeScore": 141.88,
+          "awayTeamId": null,
+          "awayTeamName": "Hawk Tua Tagovailoa",
+          "awayScore": 120.78,
+          "winner": null
+        },
+        {
+          "week": 16,
+          "homeTeamId": null,
+          "homeTeamName": "The Sour Gang",
+          "homeScore": 152.08,
+          "awayTeamId": null,
+          "awayTeamName": "GloboGymPurpleCobras",
+          "awayScore": 140.46,
+          "winner": null
+        },
+        {
+          "week": 17,
+          "homeTeamId": null,
+          "homeTeamName": "Is Mayonnaise a Quarterback",
+          "homeScore": 161.02,
+          "awayTeamId": null,
+          "awayTeamName": "Buck Nasty",
+          "awayScore": 113.58,
+          "winner": null
+        },
+        {
+          "week": 17,
+          "homeTeamId": null,
+          "homeTeamName": "La PortaPotty",
+          "homeScore": 134.38,
+          "awayTeamId": null,
+          "awayTeamName": "Half Order Nachos",
+          "awayScore": 130.56,
+          "winner": null
+        },
+        {
+          "week": 17,
+          "homeTeamId": null,
+          "homeTeamName": "Scott",
+          "homeScore": 150.08,
+          "awayTeamId": null,
+          "awayTeamName": "The Sour Gang",
+          "awayScore": 100.04,
+          "winner": null
+        },
+        {
+          "week": 17,
+          "homeTeamId": null,
+          "homeTeamName": "Hawk Tua Tagovailoa",
+          "homeScore": 138.72,
+          "awayTeamId": null,
+          "awayTeamName": "GloboGymPurpleCobras",
+          "awayScore": 119.58,
+          "winner": null
+        }
+      ]
+    },
+    {
+      "season": 2025,
+      "teams": [],
+      "teamSummaries": [],
+      "matchups": [
+        {
+          "week": 1,
+          "homeTeamId": null,
+          "homeTeamName": "Samuel L Jaxson Dart",
+          "homeScore": 121.28,
+          "awayTeamId": null,
+          "awayTeamName": "Upbeat360Fly",
+          "awayScore": 91.32,
+          "winner": null
+        },
+        {
+          "week": 1,
+          "homeTeamId": null,
+          "homeTeamName": "Scott",
+          "homeScore": 149.92,
+          "awayTeamId": null,
+          "awayTeamName": "La PortaPotty",
+          "awayScore": 115.28,
+          "winner": null
+        },
+        {
+          "week": 1,
+          "homeTeamId": null,
+          "homeTeamName": "Buck Nasty",
+          "homeScore": 97.9,
+          "awayTeamId": null,
+          "awayTeamName": "Half Order Nachos",
+          "awayScore": 111.66,
+          "winner": null
+        },
+        {
+          "week": 1,
+          "homeTeamId": null,
+          "homeTeamName": "Steamin Willy Beaman",
+          "homeScore": 101.62,
+          "awayTeamId": null,
+          "awayTeamName": "Cville Heuristicats",
+          "awayScore": 100.72,
+          "winner": null
+        },
+        {
+          "week": 1,
+          "homeTeamId": null,
+          "homeTeamName": "The Hazy Gang",
+          "homeScore": 123.76,
+          "awayTeamId": null,
+          "awayTeamName": "A Near Seth Experience",
+          "awayScore": 97.14,
+          "winner": null
+        },
+        {
+          "week": 2,
+          "homeTeamId": null,
+          "homeTeamName": "Samuel L Jaxson Dart",
+          "homeScore": 104.4,
+          "awayTeamId": null,
+          "awayTeamName": "Cville Heuristicats",
+          "awayScore": 85.84,
+          "winner": null
+        },
+        {
+          "week": 2,
+          "homeTeamId": null,
+          "homeTeamName": "Buck Nasty",
+          "homeScore": 120.56,
+          "awayTeamId": null,
+          "awayTeamName": "Scott",
+          "awayScore": 152.7,
+          "winner": null
+        },
+        {
+          "week": 2,
+          "homeTeamId": null,
+          "homeTeamName": "La PortaPotty",
+          "homeScore": 118.84,
+          "awayTeamId": null,
+          "awayTeamName": "Steamin Willy Beaman",
+          "awayScore": 120.2,
+          "winner": null
+        },
+        {
+          "week": 2,
+          "homeTeamId": null,
+          "homeTeamName": "Half Order Nachos",
+          "homeScore": 102.12,
+          "awayTeamId": null,
+          "awayTeamName": "The Hazy Gang",
+          "awayScore": 90.3,
+          "winner": null
+        },
+        {
+          "week": 2,
+          "homeTeamId": null,
+          "homeTeamName": "A Near Seth Experience",
+          "homeScore": 119.24,
+          "awayTeamId": null,
+          "awayTeamName": "Upbeat360Fly",
+          "awayScore": 134.68,
+          "winner": null
+        },
+        {
+          "week": 3,
+          "homeTeamId": null,
+          "homeTeamName": "Samuel L Jaxson Dart",
+          "homeScore": 111.12,
+          "awayTeamId": null,
+          "awayTeamName": "La PortaPotty",
+          "awayScore": 114.94,
+          "winner": null
+        },
+        {
+          "week": 3,
+          "homeTeamId": null,
+          "homeTeamName": "Scott",
+          "homeScore": 123.26,
+          "awayTeamId": null,
+          "awayTeamName": "Steamin Willy Beaman",
+          "awayScore": 128.32,
+          "winner": null
+        },
+        {
+          "week": 3,
+          "homeTeamId": null,
+          "homeTeamName": "The Hazy Gang",
+          "homeScore": 87.32,
+          "awayTeamId": null,
+          "awayTeamName": "Buck Nasty",
+          "awayScore": 101.58,
+          "winner": null
+        },
+        {
+          "week": 3,
+          "homeTeamId": null,
+          "homeTeamName": "Upbeat360Fly",
+          "homeScore": 145.46,
+          "awayTeamId": null,
+          "awayTeamName": "Half Order Nachos",
+          "awayScore": 129.32,
+          "winner": null
+        },
+        {
+          "week": 3,
+          "homeTeamId": null,
+          "homeTeamName": "A Near Seth Experience",
+          "homeScore": 92.12,
+          "awayTeamId": null,
+          "awayTeamName": "Cville Heuristicats",
+          "awayScore": 163.92,
+          "winner": null
+        },
+        {
+          "week": 4,
+          "homeTeamId": null,
+          "homeTeamName": "Samuel L Jaxson Dart",
+          "homeScore": 143.52,
+          "awayTeamId": null,
+          "awayTeamName": "Steamin Willy Beaman",
+          "awayScore": 106.72,
+          "winner": null
+        },
+        {
+          "week": 4,
+          "homeTeamId": null,
+          "homeTeamName": "The Hazy Gang",
+          "homeScore": 91.38,
+          "awayTeamId": null,
+          "awayTeamName": "Scott",
+          "awayScore": 165.58,
+          "winner": null
+        },
+        {
+          "week": 4,
+          "homeTeamId": null,
+          "homeTeamName": "Buck Nasty",
+          "homeScore": 91.62,
+          "awayTeamId": null,
+          "awayTeamName": "Upbeat360Fly",
+          "awayScore": 171.3,
+          "winner": null
+        },
+        {
+          "week": 4,
+          "homeTeamId": null,
+          "homeTeamName": "La PortaPotty",
+          "homeScore": 110.2,
+          "awayTeamId": null,
+          "awayTeamName": "A Near Seth Experience",
+          "awayScore": 112.24,
+          "winner": null
+        },
+        {
+          "week": 4,
+          "homeTeamId": null,
+          "homeTeamName": "Half Order Nachos",
+          "homeScore": 108.56,
+          "awayTeamId": null,
+          "awayTeamName": "Cville Heuristicats",
+          "awayScore": 135.78,
+          "winner": null
+        },
+        {
+          "week": 5,
+          "homeTeamId": null,
+          "homeTeamName": "Samuel L Jaxson Dart",
+          "homeScore": 114.54,
+          "awayTeamId": null,
+          "awayTeamName": "Scott",
+          "awayScore": 129.6,
+          "winner": null
+        },
+        {
+          "week": 5,
+          "homeTeamId": null,
+          "homeTeamName": "Upbeat360Fly",
+          "homeScore": 153.62,
+          "awayTeamId": null,
+          "awayTeamName": "The Hazy Gang",
+          "awayScore": 98.62,
+          "winner": null
+        },
+        {
+          "week": 5,
+          "homeTeamId": null,
+          "homeTeamName": "A Near Seth Experience",
+          "homeScore": 121.98,
+          "awayTeamId": null,
+          "awayTeamName": "Steamin Willy Beaman",
+          "awayScore": 102.24,
+          "winner": null
+        },
+        {
+          "week": 5,
+          "homeTeamId": null,
+          "homeTeamName": "Cville Heuristicats",
+          "homeScore": 132.4,
+          "awayTeamId": null,
+          "awayTeamName": "Buck Nasty",
+          "awayScore": 120.72,
+          "winner": null
+        },
+        {
+          "week": 5,
+          "homeTeamId": null,
+          "homeTeamName": "Half Order Nachos",
+          "homeScore": 128.22,
+          "awayTeamId": null,
+          "awayTeamName": "La PortaPotty",
+          "awayScore": 102.88,
+          "winner": null
+        },
+        {
+          "week": 6,
+          "homeTeamId": null,
+          "homeTeamName": "Samuel L Jaxson Dart",
+          "homeScore": 113.36,
+          "awayTeamId": null,
+          "awayTeamName": "A Near Seth Experience",
+          "awayScore": 155.96,
+          "winner": null
+        },
+        {
+          "week": 6,
+          "homeTeamId": null,
+          "homeTeamName": "Upbeat360Fly",
+          "homeScore": 145.8,
+          "awayTeamId": null,
+          "awayTeamName": "Scott",
+          "awayScore": 91.96,
+          "winner": null
+        },
+        {
+          "week": 6,
+          "homeTeamId": null,
+          "homeTeamName": "The Hazy Gang",
+          "homeScore": 108,
+          "awayTeamId": null,
+          "awayTeamName": "Cville Heuristicats",
+          "awayScore": 148.38,
+          "winner": null
+        },
+        {
+          "week": 6,
+          "homeTeamId": null,
+          "homeTeamName": "Steamin Willy Beaman",
+          "homeScore": 66.14,
+          "awayTeamId": null,
+          "awayTeamName": "Half Order Nachos",
+          "awayScore": 77.1,
+          "winner": null
+        },
+        {
+          "week": 6,
+          "homeTeamId": null,
+          "homeTeamName": "Buck Nasty",
+          "homeScore": 102.72,
+          "awayTeamId": null,
+          "awayTeamName": "La PortaPotty",
+          "awayScore": 105.52,
+          "winner": null
+        },
+        {
+          "week": 7,
+          "homeTeamId": null,
+          "homeTeamName": "Samuel L Jaxson Dart",
+          "homeScore": 138.52,
+          "awayTeamId": null,
+          "awayTeamName": "Half Order Nachos",
+          "awayScore": 120.22,
+          "winner": null
+        },
+        {
+          "week": 7,
+          "homeTeamId": null,
+          "homeTeamName": "Scott",
+          "homeScore": 122.16,
+          "awayTeamId": null,
+          "awayTeamName": "A Near Seth Experience",
+          "awayScore": 155.66,
+          "winner": null
+        },
+        {
+          "week": 7,
+          "homeTeamId": null,
+          "homeTeamName": "Cville Heuristicats",
+          "homeScore": 113.98,
+          "awayTeamId": null,
+          "awayTeamName": "Upbeat360Fly",
+          "awayScore": 124.24,
+          "winner": null
+        },
+        {
+          "week": 7,
+          "homeTeamId": null,
+          "homeTeamName": "La PortaPotty",
+          "homeScore": 129.04,
+          "awayTeamId": null,
+          "awayTeamName": "The Hazy Gang",
+          "awayScore": 64.04,
+          "winner": null
+        },
+        {
+          "week": 7,
+          "homeTeamId": null,
+          "homeTeamName": "Buck Nasty",
+          "homeScore": 124.64,
+          "awayTeamId": null,
+          "awayTeamName": "Steamin Willy Beaman",
+          "awayScore": 114.04,
+          "winner": null
+        },
+        {
+          "week": 8,
+          "homeTeamId": null,
+          "homeTeamName": "Samuel L Jaxson Dart",
+          "homeScore": 122.98,
+          "awayTeamId": null,
+          "awayTeamName": "Buck Nasty",
+          "awayScore": 123.62,
+          "winner": null
+        },
+        {
+          "week": 8,
+          "homeTeamId": null,
+          "homeTeamName": "Cville Heuristicats",
+          "homeScore": 103.08,
+          "awayTeamId": null,
+          "awayTeamName": "Scott",
+          "awayScore": 150.5,
+          "winner": null
+        },
+        {
+          "week": 8,
+          "homeTeamId": null,
+          "homeTeamName": "A Near Seth Experience",
+          "homeScore": 124.58,
+          "awayTeamId": null,
+          "awayTeamName": "Half Order Nachos",
+          "awayScore": 108.52,
+          "winner": null
+        },
+        {
+          "week": 8,
+          "homeTeamId": null,
+          "homeTeamName": "Upbeat360Fly",
+          "homeScore": 115.02,
+          "awayTeamId": null,
+          "awayTeamName": "La PortaPotty",
+          "awayScore": 167.96,
+          "winner": null
+        },
+        {
+          "week": 8,
+          "homeTeamId": null,
+          "homeTeamName": "The Hazy Gang",
+          "homeScore": 98.16,
+          "awayTeamId": null,
+          "awayTeamName": "Steamin Willy Beaman",
+          "awayScore": 99.58,
+          "winner": null
+        },
+        {
+          "week": 9,
+          "homeTeamId": null,
+          "homeTeamName": "Samuel L Jaxson Dart",
+          "homeScore": 124.5,
+          "awayTeamId": null,
+          "awayTeamName": "The Hazy Gang",
+          "awayScore": 168.36,
+          "winner": null
+        },
+        {
+          "week": 9,
+          "homeTeamId": null,
+          "homeTeamName": "Scott",
+          "homeScore": 124.32,
+          "awayTeamId": null,
+          "awayTeamName": "Half Order Nachos",
+          "awayScore": 111.92,
+          "winner": null
+        },
+        {
+          "week": 9,
+          "homeTeamId": null,
+          "homeTeamName": "La PortaPotty",
+          "homeScore": 94.6,
+          "awayTeamId": null,
+          "awayTeamName": "Cville Heuristicats",
+          "awayScore": 138.1,
+          "winner": null
+        },
+        {
+          "week": 9,
+          "homeTeamId": null,
+          "homeTeamName": "Buck Nasty",
+          "homeScore": 120.66,
+          "awayTeamId": null,
+          "awayTeamName": "A Near Seth Experience",
+          "awayScore": 99.82,
+          "winner": null
+        },
+        {
+          "week": 9,
+          "homeTeamId": null,
+          "homeTeamName": "Steamin Willy Beaman",
+          "homeScore": 92.26,
+          "awayTeamId": null,
+          "awayTeamName": "Upbeat360Fly",
+          "awayScore": 120.4,
+          "winner": null
+        },
+        {
+          "week": 10,
+          "homeTeamId": null,
+          "homeTeamName": "Samuel L Jaxson Dart",
+          "homeScore": 136.32,
+          "awayTeamId": null,
+          "awayTeamName": "Upbeat360Fly",
+          "awayScore": 113.28,
+          "winner": null
+        },
+        {
+          "week": 10,
+          "homeTeamId": null,
+          "homeTeamName": "La PortaPotty",
+          "homeScore": 144.22,
+          "awayTeamId": null,
+          "awayTeamName": "Scott",
+          "awayScore": 118.94,
+          "winner": null
+        },
+        {
+          "week": 10,
+          "homeTeamId": null,
+          "homeTeamName": "Half Order Nachos",
+          "homeScore": 83.24,
+          "awayTeamId": null,
+          "awayTeamName": "Buck Nasty",
+          "awayScore": 142.8,
+          "winner": null
+        },
+        {
+          "week": 10,
+          "homeTeamId": null,
+          "homeTeamName": "Cville Heuristicats",
+          "homeScore": 147.6,
+          "awayTeamId": null,
+          "awayTeamName": "Steamin Willy Beaman",
+          "awayScore": 128.1,
+          "winner": null
+        },
+        {
+          "week": 10,
+          "homeTeamId": null,
+          "homeTeamName": "A Near Seth Experience",
+          "homeScore": 113.9,
+          "awayTeamId": null,
+          "awayTeamName": "The Hazy Gang",
+          "awayScore": 114.64,
+          "winner": null
+        },
+        {
+          "week": 11,
+          "homeTeamId": null,
+          "homeTeamName": "Samuel L Jaxson Dart",
+          "homeScore": 80.24,
+          "awayTeamId": null,
+          "awayTeamName": "Cville Heuristicats",
+          "awayScore": 119.02,
+          "winner": null
+        },
+        {
+          "week": 11,
+          "homeTeamId": null,
+          "homeTeamName": "Scott",
+          "homeScore": 136.06,
+          "awayTeamId": null,
+          "awayTeamName": "Buck Nasty",
+          "awayScore": 120,
+          "winner": null
+        },
+        {
+          "week": 11,
+          "homeTeamId": null,
+          "homeTeamName": "Steamin Willy Beaman",
+          "homeScore": 80.64,
+          "awayTeamId": null,
+          "awayTeamName": "La PortaPotty",
+          "awayScore": 77.2,
+          "winner": null
+        },
+        {
+          "week": 11,
+          "homeTeamId": null,
+          "homeTeamName": "The Hazy Gang",
+          "homeScore": 105.12,
+          "awayTeamId": null,
+          "awayTeamName": "Half Order Nachos",
+          "awayScore": 117.88,
+          "winner": null
+        },
+        {
+          "week": 11,
+          "homeTeamId": null,
+          "homeTeamName": "Upbeat360Fly",
+          "homeScore": 99.44,
+          "awayTeamId": null,
+          "awayTeamName": "A Near Seth Experience",
+          "awayScore": 93.5,
+          "winner": null
+        },
+        {
+          "week": 12,
+          "homeTeamId": null,
+          "homeTeamName": "Samuel L Jaxson Dart",
+          "homeScore": 155.64,
+          "awayTeamId": null,
+          "awayTeamName": "La PortaPotty",
+          "awayScore": 108.36,
+          "winner": null
+        },
+        {
+          "week": 12,
+          "homeTeamId": null,
+          "homeTeamName": "Steamin Willy Beaman",
+          "homeScore": 160.66,
+          "awayTeamId": null,
+          "awayTeamName": "Scott",
+          "awayScore": 110.46,
+          "winner": null
+        },
+        {
+          "week": 12,
+          "homeTeamId": null,
+          "homeTeamName": "Buck Nasty",
+          "homeScore": 83.72,
+          "awayTeamId": null,
+          "awayTeamName": "The Hazy Gang",
+          "awayScore": 95.82,
+          "winner": null
+        },
+        {
+          "week": 12,
+          "homeTeamId": null,
+          "homeTeamName": "Half Order Nachos",
+          "homeScore": 72.42,
+          "awayTeamId": null,
+          "awayTeamName": "Upbeat360Fly",
+          "awayScore": 132.28,
+          "winner": null
+        },
+        {
+          "week": 12,
+          "homeTeamId": null,
+          "homeTeamName": "Cville Heuristicats",
+          "homeScore": 127.14,
+          "awayTeamId": null,
+          "awayTeamName": "A Near Seth Experience",
+          "awayScore": 116.72,
+          "winner": null
+        },
+        {
+          "week": 13,
+          "homeTeamId": null,
+          "homeTeamName": "Samuel L Jaxson Dart",
+          "homeScore": 104.64,
+          "awayTeamId": null,
+          "awayTeamName": "Steamin Willy Beaman",
+          "awayScore": 105.48,
+          "winner": null
+        },
+        {
+          "week": 13,
+          "homeTeamId": null,
+          "homeTeamName": "Scott",
+          "homeScore": 147.54,
+          "awayTeamId": null,
+          "awayTeamName": "The Hazy Gang",
+          "awayScore": 78.04,
+          "winner": null
+        },
+        {
+          "week": 13,
+          "homeTeamId": null,
+          "homeTeamName": "Upbeat360Fly",
+          "homeScore": 105.44,
+          "awayTeamId": null,
+          "awayTeamName": "Buck Nasty",
+          "awayScore": 139.22,
+          "winner": null
+        },
+        {
+          "week": 13,
+          "homeTeamId": null,
+          "homeTeamName": "A Near Seth Experience",
+          "homeScore": 123.34,
+          "awayTeamId": null,
+          "awayTeamName": "La PortaPotty",
+          "awayScore": 102.8,
+          "winner": null
+        },
+        {
+          "week": 13,
+          "homeTeamId": null,
+          "homeTeamName": "Cville Heuristicats",
+          "homeScore": 133.14,
+          "awayTeamId": null,
+          "awayTeamName": "Half Order Nachos",
+          "awayScore": 106.32,
+          "winner": null
+        },
+        {
+          "week": 14,
+          "homeTeamId": null,
+          "homeTeamName": "Samuel L Jaxson Dart",
+          "homeScore": 118.38,
+          "awayTeamId": null,
+          "awayTeamName": "Scott",
+          "awayScore": 158.86,
+          "winner": null
+        },
+        {
+          "week": 14,
+          "homeTeamId": null,
+          "homeTeamName": "The Hazy Gang",
+          "homeScore": 97.46,
+          "awayTeamId": null,
+          "awayTeamName": "Upbeat360Fly",
+          "awayScore": 85.2,
+          "winner": null
+        },
+        {
+          "week": 14,
+          "homeTeamId": null,
+          "homeTeamName": "Steamin Willy Beaman",
+          "homeScore": 150.46,
+          "awayTeamId": null,
+          "awayTeamName": "A Near Seth Experience",
+          "awayScore": 94.04,
+          "winner": null
+        },
+        {
+          "week": 14,
+          "homeTeamId": null,
+          "homeTeamName": "Buck Nasty",
+          "homeScore": 135.56,
+          "awayTeamId": null,
+          "awayTeamName": "Cville Heuristicats",
+          "awayScore": 99,
+          "winner": null
+        },
+        {
+          "week": 14,
+          "homeTeamId": null,
+          "homeTeamName": "La PortaPotty",
+          "homeScore": 111.04,
+          "awayTeamId": null,
+          "awayTeamName": "Half Order Nachos",
+          "awayScore": 117.54,
+          "winner": null
+        },
+        {
+          "week": 15,
+          "homeTeamId": null,
+          "homeTeamName": "Samuel L Jaxson Dart",
+          "homeScore": 90.48,
+          "awayTeamId": null,
+          "awayTeamName": "A Near Seth Experience",
+          "awayScore": 158.32,
+          "winner": null
+        },
+        {
+          "week": 15,
+          "homeTeamId": null,
+          "homeTeamName": "Scott",
+          "homeScore": 125.2,
+          "awayTeamId": null,
+          "awayTeamName": "Upbeat360Fly",
+          "awayScore": 112.74,
+          "winner": null
+        },
+        {
+          "week": 15,
+          "homeTeamId": null,
+          "homeTeamName": "Cville Heuristicats",
+          "homeScore": 143.74,
+          "awayTeamId": null,
+          "awayTeamName": "The Hazy Gang",
+          "awayScore": 118.6,
+          "winner": null
+        },
+        {
+          "week": 15,
+          "homeTeamId": null,
+          "homeTeamName": "Half Order Nachos",
+          "homeScore": 123.82,
+          "awayTeamId": null,
+          "awayTeamName": "Steamin Willy Beaman",
+          "awayScore": 131.8,
+          "winner": null
+        },
+        {
+          "week": 15,
+          "homeTeamId": null,
+          "homeTeamName": "La PortaPotty",
+          "homeScore": 145.06,
+          "awayTeamId": null,
+          "awayTeamName": "Buck Nasty",
+          "awayScore": 126.6,
+          "winner": null
+        },
+        {
+          "week": 16,
+          "homeTeamId": null,
+          "homeTeamName": "Samuel L Jaxson Dart",
+          "homeScore": 131.8,
+          "awayTeamId": null,
+          "awayTeamName": "Buck Nasty",
+          "awayScore": 139.1,
+          "winner": null
+        },
+        {
+          "week": 16,
+          "homeTeamId": null,
+          "homeTeamName": "A Near Seth Experience",
+          "homeScore": 84.88,
+          "awayTeamId": null,
+          "awayTeamName": "La PortaPotty",
+          "awayScore": 87.36,
+          "winner": null
+        },
+        {
+          "week": 16,
+          "homeTeamId": null,
+          "homeTeamName": "Scott",
+          "homeScore": 177.76,
+          "awayTeamId": null,
+          "awayTeamName": "Steamin Willy Beaman",
+          "awayScore": 147,
+          "winner": null
+        },
+        {
+          "week": 16,
+          "homeTeamId": null,
+          "homeTeamName": "Cville Heuristicats",
+          "homeScore": 129.48,
+          "awayTeamId": null,
+          "awayTeamName": "Upbeat360Fly",
+          "awayScore": 117.92,
+          "winner": null
+        },
+        {
+          "week": 17,
+          "homeTeamId": null,
+          "homeTeamName": "Samuel L Jaxson Dart",
+          "homeScore": 129.04,
+          "awayTeamId": null,
+          "awayTeamName": "A Near Seth Experience",
+          "awayScore": 103.96,
+          "winner": null
+        },
+        {
+          "week": 17,
+          "homeTeamId": null,
+          "homeTeamName": "La PortaPotty",
+          "homeScore": 80.38,
+          "awayTeamId": null,
+          "awayTeamName": "Buck Nasty",
+          "awayScore": 119.02,
+          "winner": null
+        },
+        {
+          "week": 17,
+          "homeTeamId": null,
+          "homeTeamName": "Scott",
+          "homeScore": 148.9,
+          "awayTeamId": null,
+          "awayTeamName": "Cville Heuristicats",
+          "awayScore": 127.8,
+          "winner": null
+        },
+        {
+          "week": 17,
+          "homeTeamId": null,
+          "homeTeamName": "Steamin Willy Beaman",
+          "homeScore": 111.84,
+          "awayTeamId": null,
+          "awayTeamName": "Upbeat360Fly",
+          "awayScore": 127.98,
+          "winner": null
+        }
+      ]
+    }
+  ]
+}

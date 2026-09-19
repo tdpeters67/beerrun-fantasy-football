@@ -3,7 +3,7 @@ import "./globals.css";
 export const metadata = {
   title: "Goodell What About the Good Things?",
   description:
-    "Standings, weekly recaps, records and the draft board for the Goodell What @ the Good Things? fantasy football league.",
+    "Standings, weekly recaps, records and the draft board for the Goodell What About the Good Things? fantasy football league.",
 };
 
 const dim = "#cfe6f6";

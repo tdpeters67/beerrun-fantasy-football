@@ -1,12 +1,10 @@
 {
   "league": {
     "id": "607424913",
-    "name": "Goodell What @ the Good Things?",
+    "name": "Goodell...What About the Good Things?",
     "season": "2026",
     "currentWeek": 2,
-    "completedWeeks": [
-      1
-    ]
+    "completedWeeks": [1]
   },
   "scrapedAt": "2026-09-19T17:38:52.909Z",
   "teams": [

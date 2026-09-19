@@ -331,7 +331,6 @@ async function main() {
     teams: Object.values(teams).sort((a, b) =>
       (b.wins - a.wins) || (a.losses - b.losses) || (b.pointsFor - a.pointsFor)),
     weeks,
-    matchups: allMatchups,
     draft,
     records,
     recaps,

@@ -1,53 +1,37 @@
-# Beer Run Fantasy Football
+# Goodell What About the Good Things? — Fantasy Football
 
-Historical stats dashboard for the Beer Run fantasy football league. Scrapes data from the NFL Fantasy API and displays it in a Vercel-hosted Next.js app.
+Commissioner site for the ESPN fantasy league **"Goodell What About the Good Things?"** (leagueId `607424913`, 2026 season). Standings, weekly recaps, league records, and the draft board — all built from ESPN's fantasy API.
 
 ## Setup
 
-```bash
-npm install
+This is a private ESPN league, so the data scripts need two auth cookies from a logged-in browser session. Put them in `.env.espn` (gitignored):
+
+```
+ESPN_S2=<espn_s2 cookie value>
+SWID={<SWID cookie value, keep the braces>}
+LEAGUE_ID=607424913
+SEASON=2026
 ```
 
-## Scraping NFL Fantasy Data
+Grab them from Chrome: DevTools (Cmd+Opt+I) → **Application → Storage → Cookies → https://fantasy.espn.com** → copy `espn_s2` and `SWID`. They expire every few weeks — re-grab when a script starts returning `HTTP 401`.
 
-The NFL Fantasy API uses Gigya cookie-based auth (not Bearer tokens).
+## Weekly workflow
 
-1. Log into [fantasy.nfl.com](https://fantasy.nfl.com) in your browser
-2. Open DevTools → Network tab → filter by `api.fantasy.nfl.com`
-3. Click around in your league to trigger API calls
-4. Click any API request → Headers → Request Headers → copy the full **Cookie** value
-5. Run the scraper:
+Run these the Tuesday after each week's Monday Night Football:
 
 ```bash
-NFL_COOKIE="your-cookie-string-here" node scrape.mjs
+npm run recap    # prints a text recap of the latest completed week (also saves public/espn-week-<n>.json)
+npm run data     # rebuilds public/fantasy-data.json that the website reads
+npm run dev      # preview the site at http://localhost:3000
 ```
 
-Optional env vars:
-- `LEAGUE_ID` — defaults to `12456354` (BeerRun)
-- `SEASON` — year to scrape (default: `2024`)
-- `TOTAL_WEEKS` — number of weeks (default: `17`)
+To publish a new recap on the site, write it to `recaps/week-<n>.md`, then run `npm run data` — the builder folds authored recaps into the site data.
 
-This outputs `public/fantasy-data.json`.
+## Scripts
 
-**Note:** The Gigya login token lasts a while but will eventually expire. Grab a fresh cookie if you get 401 errors. The NFL API response shape can vary between seasons — if fields look wrong, log the raw response and adjust `normalizeMatchup()` in `scrape.mjs`.
+- **`build-site-data.mjs`** (`npm run data`) — pulls teams, owners, standings, matchups, the draft, and per-week player boxscores; computes records; embeds `recaps/*.md`; writes `public/fantasy-data.json`.
+- **`espn-scrape.mjs`** (`npm run recap`) — quick text recap for the latest completed week. `--week N` for a specific week, `--json` for raw data.
 
-## Development
+## Site
 
-```bash
-npm run dev
-```
-
-Open [http://localhost:3000](http://localhost:3000).
-
-## Deploy to Vercel
-
-```bash
-npx vercel
-```
-
-Or connect the repo to Vercel for auto-deploys on push.
-
-## Pages
-
-- **/** — Standings table + weekly scoreboard
-- **/team/[id]** — Team detail with score bar chart and head-to-head records
+Next.js (App Router). Pages: Standings (`/`), Recaps (`/recaps`), Records (`/records`), Draft (`/draft`), Team detail (`/team/[id]`). All read `public/fantasy-data.json` client-side.

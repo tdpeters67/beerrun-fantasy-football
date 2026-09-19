@@ -1,12 +1,13 @@
 {
-  "name": "beerrun-fantasy-football",
+  "name": "goodell-fantasy-football",
   "version": "1.0.0",
   "private": true,
   "scripts": {
     "dev": "next dev",
     "build": "next build",
     "start": "next start",
-    "scrape": "node scrape.mjs"
+    "data": "node build-site-data.mjs",
+    "recap": "node espn-scrape.mjs"
   },
   "dependencies": {
     "next": "^14.2.0",

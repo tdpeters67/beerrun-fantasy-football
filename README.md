@@ -1,6 +1,6 @@
 # Goodell What @ the Good Things? — Fantasy Football
 
-Commissioner site for the ESPN fantasy league **"Goodell What @ the Good Things?"** (leagueId `607424913`, 2026 season). Standings, weekly recaps, league records, and the draft board — all built from ESPN's fantasy API.
+Commissioner site for the ESPN fantasy league **"Goodell What About the Good Things?"** (leagueId `607424913`, 2026 season). Standings, weekly recaps, league records, and the draft board — all built from ESPN's fantasy API.
 
 ## Setup
 

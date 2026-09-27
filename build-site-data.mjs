@@ -89,12 +89,20 @@ function parseRecap(md, games) {
     else intro.push(ln);
   }
   const blurbByKey = {};
+  const used = new Set();
   for (const s of sections) {
-    const g = games.find((g) => {
-      const [n1, n2] = g.sides.map((x) => x.teamName);
-      return s.heading.includes(n1) && s.heading.includes(n2);
-    });
-    if (g) blurbByKey[gameKey(g)] = s.body.join("\n").trim();
+    // Prefer a game whose BOTH current names are in the heading; if a team has
+    // since been renamed, fall back to matching on EITHER name (each team plays
+    // once per week, so one name still uniquely identifies the matchup).
+    const bothMatch = (g) => g.sides.every((x) => s.heading.includes(x.teamName));
+    const eitherMatch = (g) => g.sides.some((x) => s.heading.includes(x.teamName));
+    const g =
+      games.find((g) => !used.has(gameKey(g)) && bothMatch(g)) ||
+      games.find((g) => !used.has(gameKey(g)) && eitherMatch(g));
+    if (g) {
+      used.add(gameKey(g));
+      blurbByKey[gameKey(g)] = s.body.join("\n").trim();
+    }
   }
   return { intro: intro.join("\n").trim(), blurbByKey };
 }

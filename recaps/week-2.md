@@ -10,7 +10,7 @@ Redemption for **Ja'Marr Chase**, who followed up his 3.2-point no-show with a r
 
 ### Etienne This D vs Dirty Danglers
 
-**Etienne This D quietly moves to 2-0** and barely broke a sweat. Amon-Ra St. Brown went for **35.2**, Brandon Aubrey the **GOAT kicker** put up **17**, and they still stranded a league-high **68.78 on the bench**. For Eitenne This D, consistency will be king. **Dirty Danglers** finally got their receivers going — Olave (22.6) and Waddle (21.8) — but Colston Loveland handed them another **1.3 at tight end**, and that position remains this franchise's personal hell. Danglers is going to be hoping that their first round pick in Bijan steps up to his role if they're going to hope for a win.
+**Etienne This D quietly moves to 2-0** and barely broke a sweat. Amon-Ra St. Brown went for **35.2**, Brandon Aubrey the **GOAT kicker** put up **17**, and they still stranded a league-high **68.78 on the bench**. For Eitenne This D, consistency will be king. **Dirty Danglers** finally got their receivers going, Olave (22.6) and Waddle (21.8), but Colston Loveland handed them another **1.3 at tight end**, and that position remains this franchise's personal hell. Danglers is going to be hoping that their first round pick in Bijan steps up to his role if they're going to hope for a win.
 
 ### Ima Be Under Served Talent vs Sausage Party
 

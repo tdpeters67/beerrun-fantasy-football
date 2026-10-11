@@ -7,7 +7,9 @@ import { C, card } from "../../../lib/theme";
 
 export default function RecapPage({ params }) {
   const { week } = params;
-  const wk = (data.weeks || []).find((w) => String(w.week) === String(week));
+  // Only surface weeks that have an authored recap (in data.recaps).
+  const hasRecap = (data.recaps || []).some((r) => String(r.week) === String(week));
+  const wk = hasRecap ? (data.weeks || []).find((w) => String(w.week) === String(week)) : null;
 
   if (!wk) return (
     <>

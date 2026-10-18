@@ -10,7 +10,7 @@ The other undefeated, now 5-0. Ryan's only plan this season was to draft Josh Al
 
 ### Ignorance is Vid's
 
-Well done lad. I'm so impressed I bumped you up 5 spots from last week. Didn't you pick up Drake Maye from the waiver wire? Who would have dropped him to begin with? Now I've been a Patriots hater my whole life (Spygate) and nobody wants them, Maye, and Vrabel to fail more than me. But if they've reunlocked their offense, along with stars Garrett Wilson, Christian Watson (who I wanted to draft so bad), and Likely, I can see this team sticking the landing after a rough start.
+Well done lad. I'm so impressed I bumped you up 5 spots from last week. Didn't you pick up Drake Maye from the waiver wire? Who would have dropped him to begin with? Now I've been a Patriots hater my whole life (Spygate) and nobody wants them, Maye, and Vrabel to fail more than me. But if they've reunlocked their offense, along with stars Garrett Wilson, Christian Watson (who I wanted to draft so bad), and Likely playing well, I can see this team sticking the landing after a rough start.
 
 ### Cash Money 8 Ballers
 
@@ -22,7 +22,7 @@ Remember what I was saying about scoring around 120 points will usually get you 
 
 ### Greasy Hucksters
 
-The most painful loss of the week. Greasy put up 149.94, which wins basically any other week against almost any other opponnet. What are you going to do? Unluckiest loser of the week. Goff (28.94), Mike Evans (26.3), and even Chase showing his potential (19.7) but it simply wasn't enough. Up two spots anyway because scoring 150 in a loss still means you're good and hopefully luck will be on your side.
+The most painful loss of the week. Greasy put up 149.94, which wins basically any other week against almost any other opponnet. What are you going to do? Unluckiest loser of the week. Goff, Mike Evans, and even Chase showing his potential, but it simply wasn't enough. Up two spots anyway because scoring 150 in a loss still means you're good and hopefully luck will be on your side.
 
 ### William's Wild Team
 
@@ -30,7 +30,7 @@ Up three spots is Young William. Finally his team kinda played to the level one 
 
 ### Etienne My D
 
-Remember what I said about scoring 120 points winning you games? Not when you opponent scores over 200. So down just one spot this week. The talent is there, the week was just a buzzsaw. Shake it off and move on. Penix going down is rough though.
+Remember what I said about scoring 120 points winning you games? Not when you opponent scores over 200. So down just one spot this week. The talent is there, the week was just a buzzsaw. Shake it off and move on. And hopefully they can find a new QB in the waiver wire.
 
 ### Will I Ever Win?
 

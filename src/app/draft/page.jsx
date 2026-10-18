@@ -29,7 +29,7 @@ export default function DraftPage() {
         ))}
       </div>
 
-      <Panel title={teamFilter === "all" ? "All Picks" : filtered[0]?.teamName || "Picks"} icon="📋">
+      <Panel title={teamFilter === "all" ? "All Picks" : filtered[0]?.teamName || "Picks"}>
         <div style={{ overflowX: "auto" }}>
           <table style={{ width: "100%", borderCollapse: "collapse", fontSize: "14px" }}>
             <thead>

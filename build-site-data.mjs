@@ -133,6 +133,53 @@ function computeSuperlatives(games) {
   };
 }
 
+// Blended power score for each team using results through `upToWeek`.
+// 40% win%, 35% season scoring, 25% recent form (last 2 weeks). Scoring
+// components are min-max normalized across the league for that week.
+function computePowerScores(teamList, upToWeek) {
+  const rows = teamList.map((t) => {
+    const ws = t.weeklyScores.filter((w) => w.week <= upToWeek);
+    const gp = ws.length;
+    const wins = ws.filter((w) => w.result === "W").length;
+    const avg = gp ? ws.reduce((a, w) => a + w.score, 0) / gp : 0;
+    const last2 = ws.filter((w) => w.week > upToWeek - 2);
+    const recent = last2.length ? last2.reduce((a, w) => a + w.score, 0) / last2.length : avg;
+    return { teamId: t.id, name: t.name, wins, losses: gp - wins, winPct: gp ? wins / gp : 0, avg, recent, gp };
+  });
+  const range = (k) => { const v = rows.map((r) => r[k]); return [Math.min(...v), Math.max(...v)]; };
+  const [aMin, aMax] = range("avg");
+  const [rMin, rMax] = range("recent");
+  const norm = (x, mn, mx) => (mx > mn ? (x - mn) / (mx - mn) : 0.5);
+  for (const r of rows) {
+    r.power = n2(100 * (0.40 * r.winPct + 0.35 * norm(r.avg, aMin, aMax) + 0.25 * norm(r.recent, rMin, rMax)));
+    r.avg = n2(r.avg);
+    r.recent = n2(r.recent);
+  }
+  return rows.sort((a, b) => b.power - a.power);
+}
+
+// Parse an authored ranking file: intro (before first heading) + ordered team
+// blurbs. The ORDER of `### <Team>` headings IS the ranking. Each heading is
+// resolved to a team by matching its current name (rename-safe via teamId).
+function parseRankings(md, teamList) {
+  const intro = [];
+  const sections = [];
+  let cur = null;
+  for (const ln of md.split("\n")) {
+    if (/^#{2,3}\s+/.test(ln)) { cur = { heading: ln.replace(/^#{2,3}\s+/, "").replace(/^\d+\.\s*/, "").trim(), body: [] }; sections.push(cur); }
+    else if (/^#\s+/.test(ln)) { /* title: ignore */ }
+    else if (cur) cur.body.push(ln);
+    else intro.push(ln);
+  }
+  const order = [];
+  const used = new Set();
+  for (const s of sections) {
+    const t = teamList.find((t) => !used.has(t.id) && s.heading.includes(t.name));
+    if (t) { used.add(t.id); order.push({ teamId: t.id, blurb: s.body.join("\n").trim() }); }
+  }
+  return { intro: intro.join("\n").trim(), order };
+}
+
 async function main() {
   if (!ESPN_S2 || !SWID) {
     console.error("ERROR: set ESPN_S2 and SWID in .env.espn");
@@ -333,6 +380,75 @@ async function main() {
     .map((wk) => ({ week: wk.week, intro: wk.intro }))
     .sort((a, b) => b.week - a.week);
 
+  // ---- Power Rankings ----
+  const teamList = Object.values(teams);
+  const teamById = Object.fromEntries(teamList.map((t) => [t.id, t]));
+
+  // --rank-scaffold N: print a ready-to-fill ranking template, pre-ordered by power score.
+  const rankScaffold = process.argv.includes("--rank-scaffold")
+    ? parseInt(process.argv[process.argv.indexOf("--rank-scaffold") + 1], 10) : null;
+  if (rankScaffold) {
+    if (!completedWeeks.includes(rankScaffold)) { console.error(`Week ${rankScaffold} isn't complete yet.`); process.exit(1); }
+    const seed = computePowerScores(teamList, rankScaffold);
+    const out = [`Write your Week ${rankScaffold} power rankings intro here.`, "",
+      `<!-- Teams are pre-sorted by power score. Reorder the sections to set your ranking. -->`, ""];
+    seed.forEach((r, i) => {
+      out.push(`### ${r.name}`);
+      out.push(`(${r.wins}-${r.losses}, avg ${r.avg}, power ${r.power}) Your take here…`);
+      out.push("");
+    });
+    process.stdout.write(out.join("\n"));
+    return;
+  }
+
+  // Read authored ranking files and build per-week rankings with movement arrows.
+  const rankingMd = {};
+  try {
+    for (const f of readdirSync("rankings").filter((f) => /^week-\d+\.md$/.test(f))) {
+      rankingMd[parseInt(f.match(/\d+/)[0], 10)] = readFileSync(path.join("rankings", f), "utf-8");
+    }
+  } catch {}
+
+  // Rank-order map (teamId -> index) for any completed week. Uses the authored
+  // ranking if one exists, otherwise the computed power-score order for that week
+  // so movement arrows work even when the prior week was a recap, not a ranking.
+  const rankOrderForWeek = (wkNum) => {
+    if (rankingMd[wkNum]) {
+      const { order } = parseRankings(rankingMd[wkNum], teamList);
+      return Object.fromEntries(order.map((o, i) => [o.teamId, i]));
+    }
+    return Object.fromEntries(computePowerScores(teamList, wkNum).map((r, i) => [r.teamId, i]));
+  };
+
+  const rankedWeeks = Object.keys(rankingMd).map(Number).sort((a, b) => a - b);
+  const powerRankings = [];
+  for (const wkNum of rankedWeeks) {
+    const { intro, order } = parseRankings(rankingMd[wkNum], teamList);
+    const seedByTeam = Object.fromEntries(computePowerScores(teamList, wkNum).map((r) => [r.teamId, r]));
+    // movement vs the previous completed week (authored order if it exists, else power order)
+    const prevCompleted = completedWeeks.filter((w) => w < wkNum).pop();
+    const prevRanks = prevCompleted ? rankOrderForWeek(prevCompleted) : null;
+    // this week's score for each team
+    const wkData = weeks.find((w) => w.week === wkNum);
+    const scoreByTeam = {};
+    if (wkData) for (const g of wkData.games) for (const s of g.sides) scoreByTeam[s.teamId] = s.total;
+    const teamsOut = order.map((o, i) => {
+      const t = teamById[o.teamId];
+      const seed = seedByTeam[o.teamId] || {};
+      const prev = prevRanks ? prevRanks[o.teamId] : undefined;
+      const movement = prev === undefined ? null : prev - i; // +ve = moved up
+      return {
+        rank: i + 1, teamId: o.teamId, name: t.name, owner: t.owner,
+        wins: seed.wins ?? t.wins, losses: seed.losses ?? t.losses,
+        avg: seed.avg ?? t.avgScore, powerScore: seed.power ?? 0,
+        weekScore: scoreByTeam[o.teamId] ?? null,
+        movement, blurb: o.blurb,
+      };
+    });
+    powerRankings.push({ week: wkNum, intro, teams: teamsOut });
+  }
+  powerRankings.sort((a, b) => b.week - a.week);
+
   const out = {
     league: { id: LEAGUE_ID, name: leagueName, season: SEASON, currentWeek, completedWeeks },
     scrapedAt: new Date().toISOString(),
@@ -342,6 +458,7 @@ async function main() {
     draft,
     records,
     recaps,
+    powerRankings,
   };
 
   mkdirSync("public", { recursive: true });
@@ -349,7 +466,7 @@ async function main() {
   console.log(`Built public/fantasy-data.json`);
   console.log(`  League: ${leagueName} (${SEASON})`);
   console.log(`  Completed weeks: ${completedWeeks.join(", ") || "none"} | current: ${currentWeek}`);
-  console.log(`  Teams: ${Object.keys(teams).length} | Matchups: ${allMatchups.length} | Draft picks: ${draft.length} | Recaps: ${recaps.length}`);
+  console.log(`  Teams: ${Object.keys(teams).length} | Matchups: ${allMatchups.length} | Draft picks: ${draft.length} | Recaps: ${recaps.length} | Rankings: ${powerRankings.length}`);
 }
 
 main().catch((e) => {

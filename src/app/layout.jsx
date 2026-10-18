@@ -22,16 +22,6 @@ export default function RootLayout({ children }) {
             flexWrap: "wrap",
           }}
         >
-          <a
-            href="/"
-            style={{
-              fontSize: "28px",
-              textDecoration: "none",
-              filter: "drop-shadow(0 1px 2px rgba(0,0,0,0.4))",
-            }}
-          >
-            🏈
-          </a>
           <div style={{ flex: 1, minWidth: "200px" }}>
             <h1 className="aero-title" style={{ margin: 0, fontSize: "20px" }}>
               <a href="/" style={{ color: "inherit", textDecoration: "none" }}>
@@ -52,6 +42,9 @@ export default function RootLayout({ children }) {
           <nav style={{ display: "flex", gap: "10px", flexWrap: "wrap" }}>
             <a href="/" className="gloss-btn">
               Standings
+            </a>
+            <a href="/rankings" className="gloss-btn">
+              Power Rankings
             </a>
             <a href="/recaps" className="gloss-btn">
               Recaps

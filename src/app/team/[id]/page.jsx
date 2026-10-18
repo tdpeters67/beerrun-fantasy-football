@@ -45,7 +45,7 @@ export default function TeamPage({ params }) {
 
       {/* Weekly scores chart */}
       {team.weeklyScores.length > 0 && (
-        <Panel title="Weekly Scores" icon="📊">
+        <Panel title="Weekly Scores">
           <div style={{ display: "flex", alignItems: "flex-end", gap: "8px", height: "170px" }}>
             {team.weeklyScores.map((w) => (
               <div key={w.week} style={{ flex: 1, display: "flex", flexDirection: "column", alignItems: "center", height: "100%", justifyContent: "flex-end" }}>
@@ -64,7 +64,7 @@ export default function TeamPage({ params }) {
 
       {/* Schedule / results */}
       {team.weeklyScores.length > 0 && (
-        <Panel title="Results" icon="🗓️">
+        <Panel title="Results">
           <table style={{ width: "100%", borderCollapse: "collapse", fontSize: "14px" }}>
             <thead><tr><th style={th}>Wk</th><th style={th}>Result</th><th style={th}>Score</th><th style={th}>Opponent</th></tr></thead>
             <tbody>
@@ -83,7 +83,7 @@ export default function TeamPage({ params }) {
 
       {/* Latest roster */}
       {starters.length > 0 && (
-        <Panel title={`Latest Lineup · Week ${Math.max(...data.league.completedWeeks, 0)}`} icon="👥">
+        <Panel title={`Latest Lineup · Week ${Math.max(...data.league.completedWeeks, 0)}`}>
           <RosterTable players={starters} label="Starters" />
           {bench.length > 0 && <div style={{ marginTop: "16px" }}><RosterTable players={bench} label="Bench" dim /></div>}
         </Panel>
@@ -91,7 +91,7 @@ export default function TeamPage({ params }) {
 
       {/* Draft */}
       {draftPicks.length > 0 && (
-        <Panel title="Draft Picks" icon="📋">
+        <Panel title="Draft Picks">
           <table style={{ width: "100%", borderCollapse: "collapse", fontSize: "14px" }}>
             <thead><tr><th style={th}>Rd.Pk</th><th style={th}>Overall</th><th style={th}>Player</th><th style={th}>Pos</th><th style={th}>Wk 1</th></tr></thead>
             <tbody>

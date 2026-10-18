@@ -4,9 +4,9 @@ import { Panel } from "../lib/Panel";
 import { C, card, th, td, aquaGloss } from "../lib/theme";
 
 export default function Home() {
-  const { league, teams, weeks, recaps } = data;
+  const { league, teams, weeks, powerRankings } = data;
   const latestWeek = weeks[weeks.length - 1];
-  const latestRecap = recaps?.[0];
+  const latestRanking = powerRankings?.[0];
 
   return (
     <>
@@ -21,21 +21,25 @@ export default function Home() {
         </p>
       </section>
 
-      {/* Latest recap teaser */}
-      {latestRecap && (
-        <Link href={`/recaps/${latestRecap.week}`} style={{ textDecoration: "none" }}>
+      {/* Latest power ranking teaser */}
+      {latestRanking && (
+        <Link href={`/rankings/${latestRanking.week}`} style={{ textDecoration: "none" }}>
           <section style={{ ...card, borderLeft: `3px solid ${C.gold}`, cursor: "pointer" }}>
             <div style={{ fontSize: "12px", color: C.gold, textTransform: "uppercase", letterSpacing: "0.5px" }}>
-              📰 Latest Recap · Week {latestRecap.week}
+              Power Rankings · Week {latestRanking.week}
             </div>
-            <p style={{ color: C.text, margin: "8px 0 4px" }}>{firstSentence(latestRecap.intro)}</p>
-            <span style={{ color: C.blue, fontSize: "13px" }}>Read the full recap →</span>
+            <p style={{ color: C.text, margin: "8px 0 6px" }}>
+              <strong style={{ color: C.gold }}>1. {latestRanking.teams[0]?.name}</strong>
+              {latestRanking.teams[1] ? `  ·  2. ${latestRanking.teams[1].name}` : ""}
+              {latestRanking.teams[2] ? `  ·  3. ${latestRanking.teams[2].name}` : ""}
+            </p>
+            <span style={{ color: C.blue, fontSize: "13px" }}>See the full board →</span>
           </section>
         </Link>
       )}
 
       {/* Standings */}
-      <Panel title="Standings" icon="🏆">
+      <Panel title="Standings">
         <div style={{ overflowX: "auto" }}>
           <table style={{ width: "100%", borderCollapse: "collapse", fontSize: "14px" }}>
             <thead>
@@ -72,7 +76,7 @@ export default function Home() {
 
       {/* Latest scoreboard */}
       {latestWeek && (
-        <Panel title={`Week ${latestWeek.week} Scoreboard`} icon="📅">
+        <Panel title={`Week ${latestWeek.week} Scoreboard`}>
           <div style={{ display: "grid", gridTemplateColumns: "repeat(auto-fill, minmax(280px, 1fr))", gap: "12px" }}>
             {[...latestWeek.games].sort((a, b) => b.combined - a.combined).map((g, j) => (
               <div key={j} style={{ background: C.panelAlt, borderRadius: "8px", padding: "12px 16px", border: `1px solid ${C.border}` }}>
@@ -95,11 +99,4 @@ function Row({ name, score, won }) {
       <span style={{ fontWeight: won ? 700 : 400 }}>{score}</span>
     </div>
   );
-}
-
-function firstSentence(text) {
-  const body = (text || "").split("\n").find((l) => l.trim() && !l.startsWith("#")) || "";
-  const clean = body.replace(/\*\*/g, "").replace(/\*/g, "");
-  const dot = clean.indexOf(". ");
-  return dot > 0 ? clean.slice(0, dot + 1) : clean.slice(0, 160);
 }

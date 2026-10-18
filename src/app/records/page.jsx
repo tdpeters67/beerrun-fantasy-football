@@ -12,7 +12,7 @@ export default function RecordsPage() {
       <p style={{ color: C.dim, marginTop: 0 }}>Season {data.league.season} · through Week {Math.max(...data.league.completedWeeks, 0)}</p>
 
       <Table
-        title="🔥 Top Team Weeks"
+        title="Top Team Weeks"
         cols={["#", "Team", "Score", "Week", "Opponent"]}
         rows={(r.highestTeamWeeks || []).map((a, i) => [
           i + 1, a.team, <b style={{ color: C.gold }}>{a.score}</b>, `Wk ${a.week}`, `${a.opp} (${a.oppScore})`,
@@ -20,7 +20,7 @@ export default function RecordsPage() {
       />
 
       <Table
-        title="🧊 Lowest Team Weeks"
+        title="Lowest Team Weeks"
         cols={["#", "Team", "Score", "Week", "Opponent"]}
         rows={(r.lowestTeamWeeks || []).map((a, i) => [
           i + 1, a.team, <b style={{ color: C.red }}>{a.score}</b>, `Wk ${a.week}`, `${a.opp} (${a.oppScore})`,
@@ -28,7 +28,7 @@ export default function RecordsPage() {
       />
 
       <Table
-        title="⭐ Top Individual Performances"
+        title="Top Individual Performances"
         cols={["#", "Player", "Pos", "Pts", "Team", "Week"]}
         rows={(r.topPerformers || []).map((p, i) => [
           i + 1, p.name, <span style={{ color: posColor(p.pos), fontWeight: 600 }}>{p.pos}</span>,
@@ -37,7 +37,7 @@ export default function RecordsPage() {
       />
 
       <Table
-        title="🪦 Biggest Busts (under projection)"
+        title="Biggest Busts (under projection)"
         cols={["#", "Player", "Pos", "Actual", "Proj", "Missed by", "Team"]}
         rows={(r.biggestBusts || []).map((p, i) => [
           i + 1, p.name, <span style={{ color: posColor(p.pos), fontWeight: 600 }}>{p.pos}</span>,
@@ -46,7 +46,7 @@ export default function RecordsPage() {
       />
 
       <Table
-        title="💥 Biggest Blowouts"
+        title="Biggest Blowouts"
         cols={["#", "Winner", "Score", "Loser", "Score", "Margin", "Week"]}
         rows={(r.blowouts || []).map((m, i) => [
           i + 1, m.winner, <span style={{ color: C.green }}>{m.winnerScore}</span>, m.loser,
@@ -55,7 +55,7 @@ export default function RecordsPage() {
       />
 
       <Table
-        title="😰 Closest Games"
+        title="Closest Games"
         cols={["#", "Winner", "Score", "Loser", "Score", "Margin", "Week"]}
         rows={(r.closest || []).map((m, i) => [
           i + 1, m.winner, <span style={{ color: C.green }}>{m.winnerScore}</span>, m.loser,
@@ -71,9 +71,8 @@ export default function RecordsPage() {
 }
 
 function Table({ title, cols, rows }) {
-  const [icon, ...rest] = title.split(" ");
   return (
-    <Panel title={rest.join(" ")} icon={icon}>
+    <Panel title={title}>
       {rows.length === 0 ? (
         <p style={{ color: C.dim, fontSize: "14px" }}>Not enough data yet.</p>
       ) : (
